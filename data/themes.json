@@ -1,0 +1,1391 @@
+{
+    "astrolabe": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Astrolabe-1.0-rc.2.zip",
+                "date": "2014-01-14",
+                "info": {
+                    "author": "Scholars' Lab",
+                    "title": "Astrolabe",
+                    "description": "A theme based on the design for neatline.org",
+                    "license": "Apache 2.0",
+                    "website": "http:\/\/github.com\/scholarslab\/astrolabe",
+                    "support_link": "http:\/\/github.com\/scholarslab\/astrolabe\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "1.0-rc.2"
+                }
+            }
+        ]
+    },
+    "avantgarde": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Avantgarde-1.zip",
+                "date": "2015-02-24",
+                "info": {
+                    "author": "Edward M. @ Emedara Studio",
+                    "title": "Avantgarde",
+                    "description": "Modern responsive theme based on Berlin.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/emedara.com",
+                    "support_link": "https:\/\/github.com\/Edward-M\/omeka-avantgarde\/issues",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "1"
+                }
+            }
+        ]
+    },
+    "berlin": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-2.4.zip",
+                "date": "2017-01-31",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.4"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-2.3.1.zip",
+                "date": "2016-01-21",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.3.1"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-2.3.zip",
+                "date": "2015-03-19",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.3"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-2.2.1.zip",
+                "date": "2015-01-07",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.2.1"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-2.2.zip",
+                "date": "2014-07-02",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.2"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-2.1.3.zip",
+                "date": "2013-10-10",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "version": "2.1.3"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-2.1.2.zip",
+                "date": "2013-09-04",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "version": "2.1.2"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-2.1.1.zip",
+                "date": "2013-08-27",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "version": "2.1.1"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-2.1.zip",
+                "date": "2013-07-11",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.1"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-2.0.zip",
+                "date": "2013-04-25",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-1.5.zip",
+                "date": "2013-03-19",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "1.5"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Berlin-1.3.zip",
+                "date": "2011-09-22",
+                "info": {
+                    "author": "Ken Albers & Jeremy Boggs",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPL",
+                    "website": "http:\/\/omeka.org",
+                    "omeka_minimum_version": "1.3",
+                    "omeka_tested_up_to": "1.3",
+                    "version": "1.3",
+                    "tags": "minimal, modern, white, blue, orange, sans-serif",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/berlin-1.2-1.21.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Ken Albers & Jeremy Boggs",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPL",
+                    "website": "omeka.org",
+                    "omeka_minimum_version": "1.0",
+                    "omeka_tested_up_to": "1.2",
+                    "version": "1.2",
+                    "tags": "minimal, modern, white, blue, orange, sans-serif"
+                }
+            }
+        ]
+    },
+    "bigpicture": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Big-Picture-1.0.zip",
+                "date": "2017-05-02",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Big Picture",
+                    "description": "An image-centric theme geared towards art historians and students.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/rrchnm.org",
+                    "support_link": "http:\/\/github.com\/omeka\/theme-bigpicture",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "1.0",
+                    "tags": "serif,image-heavy"
+                }
+            }
+        ]
+    },
+    "bigstuff": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/BigStuff-1.0.zip",
+                "date": "2016-01-20",
+                "info": {
+                    "author": "Doug Palmer",
+                    "title": "BigStuff",
+                    "description": "Theme for use with conference papers, based on Berlin.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/github.org\/charvolant\/bigstuff",
+                    "support_link": "http:\/\/github.org\/charvolant\/bigstuff\/issues",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "1.0"
+                }
+            }
+        ]
+    },
+    "centerrow": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Center-Row-1.0.zip",
+                "date": "2017-05-02",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Center Row",
+                    "description": "Image-oriented theme for Omeka. This theme does not support nested top navigation.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/rrchnm.org",
+                    "support_link": "http:\/\/github.com\/omeka\/theme-centerrow\/wiki",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_tested_up_to": "2.5",
+                    "version": "1.0"
+                }
+            }
+        ]
+    },
+    "default": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.4.zip",
+                "date": "2017-01-31",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.4",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.2.1.zip",
+                "date": "2015-01-07",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.2.1",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.2.zip",
+                "date": "2014-07-02",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.2",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.1.1.zip",
+                "date": "2013-12-05",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "version": "2.1.1",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.1.zip",
+                "date": "2013-08-27",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "version": "2.1",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.0.2.zip",
+                "date": "2013-04-25",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0.2",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.0.1.zip",
+                "date": "2013-02-21",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0.1",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.0.zip",
+                "date": "2013-01-24",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0",
+                    "tags": "black, white, serif"
+                }
+            }
+        ]
+    },
+    "emiglio": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Emiglio-2.2.zip",
+                "date": "2017-01-31",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot. A simple, minimal theme with reds and greens.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_tested_up_to": "2.5",
+                    "version": "2.2"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Emiglio-2.1.1.zip",
+                "date": "2016-04-05",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot. A simple, minimal theme with reds and greens.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_tested_up_to": "2.3",
+                    "version": "2.1.1"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Emiglio-2.1.zip",
+                "date": "2015-03-19",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot. A simple, minimal theme with reds and greens.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_tested_up_to": "2.3",
+                    "version": "2.1"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Emiglio-2.0.3.zip",
+                "date": "2015-01-07",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot. A simple, minimal theme with reds and greens.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_tested_up_to": "2.2",
+                    "version": "2.0.3"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Emiglio-2.0.2.zip",
+                "date": "2014-07-10",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot. A simple, minimal theme with reds and greens.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_tested_up_to": "2.2",
+                    "version": "2.0.2"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/emiglio-1.2.zip",
+                "date": "2011-07-25",
+                "info": {
+                    "author": "Jeremy Boggs",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot, a simple, minimal theme with reds and blues",
+                    "license": "GPL",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "1.3",
+                    "omeka_tested_up_to": "1.4",
+                    "version": "1.2",
+                    "tags": "minimal, red, blue, sans-serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/emiglio-1.1-1.1.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Jeremy Boggs",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot, a simple, minimal theme with reds and blues",
+                    "license": "GPL",
+                    "website": "http:\/\/omeka.org",
+                    "omeka_minimum_version": "1.0",
+                    "omeka_tested_up_to": "1.1",
+                    "version": "1.1",
+                    "tags": "minimal, red, blue, sans-serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/emiglio-1.0-1.0.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Jeremy Boggs",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot, a simple, minimal theme with reds and blues",
+                    "license": "GPL",
+                    "website": "http:\/\/omeka.org",
+                    "omeka_minimum_version": "1.0",
+                    "omeka_tested_up_to": "1.0",
+                    "version": "1.0",
+                    "tags": "minimal, red, blue, sans-serif"
+                }
+            }
+        ]
+    },
+    "minimalist": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Minimalist-2.3.zip",
+                "date": "2017-01-31",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Minimalist",
+                    "description": "Clean lines, architectural.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.3",
+                    "tags": "lines, minimal, architectural, purple, white, mobile-first, sans-serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Minimalist-2.2.zip",
+                "date": "2016-06-07",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Minimalist",
+                    "description": "Clean lines, architectural.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.2",
+                    "tags": "lines, minimal, architectural, purple, white, mobile-first, sans-serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Minimalist-2.1.zip",
+                "date": "2015-03-19",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Minimalist",
+                    "description": "Clean lines, architectural.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.1",
+                    "tags": "lines, minimal, architectural, purple, white, mobile-first, sans-serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Minimalist-2.0.1.zip",
+                "date": "2015-01-07",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Minimalist",
+                    "description": "Clean lines, architectural.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.0.1",
+                    "tags": "lines, minimal, architectural, purple, white, mobile-first, sans-serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Minimalist-2.0.zip",
+                "date": "2014-07-02",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Minimalist",
+                    "description": "Clean lines, architectural.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.0",
+                    "tags": "lines, minimal, architectural, purple, white, mobile-first, sans-serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Minimalist-Omeka-Theme-1.2.zip",
+                "date": "2011-09-22",
+                "info": {
+                    "author": "Laura Veprek",
+                    "title": "Minimalist Omeka Theme",
+                    "description": "Clean lines, architectural.",
+                    "license": "GPL",
+                    "website": "http:\/\/veprek.com",
+                    "omeka_minimum_version": "1.3",
+                    "omeka_tested_up_to": "1.3",
+                    "version": "1.2",
+                    "tags": "lines, minimal, architectural, purple, tan, sans-serif",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/minimalist-1.2-1.1.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Laura Veprek",
+                    "title": "Minimalist Omeka Theme",
+                    "description": "Clean lines, architectural.",
+                    "license": "GPL",
+                    "website": "veprek.com",
+                    "omeka_minimum_version": "1.0",
+                    "omeka_tested_up_to": "1.2",
+                    "version": "1.1",
+                    "tags": "lines, minimal, architectural, purple, tan, sans-serif"
+                }
+            }
+        ]
+    },
+    "neatscape": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Neatscape-1.0-rc.2.zip",
+                "date": "2014-01-14",
+                "info": {
+                    "author": "Scholars' Lab",
+                    "title": "Neatscape",
+                    "description": "A theme inspired by the design for neatline.org",
+                    "license": "Apache 2.0",
+                    "website": "http:\/\/github.com\/scholarslab\/neatscape",
+                    "support_link": "http:\/\/github.com\/scholarslab\/neatscape",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "1.0-rc.2"
+                }
+            }
+        ]
+    },
+    "omeka-foundation": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Omeka-Foundation-2.0.zip",
+                "date": "2013-08-27",
+                "info": {
+                    "author": "Kate Lomax",
+                    "title": "Omeka Foundation",
+                    "description": "A grid-based starter theme using the Zurb Foundation CSS framework",
+                    "license": "GPL",
+                    "website": "https:\/\/github.com\/katel\/omeka-foundation",
+                    "support_link": "https:\/\/github.com\/katel\/omeka-foundation\/issues",
+                    "omeka_minimum_version": "2.0-dev",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0",
+                    "tags": "grid, minimalist, white, foundation, starter"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Omeka-Foundation-1.3.zip",
+                "date": "2012-09-04",
+                "info": {
+                    "author": "Kate Lomax",
+                    "title": "Omeka Foundation",
+                    "description": "A grid-based starter theme using the Zurb Foundation CSS framework",
+                    "license": "GPL",
+                    "website": "https:\/\/github.com\/katel\/omeka-foundation",
+                    "support_link": "https:\/\/github.com\/katel\/omeka-foundation\/issues",
+                    "omeka_minimum_version": "1.3",
+                    "omeka_target_version": "1.5",
+                    "version": "1.3",
+                    "tags": "grid, minimalist, white, foundation, starter"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Omeka-Foundation-1.zip",
+                "date": "2012-04-15",
+                "info": {
+                    "author": "Kate Lomax",
+                    "title": "Omeka Foundation",
+                    "description": "A grid-based starter theme using the Zurb Foundation CSS framework",
+                    "license": "GPL",
+                    "website": "https:\/\/github.com\/katel\/omeka-foundation",
+                    "support_link": "https:\/\/github.com\/katel\/omeka-foundation\/issues",
+                    "omeka_minimum_version": "1.3",
+                    "omeka_target_version": "1.5",
+                    "version": "1",
+                    "tags": "grid, minimalist, white, foundation, starter"
+                }
+            }
+        ]
+    },
+    "rhythm": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Rhythm-2.2.zip",
+                "date": "2017-01-31",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Rhythm",
+                    "description": "An energetic two-column theme, with different style sheet options",
+                    "license": "GPL",
+                    "website": "omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.2",
+                    "tags": "lines, sans-serif, configuration"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Rhythm-2.1.zip",
+                "date": "2015-03-19",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Rhythm",
+                    "description": "An energetic two-column theme, with different style sheet options",
+                    "license": "GPL",
+                    "website": "omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.1",
+                    "tags": "lines, sans-serif, configuration"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Rhythm-2.0.1.zip",
+                "date": "2015-01-07",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Rhythm",
+                    "description": "An energetic two-column theme, with different style sheet options",
+                    "license": "GPL",
+                    "website": "omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.0.1",
+                    "tags": "lines, sans-serif, configuration"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Rhythm-2.0.zip",
+                "date": "2014-07-02",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Rhythm",
+                    "description": "An energetic two-column theme, with different style sheet options",
+                    "license": "GPL",
+                    "website": "omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.0",
+                    "tags": "lines, sans-serif, configuration"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Rhythm-1.3.zip",
+                "date": "2012-02-28",
+                "info": {
+                    "author": "Chris Raymond",
+                    "title": "Rhythm",
+                    "description": "An energetic two-column theme, with different style sheet options",
+                    "license": "GPL",
+                    "website": "omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "1.5",
+                    "omeka_target_version": "1.5",
+                    "version": "1.3",
+                    "tags": "lines, sans-serif, configuration"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Rhythm-1.2.zip",
+                "date": "2011-09-22",
+                "info": {
+                    "author": "Chris Raymond",
+                    "title": "Rhythm",
+                    "description": "An energetic two-column theme, with different style sheet options",
+                    "license": "GPL",
+                    "website": "http:\/\/omeka.org",
+                    "omeka_minimum_version": "1.4",
+                    "omeka_tested_up_to": "1.4",
+                    "version": "1.2",
+                    "tags": "lines, sans-serif, configuration",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/rhythm-1.3-1.1.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Chris Raymond",
+                    "title": "Rhythm",
+                    "description": "An energetic two-column theme, with different style sheet options",
+                    "license": "GPL",
+                    "website": "omeka.org",
+                    "omeka_minimum_version": "1.3",
+                    "omeka_tested_up_to": "1.3",
+                    "version": "1.1",
+                    "tags": "lines, sans-serif, configuration"
+                }
+            }
+        ]
+    },
+    "santa-fe": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Santa-Fe-2.2.zip",
+                "date": "2017-01-31",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.2"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Santa-Fe-2.1.zip",
+                "date": "2015-03-19",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.1"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Santa-Fe-2.0.1.zip",
+                "date": "2015-01-07",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.0.1"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Santa-Fe-2.0.zip",
+                "date": "2014-07-02",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.0"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Santa-Fe-1.2.zip",
+                "date": "2011-09-22",
+                "info": {
+                    "author": "Ken Albers",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPL",
+                    "website": "http:\/\/omeka.org",
+                    "omeka_minimum_version": "1.3",
+                    "omeka_tested_up_to": "1.4",
+                    "version": "1.2",
+                    "tags": "earthy, tan, green, orange",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/santa-fe-1.1-1.1.zip",
+                "date": "2011-07-24",
+                "info": {
+                    "author": "Ken Albers",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPL",
+                    "website": "omeka.org",
+                    "omeka_minimum_version": "1.0",
+                    "omeka_tested_up_to": "1.1",
+                    "version": "1.1",
+                    "tags": "earthy, tan, green, orange"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/santa-fe-1.0-1.0.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Ken Albers",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPL",
+                    "website": "omeka.org",
+                    "omeka_minimum_version": "1.0",
+                    "omeka_tested_up_to": "1.0",
+                    "version": "1.0",
+                    "tags": "earthy, tan, green, orange"
+                }
+            }
+        ]
+    },
+    "seasons": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.4.zip",
+                "date": "2017-01-31",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.4",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.3.1.zip",
+                "date": "2016-01-21",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.3.1",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.3.zip",
+                "date": "2015-03-19",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.3",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.2.1.zip",
+                "date": "2015-01-07",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.2.1",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.2.zip",
+                "date": "2014-07-02",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "2.2",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.1.6.zip",
+                "date": "2013-12-04",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "version": "2.1.6",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.1.5.zip",
+                "date": "2013-10-10",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "version": "2.1.5",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.1.4.zip",
+                "date": "2013-09-04",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "version": "2.1.4",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.1.3.zip",
+                "date": "2013-08-27",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "version": "2.1.3",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.1.1.zip",
+                "date": "2013-04-25",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.1.1",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.1.zip",
+                "date": "2013-04-04",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.1",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.0.1.zip",
+                "date": "2013-02-21",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0.1",
+                    "tags": "yellow, blue, summer, season, fall, orange, green"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-2.0.zip",
+                "date": "2013-01-24",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0",
+                    "tags": "yellow, blue, summer, season, fall, orange, green"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Seasons-1.3.zip",
+                "date": "2012-02-28",
+                "info": {
+                    "author": "Jeremy Boggs and Ken Albers",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season.",
+                    "license": "GPL",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "1.5",
+                    "omeka_target_version": "1.5",
+                    "version": "1.3",
+                    "tags": "yellow, blue, summer, season, fall, orange, green"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/seasons-1.3-1.2.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Jeremy Boggs and Ken Albers",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season.",
+                    "license": "GPL",
+                    "website": "http:\/\/omeka.org",
+                    "omeka_minimum_version": "1.3",
+                    "omeka_tested_up_to": "1.4",
+                    "version": "1.2",
+                    "tags": "yellow, blue, summer, season, fall, orange, green"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/seasons-1.3-1.1.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Jeremy Boggs and Ken Albers",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season.",
+                    "license": "GPL",
+                    "website": "http:\/\/omeka.org",
+                    "omeka_minimum_version": "1.3",
+                    "omeka_tested_up_to": "1.3",
+                    "version": "1.1",
+                    "tags": "yellow, blue, summer, season, fall, orange, green"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/seasons-1.2-1.0.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Jeremy Boggs and Ken Albers",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season.",
+                    "license": "GPL",
+                    "website": "http:\/\/omeka.org",
+                    "omeka_minimum_version": "1.2",
+                    "omeka_tested_up_to": "1.2",
+                    "version": "1.0",
+                    "tags": "yellow, blue, summer, season, fall, orange, green"
+                }
+            }
+        ]
+    },
+    "thanksroy": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.3.2.zip",
+                "date": "2016-01-21",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.3.2",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.3.1.zip",
+                "date": "2015-08-21",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.3.1",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-2.3.zip",
+                "date": "2015-03-19",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "2.3",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Thanks-Roy-1.5.zip",
+                "date": "2012-02-28",
+                "info": {
+                    "author": "Jeremy Boggs",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig.",
+                    "license": "GPL",
+                    "website": "thanksroy.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "1.5",
+                    "omeka_target_version": "1.5",
+                    "version": "1.5",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/thanksroy-1.4-1.4.zip",
+                "date": "2011-07-23",
+                "info": {
+                    "author": "Jeremy Boggs",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig.",
+                    "license": "GPL",
+                    "website": "thanksroy.org",
+                    "omeka_minimum_version": "1.4",
+                    "omeka_tested_up_to": "1.4",
+                    "version": "1.4",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/thanksroy-1.3-1.3.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Jeremy Boggs",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig.",
+                    "license": "GPL",
+                    "website": "thanksroy.org",
+                    "omeka_minimum_version": "1.3",
+                    "omeka_tested_up_to": "1.3",
+                    "version": "1.3",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/2011\/07\/thanksroy-1.2-1.2.zip",
+                "date": "2011-07-22",
+                "info": {
+                    "author": "Jeremy Boggs",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig.",
+                    "license": "GPL",
+                    "website": "thanksroy.org",
+                    "omeka_minimum_version": "1.0",
+                    "omeka_tested_up_to": "1.2",
+                    "version": "1.2",
+                    "tags": "black, white, serif"
+                }
+            }
+        ]
+    },
+    "the-audio": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/The-Audio-1.0.zip",
+                "date": "2013-04-30",
+                "info": {
+                    "author": "Pop Up Archive based on Minimalist by Laura Veprek",
+                    "title": "The Audio",
+                    "description": "Omeka 2.0 theme optimized for sharing your sound.",
+                    "license": "GPL",
+                    "website": "popuparchive.org",
+                    "support_link": "github.com\/popuparchive\/TheAudio\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.0",
+                    "version": "1.0",
+                    "tags": "minimal, audio, customizable"
+                }
+            }
+        ]
+    },
+    "thedaily": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/The-Daily-1.1.zip",
+                "date": "2017-05-02",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "The Daily",
+                    "description": "Image-oriented theme for Omeka.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/rrchnm.org",
+                    "support_link": "http:\/\/github.com\/omeka\/theme-thedaily\/wiki",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_tested_up_to": "2.5",
+                    "version": "1.1"
+                }
+            }
+        ]
+    }
+}

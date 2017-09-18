@@ -1,0 +1,27 @@
+{
+    "name": "biblibre/omeka-addons-index",
+    "description": "Index of addons published on omeka.org",
+    "type": "project",
+    "keywords": ["omeka"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Julian Maurice",
+            "email": "julian.maurice@biblibre.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "julian.maurice@biblibre.com",
+        "issues": "https://github.com/biblibre/omeka-addons-index/issues"
+    },
+    "require": {
+        "ext-zip": "*",
+        "fabpot/goutte": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "OmekaAddonsIndex\\": "src/"
+        }
+    }
+}
