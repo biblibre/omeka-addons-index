@@ -2209,6 +2209,21 @@
     "FacetByMetadata": {
         "versions": [
             {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Facet-By-Metadata-1.0.3.zip",
+                "date": "2017-10-14",
+                "info": {
+                    "name": "Facet By Metadata",
+                    "author": "Patrick Murray-John",
+                    "description": "Create checkboxes for filtering searches by matching metadata values.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/add-ons\/plugins\/facet-by-metadata",
+                    "support_link": "https:\/\/github.com\/patrickmj\/FacetByMetadata\/issues",
+                    "version": "1.0.3",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5.1"
+                }
+            },
+            {
                 "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Facet-By-Metadata-1.0.2.zip",
                 "date": "2015-03-30",
                 "info": {
