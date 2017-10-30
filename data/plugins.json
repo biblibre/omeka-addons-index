@@ -2900,11 +2900,7 @@
                     "omeka_target_version": "2.2",
                     "version": "1.1.5"
                 }
-            }
-        ]
-    },
-    "HistoryLog-master": {
-        "versions": [
+            },
             {
                 "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Item-History-Log-1.1.4.zip",
                 "date": "2014-11-27",
@@ -3540,6 +3536,23 @@
     "Neatline": {
         "versions": [
             {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Neatline-2.6.0.zip",
+                "date": "2017-09-21",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5",
+                    "version": "2.6.0",
+                    "per_page": "50",
+                    "wms_mime": "image\/png"
+                }
+            },
+            {
                 "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Neatline-2.5.3.zip",
                 "date": "2017-09-13",
                 "info": {
@@ -3881,6 +3894,39 @@
                 }
             },
             {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Neatline-1.1.2.zip",
+                "date": "2013-02-20",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot archives, objects, and concepts in space and time.",
+                    "link": "http:\/\/neatline.org",
+                    "version": "1.1.2",
+                    "tags": "geospatial, temporal",
+                    "omeka_minimum_version": "1.5",
+                    "omeka_tested_up_to": "1.5",
+                    "omeka_target_version": "1.5",
+                    "testing_mode": "true",
+                    "saas": "false",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
+                    "license": "Apache License, Version 2.0",
+                    "default_vector_color": "#196aff",
+                    "default_stroke_color": "#000000",
+                    "default_highlight_color": "#ff9600",
+                    "default_vector_opacity": "30",
+                    "default_select_opacity": "40",
+                    "default_stroke_opacity": "100",
+                    "default_graphic_opacity": "80",
+                    "default_stroke_width": "3",
+                    "default_point_radius": "6",
+                    "default_h_percent": "24",
+                    "default_v_percent": "84",
+                    "default_timeline_zoom": "15",
+                    "default_context_band_unit": "decade",
+                    "default_context_band_height": "35"
+                }
+            },
+            {
                 "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Neatline-1.1.1.zip",
                 "date": "2012-10-25",
                 "info": {
@@ -4008,64 +4054,6 @@
                     "default_timeline_zoom": "15",
                     "default_context_band_unit": "decade",
                     "default_context_band_height": "35"
-                }
-            }
-        ]
-    },
-    "Neatline-1.1.2": {
-        "versions": [
-            {
-                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Neatline-1.1.2.zip",
-                "date": "2013-02-20",
-                "info": {
-                    "name": "Neatline",
-                    "author": "Scholars' Lab",
-                    "description": "Plot archives, objects, and concepts in space and time.",
-                    "link": "http:\/\/neatline.org",
-                    "version": "1.1.2",
-                    "tags": "geospatial, temporal",
-                    "omeka_minimum_version": "1.5",
-                    "omeka_tested_up_to": "1.5",
-                    "omeka_target_version": "1.5",
-                    "testing_mode": "true",
-                    "saas": "false",
-                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
-                    "license": "Apache License, Version 2.0",
-                    "default_vector_color": "#196aff",
-                    "default_stroke_color": "#000000",
-                    "default_highlight_color": "#ff9600",
-                    "default_vector_opacity": "30",
-                    "default_select_opacity": "40",
-                    "default_stroke_opacity": "100",
-                    "default_graphic_opacity": "80",
-                    "default_stroke_width": "3",
-                    "default_point_radius": "6",
-                    "default_h_percent": "24",
-                    "default_v_percent": "84",
-                    "default_timeline_zoom": "15",
-                    "default_context_band_unit": "decade",
-                    "default_context_band_height": "35"
-                }
-            }
-        ]
-    },
-    "Neatline-2.6.0": {
-        "versions": [
-            {
-                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Neatline-2.6.0.zip",
-                "date": "2017-09-21",
-                "info": {
-                    "name": "Neatline",
-                    "author": "Scholars' Lab",
-                    "description": "Plot your course in space and time.",
-                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
-                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
-                    "license": "Apache License, Version 2.0",
-                    "omeka_minimum_version": "2.0",
-                    "omeka_target_version": "2.5",
-                    "version": "2.6.0",
-                    "per_page": "50",
-                    "wms_mime": "image\/png"
                 }
             }
         ]
@@ -5011,6 +4999,26 @@
             }
         ]
     },
+    "PdfToc": {
+        "versions": [
+            {
+                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/PDF-TOC-1.0.zip",
+                "date": "2012-10-31",
+                "info": {
+                    "name": "PDF TOC",
+                    "author": "Sylvain Machefert, based on PDF Search, from Roy Rosenzweig Center for History and New Media",
+                    "description": "Extracts Table Of centent from PDF Files.",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "",
+                    "version": "1.0",
+                    "omeka_minimum_version": "1.5",
+                    "omeka_target_version": "1.5",
+                    "tags": "pdf,toc"
+                }
+            }
+        ]
+    },
     "Posters": {
         "versions": [
             {
@@ -5173,11 +5181,7 @@
                     "version": "1.2",
                     "tags": "pbcore, custom element set"
                 }
-            }
-        ]
-    },
-    "ReplaceDcTitle-master": {
-        "versions": [
+            },
             {
                 "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/Replace-DCTitle-in-all-publicadmin-views-1.1.zip",
                 "date": "2013-03-29",
@@ -7138,26 +7142,6 @@
                     "omeka_tested_up_to": "1.2.1",
                     "version": "1.1",
                     "tags": "zotero,import"
-                }
-            }
-        ]
-    },
-    "symac-Plugin-PdfToc-25d8091": {
-        "versions": [
-            {
-                "url": "http:\/\/omeka.org\/wordpress\/wp-content\/uploads\/PDF-TOC-1.0.zip",
-                "date": "2012-10-31",
-                "info": {
-                    "name": "PDF TOC",
-                    "author": "Sylvain Machefert, based on PDF Search, from Roy Rosenzweig Center for History and New Media",
-                    "description": "Extracts Table Of centent from PDF Files.",
-                    "license": "GPLv3",
-                    "link": "",
-                    "support_link": "",
-                    "version": "1.0",
-                    "omeka_minimum_version": "1.5",
-                    "omeka_target_version": "1.5",
-                    "tags": "pdf,toc"
                 }
             }
         ]

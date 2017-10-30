@@ -77,11 +77,10 @@ abstract class Addons
                     // Get addon's directory name and contents of addon.ini
                     $zipArchive = new ZipArchive();
                     $zipArchive->open($zip);
-                    $name = $zipArchive->getNameIndex(0);
-                    $dirname = dirname($name);
-                    $addonDirName = ($dirname === '.') ? $name : $dirname;
-                    $addonDirName = rtrim($addonDirName, '/');
-                    $iniPath = $addonDirName . '/' . $this->iniFilename;
+                    $addonDirName = $this->getAddonDirName($zipArchive);
+                    $topLevelDirName = $this->getTopLevelDirName($zipArchive);
+
+                    $iniPath = $topLevelDirName . '/' . $this->iniFilename;
                     $ini = $zipArchive->getFromName($iniPath);
                     $zipArchive->close();
                     unlink($zip);
@@ -104,6 +103,21 @@ abstract class Addons
         ksort($addons);
 
         file_put_contents($filename, json_encode($addons, JSON_PRETTY_PRINT));
+    }
+
+    protected function getAddonDirName($zipArchive)
+    {
+        return $this->getTopLevelDirName($zipArchive);
+    }
+
+    protected function getTopLevelDirName($zipArchive)
+    {
+        $name = $zipArchive->getNameIndex(0);
+        $dirname = dirname($name);
+        $topLevelDirName = ($dirname === '.') ? $name : $dirname;
+        $topLevelDirName = rtrim($topLevelDirName, '/');
+
+        return $topLevelDirName;
     }
 
     abstract protected function getAddonLinkFromDownloadLink($downloadLink);

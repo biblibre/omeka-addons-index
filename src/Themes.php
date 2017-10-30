@@ -21,7 +21,7 @@ namespace OmekaAddonsIndex;
 
 class Themes extends Addons
 {
-    protected $url = 'https://omeka.org/add-ons/themes';
+    protected $url = 'http://omeka.org/add-ons/themes';
     protected $iniFilename = 'theme.ini';
 
     protected function getAddonLinkFromDownloadLink($downloadLink)
