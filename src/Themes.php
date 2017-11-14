@@ -26,6 +26,6 @@ class Themes extends Addons
 
     protected function getAddonLinkFromDownloadLink($downloadLink)
     {
-        return $downloadLink->parents()->parents()->filter('h2 > a');
+        return $downloadLink->parents()->parents()->filter('h4 > a');
     }
 }

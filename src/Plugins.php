@@ -21,12 +21,12 @@ namespace OmekaAddonsIndex;
 
 class Plugins extends Addons
 {
-    protected $url = 'http://omeka.org/add-ons/plugins';
+    protected $url = 'http://omeka.org/classic/plugins/';
     protected $iniFilename = 'plugin.ini';
 
     protected function getAddonLinkFromDownloadLink($downloadLink)
     {
-        return $downloadLink->parents()->parents()->parents()->filter('h2 > a');
+        return $downloadLink->parents()->parents()->filter('h4 > a');
     }
 
     protected function getAddonDirName($zipArchive)

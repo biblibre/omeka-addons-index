@@ -49,7 +49,7 @@ abstract class Addons
         $client = new Client();
         $root = $client->request('GET', $this->url);
         $downloadLinks = $root
-            ->filter('a.omeka-addons-button');
+            ->filter('.download a');
 
         $addons = [];
         for ($i = 0; $i < count($downloadLinks); ++$i) {
@@ -57,10 +57,10 @@ abstract class Addons
             $addonLink = $this->getAddonLinkFromDownloadLink($downloadLink);
 
             $page = $client->request('GET', $addonLink->link()->getUri());
-            $trs = $page->filter('table.omeka-addons-versions tr');
-            for ($j = 1; $j < count($trs); ++$j){
+            $trs = $page->filter('table.versions tbody tr');
+            for ($j = 0; $j < count($trs); ++$j){
                 $tr = $trs->eq($j);
-                $url = $tr->filter('a')->link()->getUri();
+                $url = $tr->filter('td')->eq(0)->filter('a')->link()->getUri();
 
                 if (array_key_exists($url, $addonsByUrl)) {
                     fwrite(STDERR, "Skipping $url\n");
@@ -86,17 +86,25 @@ abstract class Addons
                     unlink($zip);
 
                     // Release date
-                    $date = $tr->filter('td')->eq(3)->text();
+                    $date = $tr->filter('td')->eq(1)->text();
+                    $date = preg_replace('/\[info\]/', '', $date);
                     $dt = new DateTime($date);
 
-                    $addonVersion = [
-                        'url' => $url,
-                        'date' => $dt->format('Y-m-d'),
-                        'info' => parse_ini_string($ini),
-                    ];
+                    $info = parse_ini_string($ini);
+                    if ($info !== false) {
+                        $addonVersion = [
+                            'url' => $url,
+                            'date' => $dt->format('Y-m-d'),
+                            'info' => $info,
+                        ];
+                    } else {
+                        $addonVersion = null;
+                    }
                 }
 
-                $addons[$addonDirName]['versions'][] = $addonVersion;
+                if (isset($addonVersion)) {
+                    $addons[$addonDirName]['versions'][] = $addonVersion;
+                }
             }
         }
 
