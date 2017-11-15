@@ -152,6 +152,25 @@
             }
         ]
     },
+    "santa-fe": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-santa-fe\/releases\/download\/v2.2\/Santa-Fe-2.2.zip",
+                "date": "2016-12-15",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.2"
+                }
+            }
+        ]
+    },
     "seasons": {
         "versions": [
             {
