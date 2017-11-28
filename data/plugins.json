@@ -355,6 +355,26 @@
             }
         ]
     },
+    "CsvExport": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/utlib\/CsvExport\/releases\/download\/v1.0.1\/CsvExport.zip",
+                "date": "2017-07-28",
+                "info": {
+                    "name": "CSV Export Format",
+                    "author": "University of Toronto Libraries",
+                    "description": "Adds CSV as an item export format. Can optionally work with annotations from IIIF Toolkit with Mirador.",
+                    "version": "1.0.1",
+                    "license": "Apache License 2.0",
+                    "link": "https:\/\/github.com\/utlib\/CsvExport",
+                    "support_link": "https:\/\/github.com\/utlib\/CsvExport\/issues",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.5",
+                    "optional_plugins": "IiifItems"
+                }
+            }
+        ]
+    },
     "CsvImport": {
         "versions": [
             {
@@ -432,6 +452,22 @@
     },
     "DocsViewer": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-DocsViewer\/releases\/download\/v2.2\/DocsViewer-2.2.zip",
+                "date": "2017-11-27",
+                "info": {
+                    "name": "Docs Viewer",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Embeds a Google document viewer into item show pages. PDF documents, PowerPoint presentations, TIFF files, and some Microsoft Word documents are supported.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/DocsViewer_2.0",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "version": "2.2",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "tags": "docs,documents,viewer,google"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-DocsViewer\/releases\/download\/v2.1\/DocsViewer-2.1.zip",
                 "date": "2017-01-05",
@@ -1080,6 +1116,26 @@
             }
         ]
     },
+    "IiifItems": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/utlib\/IiifItems\/releases\/download\/v1.0.0\/IiifItems.zip",
+                "date": "2017-06-26",
+                "info": {
+                    "name": "IIIF Toolkit",
+                    "author": "University of Toronto Libraries",
+                    "description": "Embeds Mirador with a built-in annotator, a manifest generator and importer, Simple Pages shortcodes and Exhibit Builder blocks for a rich IIIF-compliant presentation experience.",
+                    "version": "1.0.0",
+                    "license": "Apache License 2.0",
+                    "link": "https:\/\/github.com\/utlib\/IiifItems",
+                    "support_link": "https:\/\/github.com\/utlib\/IiifItems\/issues",
+                    "optional_plugins": "ExhibitBuilder,SimplePages,Neatline",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.5"
+                }
+            }
+        ]
+    },
     "Import": {
         "versions": [
             {
@@ -1362,6 +1418,238 @@
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.4",
                     "tags": "maintenance"
+                }
+            }
+        ]
+    },
+    "Neatline": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/v2.6.1\/Neatline-2.6.1.zip",
+                "date": "2017-11-22",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5",
+                    "version": "2.6.1",
+                    "per_page": "50",
+                    "wms_mime": "image\/png"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/v2.6.0\/Neatline-2.6.0.zip",
+                "date": "2017-09-19",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5",
+                    "version": "2.6.0",
+                    "per_page": "50",
+                    "wms_mime": "image\/png"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.5.3\/Neatline-2.5.3.zip",
+                "date": "2017-07-28",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5",
+                    "version": "2.5.3",
+                    "per_page": "50",
+                    "wms_mime": "image\/png"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.5.2\/Neatline-2.5.2.zip",
+                "date": "2017-06-21",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5",
+                    "version": "2.5.2",
+                    "per_page": "50",
+                    "wms_mime": "image\/png"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.3.0\/Neatline-2.3.0.zip",
+                "date": "2014-07-24",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.3.0",
+                    "per_page": "50"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.2.1\/Neatline-2.2.1.zip",
+                "date": "2014-02-13",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.2.1",
+                    "per_page": "50"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.2.0\/Neatline-2.2.0.zip",
+                "date": "2014-01-15",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.2.0",
+                    "per_page": "50"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.1.1\/Neatline-2.1.1.zip",
+                "date": "2013-09-30",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.1.1",
+                    "per_page": "50"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.1.0\/Neatline-2.1.0.zip",
+                "date": "2013-09-24",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.1.0",
+                    "per_page": "50"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.0.4\/Neatline-2.0.4.zip",
+                "date": "2013-08-14",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0.4",
+                    "per_page": "50"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.0.3\/Neatline-2.0.3.zip",
+                "date": "2013-08-09",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0.3",
+                    "per_page": "50"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.0.2\/Neatline-2.0.2.zip",
+                "date": "2013-08-07",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0.2",
+                    "per_page": "50"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.0.1\/Neatline-2.0.1.zip",
+                "date": "2013-07-10",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0.1",
+                    "per_page": "50"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/2.0.0\/Neatline-2.0.0.zip",
+                "date": "2013-07-08",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "version": "2.0.0",
+                    "per_page": "50"
                 }
             }
         ]
