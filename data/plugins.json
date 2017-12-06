@@ -35,6 +35,27 @@
             }
         ]
     },
+    "ArchiveRepertory": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/Daniel-KM\/ArchiveRepertory\/releases\/download\/2.15.2\/ArchiveRepertory.zip",
+                "date": "2017-09-17",
+                "info": {
+                    "name": "Archive Repertory",
+                    "author": "Daniel Berthereau",
+                    "description": "Keeps original names of imported files and put them in a hierarchical structure (collection \/ item \/ files) in order to get readable urls for files and to avoid an overloading of the file server.",
+                    "license": "CeCILL v2.1",
+                    "link": "https:\/\/github.com\/Daniel-KM\/ArchiveRepertory",
+                    "support_link": "https:\/\/github.com\/Daniel-KM\/ArchiveRepertory\/issues",
+                    "optional_plugins": "CleanUrl",
+                    "version": "2.15.2",
+                    "omeka_minimum_version": "2.1",
+                    "omeka_target_version": "2.5.1",
+                    "tags": "file, path, import"
+                }
+            }
+        ]
+    },
     "AvantRelationships": {
         "versions": [
             {
