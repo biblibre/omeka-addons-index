@@ -1,4 +1,23 @@
 {
+    "AdminImages": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/AdminImages\/releases\/download\/1.3\/AdminImages.zip",
+                "date": "2017-07-17",
+                "info": {
+                    "name": "Admin Images",
+                    "author": "UC Santa Cruz University Library",
+                    "description": "This Omeka 2.0+ plugin allows administrators to upload images not attached to items for use in carousels and simple pages",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/UCSCLibrary\/AdminImages",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/AdminImages\/issues",
+                    "omeka_minimum_version": "2.1",
+                    "omeka_target_version": "2.2",
+                    "version": "1.3"
+                }
+            }
+        ]
+    },
     "Annotator": {
         "versions": [
             {
@@ -90,6 +109,25 @@
                     "omeka_tested_up_to": "2.5",
                     "version": "1.0",
                     "tags": "pages, blog, news, simplepages, display"
+                }
+            }
+        ]
+    },
+    "BulkMetadataEditor": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/BulkMetadataEditor\/releases\/download\/2.4\/BulkMetadataEditor.zip",
+                "date": "2017-04-05",
+                "info": {
+                    "name": "Bulk Metadata Editor",
+                    "author": "UC Santa Cruz University Library, Daniel Berthereau",
+                    "description": "Adds search and replace functionality allowing curators to update metadata fields over many records quickly and easily.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/UCSCLibrary\/BulkMetadataEditor",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/BulkMetadataEditor\/issues",
+                    "omeka_minimum_version": "2.1",
+                    "omeka_target_version": "2.5",
+                    "version": "2.4"
                 }
             }
         ]
@@ -353,6 +391,26 @@
                     "license": "GPLv3",
                     "required_plugins": "GuestUser",
                     "optional_plugins": "UserProfiles"
+                }
+            }
+        ]
+    },
+    "ContributorContact": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/ContributorContact\/releases\/download\/1.1\/ContributorContact.zip",
+                "date": "2017-07-17",
+                "info": {
+                    "name": "Contributor Contact",
+                    "author": "UC Santa Cruz University Library",
+                    "description": "Supplies administrators with tools to contact contributors in bulk",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/ContributorContact",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "1.1",
+                    "required_plugins": "Contribution"
                 }
             }
         ]
@@ -881,6 +939,25 @@
             }
         ]
     },
+    "FlickrImport": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/FlickrImport\/releases\/download\/1.3\/FlickrImport.zip",
+                "date": "2017-07-17",
+                "info": {
+                    "name": "Flickr Import",
+                    "author": "UC Santa Cruz University Library",
+                    "description": "Adds the ability to import Flickr photosets and galleries into Omeka as items or collections, while preserving as much metadata as possible",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/FlickrImport",
+                    "omeka_minimum_version": "2.1",
+                    "omeka_target_version": "2.2",
+                    "version": "1.3"
+                }
+            }
+        ]
+    },
     "Geolocation": {
         "versions": [
             {
@@ -1026,6 +1103,25 @@
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.0",
                     "version": "1.1"
+                }
+            }
+        ]
+    },
+    "HistoryLog": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/HistoryLog\/releases\/download\/2.10\/HistoryLog.zip",
+                "date": "2017-11-28",
+                "info": {
+                    "name": "History Log",
+                    "author": "UC Santa Cruz University Library and Daniel Berthereau",
+                    "description": "Creates a log of basic curatorial events for each item, collection and file, including ingress, updates, and pushes, and compute statistics on evolution.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/UCSCLibrary\/HistoryLog",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/HistoryLog\/issues",
+                    "omeka_minimum_version": "2.1",
+                    "omeka_target_version": "2.4.1",
+                    "version": "2.10"
                 }
             }
         ]
@@ -1401,6 +1497,25 @@
             }
         ]
     },
+    "ItemReview": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/ItemReview\/releases\/download\/1.1\/ItemReview.zip",
+                "date": "2017-08-01",
+                "info": {
+                    "name": "Item Review",
+                    "author": "UC Santa Cruz University Library",
+                    "description": "Adds the ability to mark all item created by certain user roles for administrative review before publication.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/UCSCLibrary\/ItemReview",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/ItemReview\/issues",
+                    "omeka_minimum_version": "2.1",
+                    "omeka_target_version": "2.2",
+                    "version": "1.1"
+                }
+            }
+        ]
+    },
     "LcSuggest": {
         "versions": [
             {
@@ -1471,6 +1586,26 @@
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.4",
                     "tags": "maintenance"
+                }
+            }
+        ]
+    },
+    "MetsExport": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/MetsExport\/releases\/download\/1.3\/MetsExport.zip",
+                "date": "2017-11-28",
+                "info": {
+                    "name": "METS Export",
+                    "author": "UC Santa Cruz University Library",
+                    "description": "Adds functionality to export Omeka items as METS xml files, either at the item or the collection level",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/UCSCLibrary\/MetsExport",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/MetsExport\/issues",
+                    "omeka_minimum_version": "2.1",
+                    "omeka_target_version": "2.4",
+                    "version": "1.3",
+                    "optional_plugins": "HistoryLog"
                 }
             }
         ]
@@ -2260,6 +2395,45 @@
             }
         ]
     },
+    "SimpleVocabPlus": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/SimpleVocabPlus\/releases\/download\/2.4\/SimpleVocabPlus.zip",
+                "date": "2016-11-14",
+                "info": {
+                    "name": "Simple Vocab Plus",
+                    "author": "UC Santa Cruz University Library",
+                    "description": "Allows for cloud based vocabulary definition and autosuggest features for Omeka elements",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/UCSCLibrary\/SimpleVocabPlus",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/SimpleVocabPlus\/issues",
+                    "omeka_minimum_version": "2.1",
+                    "omeka_target_version": "2.4.1",
+                    "version": "2.4"
+                }
+            }
+        ]
+    },
+    "Sitemap": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/Sitemap\/releases\/download\/2.3\/Sitemap.zip",
+                "date": "2017-07-17",
+                "info": {
+                    "name": "Sitemap 2",
+                    "author": "UC Santa Cruz University Library",
+                    "description": "This Omeka 2.0+ plugin provides a persistent url for a dynamically generated XML Sitemap, for SEO purposes.",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.3",
+                    "license": "GPL3",
+                    "link": "https:\/\/github.com\/UCSCLibrary\/Sitemap",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/Sitemap\/issues",
+                    "version": "2.3",
+                    "tags": "xml sitemap,search engine optimization"
+                }
+            }
+        ]
+    },
     "SocialBookmarking": {
         "versions": [
             {
@@ -2546,6 +2720,40 @@
             }
         ]
     },
+    "VimeoImport": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/VimeoImport\/releases\/download\/1.3\/VimeoImport.zip",
+                "date": "2017-07-17",
+                "info": {
+                    "name": "Vimeo Import",
+                    "author": "UC Santa Cruz University Library",
+                    "description": "Adds the ability to import Vimeo videos into Omeka as items while preserving as much metadata as possible",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/UCSCLibrary\/VimeoImport",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/VimeoImport\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.3",
+                    "version": "1.3"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/VimeoImport\/releases\/download\/1.1\/VimeoImport_1.1.zip",
+                "date": "2015-06-16",
+                "info": {
+                    "name": "Vimeo Import",
+                    "author": "UC Santa Cruz Library",
+                    "description": "Adds the ability to import Vimeo videos into Omeka as items while preserving as much metadata as possible",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/VimeoImport",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.3",
+                    "version": "1.1"
+                }
+            }
+        ]
+    },
     "VraCore": {
         "versions": [
             {
@@ -2561,6 +2769,25 @@
                     "omeka_minimum_version": "2.2",
                     "omeka_target_version": "2.4",
                     "version": "1.2"
+                }
+            }
+        ]
+    },
+    "YouTubeImport": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UCSCLibrary\/YouTubeImport\/releases\/download\/1.3\/YouTubeImport.zip",
+                "date": "2017-07-17",
+                "info": {
+                    "name": "YouTube Import",
+                    "author": "UC Santa Cruz Library",
+                    "description": "Adds the ability to import Youtube videos into Omeka as items while preserving as much metadata as possible",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "https:\/\/github.com\/UCSCLibrary\/YouTubeImport",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.3",
+                    "version": "1.3"
                 }
             }
         ]
