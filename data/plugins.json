@@ -2028,6 +2028,21 @@
                     "omeka_target_version": "2.2",
                     "version": "1.0"
                 }
+            },
+            {
+                "url": "https:\/\/github.com\/zerocrates\/PdfEmbed\/releases\/download\/v1.0.1\/PdfEmbed-1.0.1.zip",
+                "date": "2017-12-08",
+                "info": {
+                    "name": "PDF Embed",
+                    "author": "John Flatness",
+                    "description": "Embeds PDF documents into item and file pages.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/zerocrates\/PdfEmbed#readme",
+                    "support_link": "https:\/\/github.com\/zerocrates\/PdfEmbed\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.2",
+                    "version": "1.0.1"
+                }
             }
         ]
     },
