@@ -21,22 +21,6 @@
     "Annotator": {
         "versions": [
             {
-                "url": "https:\/\/github.com\/ebellempire\/Annotator\/releases\/download\/v.1.0\/Annotator.zip",
-                "date": "2017-10-19",
-                "info": {
-                    "name": "Annotator",
-                    "author": "Erin Bell",
-                    "description": "Adds AnnotatorJS scripts to Omeka items, files, and pages, allowing users to highlight and annotate text. Annotations are moderated at hypothes.is (account required).",
-                    "link": "http:\/\/annotatorjs.org\/",
-                    "support_link": "https:\/\/hypothes.is\/",
-                    "omeka_minimum_version": "2.0",
-                    "omeka_tested_up_to": "2.3.1",
-                    "version": "1.0",
-                    "license": "GPLv3",
-                    "tags": "comments, annotation, annotator, annotatorjs, hopothesis, social, text"
-                }
-            },
-            {
                 "url": "https:\/\/github.com\/ebellempire\/Annotator\/releases\/download\/v.1.0.1\/Annotator.zip",
                 "date": "2017-11-01",
                 "info": {
@@ -50,6 +34,22 @@
                     "version": "1.0.1",
                     "license": "GPLv3",
                     "tags": "comments, annotation, annotator, annotatorjs, hypothesis, social, text"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/ebellempire\/Annotator\/releases\/download\/v.1.0\/Annotator.zip",
+                "date": "2017-10-19",
+                "info": {
+                    "name": "Annotator",
+                    "author": "Erin Bell",
+                    "description": "Adds AnnotatorJS scripts to Omeka items, files, and pages, allowing users to highlight and annotate text. Annotations are moderated at hypothes.is (account required).",
+                    "link": "http:\/\/annotatorjs.org\/",
+                    "support_link": "https:\/\/hypothes.is\/",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.3.1",
+                    "version": "1.0",
+                    "license": "GPLv3",
+                    "tags": "comments, annotation, annotator, annotatorjs, hopothesis, social, text"
                 }
             }
         ]
@@ -1897,21 +1897,6 @@
     "OaiPmhRepository": {
         "versions": [
             {
-                "url": "https:\/\/github.com\/zerocrates\/OaiPmhRepository\/releases\/download\/v2.1\/OaiPmhRepository-2.1.zip",
-                "date": "2015-11-05",
-                "info": {
-                    "name": "OAI-PMH Repository",
-                    "author": "John Flatness",
-                    "description": "Exposes Omeka items as an OAI-PMH repository.",
-                    "license": "GPLv3",
-                    "link": "http:\/\/omeka.org\/codex\/Plugins\/OaiPmhRepository",
-                    "support_link": "https:\/\/github.com\/zerocrates\/OaiPmhRepository\/issues",
-                    "omeka_minimum_version": "2.0",
-                    "omeka_target_version": "2.3",
-                    "version": "2.1"
-                }
-            },
-            {
                 "url": "https:\/\/github.com\/zerocrates\/OaiPmhRepository\/releases\/download\/v2.1.1\/OaiPmhRepository-2.1.1.zip",
                 "date": "2016-02-27",
                 "info": {
@@ -1924,6 +1909,21 @@
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.3",
                     "version": "2.1.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/zerocrates\/OaiPmhRepository\/releases\/download\/v2.1\/OaiPmhRepository-2.1.zip",
+                "date": "2015-11-05",
+                "info": {
+                    "name": "OAI-PMH Repository",
+                    "author": "John Flatness",
+                    "description": "Exposes Omeka items as an OAI-PMH repository.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/OaiPmhRepository",
+                    "support_link": "https:\/\/github.com\/zerocrates\/OaiPmhRepository\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.3",
+                    "version": "2.1"
                 }
             },
             {
@@ -2015,21 +2015,6 @@
     "PdfEmbed": {
         "versions": [
             {
-                "url": "https:\/\/github.com\/zerocrates\/PdfEmbed\/releases\/download\/v1.0\/PDF-Embed-1.0.zip",
-                "date": "2014-10-10",
-                "info": {
-                    "name": "PDF Embed",
-                    "author": "John Flatness",
-                    "description": "Embeds PDF documents into item and file pages.",
-                    "license": "GPLv3",
-                    "link": "https:\/\/github.com\/zerocrates\/PdfEmbed#readme",
-                    "support_link": "https:\/\/github.com\/zerocrates\/PdfEmbed\/issues",
-                    "omeka_minimum_version": "2.0",
-                    "omeka_target_version": "2.2",
-                    "version": "1.0"
-                }
-            },
-            {
                 "url": "https:\/\/github.com\/zerocrates\/PdfEmbed\/releases\/download\/v1.0.1\/PdfEmbed-1.0.1.zip",
                 "date": "2017-12-08",
                 "info": {
@@ -2042,6 +2027,21 @@
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.2",
                     "version": "1.0.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/zerocrates\/PdfEmbed\/releases\/download\/v1.0\/PDF-Embed-1.0.zip",
+                "date": "2014-10-10",
+                "info": {
+                    "name": "PDF Embed",
+                    "author": "John Flatness",
+                    "description": "Embeds PDF documents into item and file pages.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/zerocrates\/PdfEmbed#readme",
+                    "support_link": "https:\/\/github.com\/zerocrates\/PdfEmbed\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.2",
+                    "version": "1.0"
                 }
             }
         ]
