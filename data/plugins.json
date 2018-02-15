@@ -258,6 +258,22 @@
     "Commenting": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Commenting\/releases\/download\/v2.2\/Commenting-2.2.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "name": "Commenting",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Allows commenting on Items, Collections, Exhibits, and more",
+                    "version": "2.2",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/Commenting_2.0",
+                    "omeka_minimum_version": "2.6",
+                    "license": "GPLv3",
+                    "omeka_target_version": "2.6",
+                    "optional_plugins": "GuestUser"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Commenting\/releases\/download\/v2.1.4\/Commenting-2.1.4.zip",
                 "date": "2016-10-12",
                 "info": {
@@ -357,6 +373,24 @@
     },
     "Contribution": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-Contribution\/releases\/download\/v3.2\/Contribution-3.2.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "name": "Contribution",
+                    "author": "Roy Rosenzweig Center for History & New Media",
+                    "description": "Allows collecting items from visitors",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/Contribution_2.0",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "omeka_minimum_version": "2.6",
+                    "omeka_target_version": "2.6",
+                    "version": "3.2",
+                    "tags": "social, items",
+                    "license": "GPLv3",
+                    "required_plugins": "GuestUser",
+                    "optional_plugins": "UserProfiles"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-Contribution\/releases\/download\/v3.1.1\/Contribution-3.1.1.zip",
                 "date": "2017-07-17",
@@ -897,6 +931,22 @@
     "ExhibitBuilder": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.4\/ExhibitBuilder-3.4.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "name": "Exhibit Builder",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Build rich exhibits using Omeka.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitBuilder\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.6",
+                    "omeka_target_version": "2.6",
+                    "version": "3.4",
+                    "tags": "exhibit, pages, presentation"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.3.3\/ExhibitBuilder-3.3.3.zip",
                 "date": "2017-01-30",
                 "info": {
@@ -941,6 +991,22 @@
                     "omeka_minimum_version": "2.3",
                     "omeka_target_version": "2.4",
                     "version": "3.3.1",
+                    "tags": "exhibit, pages, presentation"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.1\/ExhibitBuilder-3.1.zip",
+                "date": "2014-07-02",
+                "info": {
+                    "name": "Exhibit Builder",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Build rich exhibits using Omeka.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/ExhibitBuilder_3.0",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.2",
+                    "version": "3.1",
                     "tags": "exhibit, pages, presentation"
                 }
             }
@@ -2115,6 +2181,23 @@
     "Posters": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Posters\/releases\/download\/v1.1\/Posters-1.1.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "name": "Posters",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Create interpretive posters using Omeka items.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Posters\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPLv3",
+                    "omeka_minimum_version": "2.6",
+                    "omeka_target_version": "2.6",
+                    "version": "1.1",
+                    "required_plugins": "GuestUser",
+                    "tags": "posters, presentation, interpretation"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Posters\/releases\/download\/v1.0.1\/Posters-1.0.1.zip",
                 "date": "2017-01-24",
                 "info": {
@@ -2385,6 +2468,22 @@
     "SimpleContactForm": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-SimpleContactForm\/releases\/download\/v0.6\/SimpleContactForm-0.6.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "name": "SimpleContactForm",
+                    "author": "Roy Rosenzweig Center for History & New Media",
+                    "description": "Adds a simple contact form for users to contact the administrator.",
+                    "link": "http:\/\/omeka.org\/classic\/docs\/Plugins\/SimpleContactForm\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPLv3",
+                    "omeka_minimum_version": "2.6",
+                    "omeka_target_version": "2.6",
+                    "version": "0.6",
+                    "tags": "captcha, email"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-SimpleContactForm\/releases\/download\/v0.5\/SimpleContactForm-0.5.zip",
                 "date": "2014-09-09",
                 "info": {
@@ -2419,6 +2518,21 @@
     },
     "SimplePages": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.1\/SimplePages-3.1.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "name": "Simple Pages",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Allows administrators to create simple web pages for their public site.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/classic\/docs\/Plugins\/SimplePages\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.6",
+                    "omeka_target_version": "2.6",
+                    "version": "3.1"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.0.8\/SimplePages-3.0.8.zip",
                 "date": "2016-08-22",
@@ -2725,6 +2839,24 @@
     },
     "UserProfiles": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-UserProfiles\/releases\/download\/v1.2\/UserProfiles-1.2.zip",
+                "date": "2018-02-15",
+                "info": {
+                    "name": "User Profiles",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Adds configurable user profiles to omeka",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/UserProfile_2.0",
+                    "omeka_minimum_version": "2.6",
+                    "omeka_target_version": "2.6",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "license": "GPLv3",
+                    "version": "1.2",
+                    "required_plugins": "RecordRelations",
+                    "optional_plugins": "GuestUser",
+                    "require_once": "1"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-UserProfiles\/releases\/download\/v1.1.1\/UserProfiles-1.1.1.zip",
                 "date": "2016-08-19",

@@ -2,6 +2,21 @@
     "berlin": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-berlin\/releases\/download\/v2.6\/theme-berlin-v2.6.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.6"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-berlin\/releases\/download\/v2.5\/theme-berlin-v2.5.zip",
                 "date": "2018-01-29",
                 "info": {
@@ -36,6 +51,22 @@
     "bigpicture": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.1\/theme-bigpicture-v1.1.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Big Picture",
+                    "description": "An image-centric theme geared towards art historians and students.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/rrchnm.org",
+                    "support_link": "http:\/\/github.com\/omeka\/theme-bigpicture",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "1.1",
+                    "tags": "serif,image-heavy"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.0\/theme-bigpicture-v1.0.zip",
                 "date": "2017-05-02",
                 "info": {
@@ -55,6 +86,21 @@
     },
     "centerrow": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-centerrow\/releases\/download\/v1.2\/theme-centerrow-v1.2.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Center Row",
+                    "description": "Image-oriented theme for Omeka. This theme does not support nested top navigation.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/rrchnm.org",
+                    "support_link": "http:\/\/github.com\/omeka\/theme-centerrow\/wiki",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_tested_up_to": "2.5",
+                    "version": "1.2"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-centerrow\/releases\/download\/v1.1\/theme-centerrow-v1.1.zip",
                 "date": "2018-01-29",
@@ -90,6 +136,22 @@
     "default": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-thanksroy\/releases\/download\/v2.5\/theme-thanksroy-v2.5.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.5",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-thanksroy\/releases\/download\/v2.4\/theme-thanksroy-v2.4.zip",
                 "date": "2016-12-15",
                 "info": {
@@ -110,6 +172,21 @@
     "emiglio": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-emiglio\/releases\/download\/v2.3\/theme-emiglio-v2.3.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot. A simple, minimal theme with reds and greens.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_tested_up_to": "2.5",
+                    "version": "2.3"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-emiglio\/releases\/download\/v2.2.1\/emiglio-v2.2.1.zip",
                 "date": "2017-01-24",
                 "info": {
@@ -128,6 +205,22 @@
     },
     "minimalist": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-minimalist\/releases\/download\/v2.4\/theme-minimalist-v2.4.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Minimalist",
+                    "description": "Clean lines, architectural.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.4",
+                    "tags": "lines, minimal, architectural, purple, white, mobile-first, sans-serif"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-minimalist\/releases\/download\/v2.3\/theme-minimalist-v2.3.zip",
                 "date": "2016-12-15",
@@ -165,6 +258,22 @@
     "rhythm": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-rhythm\/releases\/download\/v2.3\/theme-rhythm-v2.3.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Rhythm",
+                    "description": "An energetic two-column theme, with different style sheet options",
+                    "license": "GPL",
+                    "website": "omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.3",
+                    "tags": "lines, sans-serif, configuration"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-rhythm\/releases\/download\/v2.2\/theme-rhythm-v2.2.zip",
                 "date": "2016-12-15",
                 "info": {
@@ -185,6 +294,21 @@
     "santa-fe": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-santa-fe\/releases\/download\/v2.3\/theme-santa-fe-v2.3.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.3"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-santa-fe\/releases\/download\/v2.2\/Santa-Fe-2.2.zip",
                 "date": "2016-12-15",
                 "info": {
@@ -203,6 +327,22 @@
     },
     "seasons": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-seasons\/releases\/download\/v2.5\/theme-seasons-v2.5.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.5",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-seasons\/releases\/download\/v2.4\/seasons-v2.4.zip",
                 "date": "2016-12-15",
@@ -239,6 +379,21 @@
     },
     "thedaily": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-thedaily\/releases\/download\/v1.2\/theme-thedaily-v1.2.zip",
+                "date": "2018-02-14",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "The Daily",
+                    "description": "Image-oriented theme for Omeka.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/rrchnm.org",
+                    "support_link": "http:\/\/github.com\/omeka\/theme-thedaily\/wiki",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_tested_up_to": "2.5",
+                    "version": "1.2"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-thedaily\/releases\/download\/v1.1\/theme-thedaily-v1.1.zip",
                 "date": "2017-05-02",
