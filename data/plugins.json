@@ -1122,6 +1122,21 @@
     "GuestUser": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-GuestUser\/releases\/download\/v1.1.3\/GuestUser.zip",
+                "date": "2018-02-15",
+                "info": {
+                    "name": "Guest User",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Adds a guest user role. Can't access backend, but allows plugins to use an authenticated user",
+                    "version": "1.1.3",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/GuestUser_2.0",
+                    "omeka_minimum_version": "2.6",
+                    "license": "GPLv3",
+                    "omeka_target_version": "2.6"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-GuestUser\/releases\/download\/v1.1.2\/GuestUser-1.1.2.zip",
                 "date": "2017-07-17",
                 "info": {
