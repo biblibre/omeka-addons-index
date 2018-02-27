@@ -113,6 +113,25 @@
             }
         ]
     },
+    "Blogger": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/lib-uoguelph-ca\/omeka-blogger\/releases\/download\/v1.1\/Blogger.zip",
+                "date": "2018-02-26",
+                "info": {
+                    "name": "Blogger",
+                    "author": "Adam Doan",
+                    "description": "Consume and inject an RSS feed into an Omeka site.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/lib-uoguelph-ca\/omeka-blogger",
+                    "support_link": "https:\/\/github.com\/lib-uoguelph-ca\/omeka-blogger\/issues",
+                    "version": "1.1",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0"
+                }
+            }
+        ]
+    },
     "BulkMetadataEditor": {
         "versions": [
             {
@@ -1965,6 +1984,243 @@
                     "omeka_target_version": "2.0",
                     "version": "2.0.0",
                     "per_page": "50"
+                }
+            }
+        ]
+    },
+    "NeatlineFeatures": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineFeatures\/releases\/download\/2.0.5\/NeatlineFeatures-2.0.5.zip",
+                "date": "2014-08-12",
+                "info": {
+                    "name": "NeatlineFeatures",
+                    "author": "Scholars' Lab",
+                    "description": "Allows administrators to draw things on maps and associate them with an Omeka item.",
+                    "link": "https:\/\/github.com\/scholarslab\/NeatlineFeatures",
+                    "support_link": "https:\/\/github.com\/scholarslab\/NeatlineFeatures",
+                    "version": "2.0.5",
+                    "tags": "geospatial",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.0",
+                    "omeka_target_version": "2.0",
+                    "license": "Apache License, Version 2.0"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineFeatures\/releases\/download\/2.0.4\/NeatlineFeatures-2.0.4.zip",
+                "date": "2014-07-02",
+                "info": {
+                    "name": "NeatlineFeatures",
+                    "author": "Scholars' Lab",
+                    "description": "Allows administrators to draw things on maps and associate them with an Omeka item.",
+                    "link": "https:\/\/github.com\/scholarslab\/NeatlineFeatures",
+                    "support_link": "https:\/\/github.com\/scholarslab\/NeatlineFeatures",
+                    "version": "2.0.4",
+                    "tags": "geospatial",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.0",
+                    "omeka_target_version": "2.0",
+                    "license": "Apache License, Version 2.0"
+                }
+            }
+        ]
+    },
+    "NeatlineMaps": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineMaps\/releases\/download\/1.0.1\/Neatline-Maps-1.0.1.zip",
+                "date": "2012-10-01",
+                "info": {
+                    "name": "Neatline Maps",
+                    "author": "Scholars' Lab",
+                    "description": "Connect Omeka with Geoserver, a powerful open-source geospatial server.",
+                    "link": "https:\/\/github.com\/scholarslab\/NeatlineMaps",
+                    "support_link": "https:\/\/github.com\/scholarslab\/NeatlineMaps",
+                    "tags": "geospatial temporal",
+                    "version": "1.0.1",
+                    "omeka_minimum_version": "1.5",
+                    "omeka_tested_up_to": "1.5.1",
+                    "omeka_target_version": "1.5.1",
+                    "license": "Apache License, Version 2.0"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineMaps\/releases\/download\/1.0.0\/Neatline-Maps-1.0.0.zip",
+                "date": "2012-07-02",
+                "info": {
+                    "name": "Neatline Maps",
+                    "author": "Scholars' Lab",
+                    "description": "Connect Omeka with Geoserver, a powerful open-source geospatial server.",
+                    "link": "https:\/\/github.com\/scholarslab\/NeatlineMaps",
+                    "support_link": "https:\/\/github.com\/scholarslab\/NeatlineMaps",
+                    "tags": "geospatial temporal",
+                    "version": "1.0.0",
+                    "omeka_minimum_version": "1.5",
+                    "omeka_tested_up_to": "1.5.1",
+                    "omeka_target_version": "1.5.1",
+                    "license": "Apache License, Version 2.0"
+                }
+            }
+        ]
+    },
+    "NeatlineSimile": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineSimile\/releases\/download\/2.0.4\/Neatline-Widget-SIMILE-Timeline-2.0.4.zip",
+                "date": "2015-07-13",
+                "info": {
+                    "name": "Neatline Widget ~ SIMILE Timeline",
+                    "author": "Scholars' Lab",
+                    "description": "Add SIMILE Timeline to Neatline exhibits.",
+                    "link": "https:\/\/github.com\/scholarslab\/nl-widget-Simile",
+                    "support_link": "https:\/\/github.com\/scholarslab\/nl-widget-Simile",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "required_plugins": "Neatline",
+                    "version": "2.0.4"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineSimile\/releases\/download\/2.0.3\/Neatline-Widget-SIMILE-Timeline-2.0.3.zip",
+                "date": "2015-06-25",
+                "info": {
+                    "name": "Neatline Widget ~ SIMILE Timeline",
+                    "author": "Scholars' Lab",
+                    "description": "Add SIMILE Timeline to Neatline exhibits.",
+                    "link": "https:\/\/github.com\/scholarslab\/nl-widget-Simile",
+                    "support_link": "https:\/\/github.com\/scholarslab\/nl-widget-Simile",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "required_plugins": "Neatline",
+                    "version": "2.0.3"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineSimile\/releases\/download\/2.0.2\/Neatline-Widget-SIMILE-Timeline-2.0.2.zip",
+                "date": "2014-10-08",
+                "info": {
+                    "name": "Neatline Widget ~ SIMILE Timeline",
+                    "author": "Scholars' Lab",
+                    "description": "Add SIMILE Timeline to Neatline exhibits.",
+                    "link": "https:\/\/github.com\/scholarslab\/nl-widget-Simile",
+                    "support_link": "https:\/\/github.com\/scholarslab\/nl-widget-Simile",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "required_plugins": "Neatline",
+                    "version": "2.0.2"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineSimile\/releases\/download\/2.0.1\/NeatlineSimile-2.0.1.zip",
+                "date": "2014-01-15",
+                "info": {
+                    "name": "Neatline Widget ~ SIMILE Timeline",
+                    "author": "Scholars' Lab",
+                    "description": "Add SIMILE Timeline to Neatline exhibits.",
+                    "link": "https:\/\/github.com\/scholarslab\/nl-widget-Simile",
+                    "support_link": "https:\/\/github.com\/scholarslab\/nl-widget-Simile",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "required_plugins": "Neatline",
+                    "version": "2.0.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineSimile\/releases\/download\/2.0.0\/NeatlineSimile-2.0.0.zip",
+                "date": "2013-07-08",
+                "info": {
+                    "name": "Neatline Widget ~ SIMILE Timeline",
+                    "author": "Scholars' Lab",
+                    "description": "Add SIMILE Timeline to Neatline exhibits.",
+                    "link": "https:\/\/github.com\/scholarslab\/nl-widget-Waypoints",
+                    "support_link": "https:\/\/github.com\/scholarslab\/nl-widget-Waypoints",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0-beta",
+                    "omeka_target_version": "2.0",
+                    "required_plugins": "Neatline",
+                    "version": "2.0.0"
+                }
+            }
+        ]
+    },
+    "NeatlineText": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineText\/releases\/download\/1.1.0\/Neatline-Widget-Text-1.1.0.zip",
+                "date": "2015-05-07",
+                "info": {
+                    "name": "Neatline Widget ~ Text",
+                    "author": "Scholars' Lab",
+                    "description": "Connect text documents to Neatline exibits.",
+                    "link": "https:\/\/github.com\/scholarslab\/nl-widget-Text",
+                    "support_link": "https:\/\/github.com\/scholarslab\/nl-widget-Text\/issues",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "required_plugins": "Neatline",
+                    "version": "1.1.0"
+                }
+            }
+        ]
+    },
+    "NeatlineTime": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineTime\/releases\/download\/2.1.0\/Neatline-Time-2.1.0.zip",
+                "date": "2016-01-27",
+                "info": {
+                    "name": "Neatline Time",
+                    "author": "Scholars' Lab",
+                    "description": "Create timelines in Omeka.",
+                    "link": "http:\/\/neatline.org\/",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.3",
+                    "version": "2.1.0",
+                    "tags": "timelines, chronology",
+                    "support_link": "http:\/\/github.com\/scholarslab\/NeatlineTime\/issues",
+                    "omeka_target_version": "2.0",
+                    "license": "Apache License, Version 2.0"
+                }
+            }
+        ]
+    },
+    "NeatlineWaypoints": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineWaypoints\/releases\/download\/2.0.2\/NeatlineWaypoints-2.0.2.zip",
+                "date": "2014-01-15",
+                "info": {
+                    "name": "Neatline Widget ~ Waypoints",
+                    "author": "Scholars' Lab",
+                    "description": "Adds a list of waypoints to Neatline exhibits.",
+                    "link": "https:\/\/github.com\/scholarslab\/nl-widget-Waypoints",
+                    "support_link": "https:\/\/github.com\/scholarslab\/nl-widget-Waypoints",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.1",
+                    "required_plugins": "Neatline",
+                    "version": "2.0.2"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineWaypoints\/releases\/download\/2.0.0\/NeatlineWaypoints-2.0.0.zip",
+                "date": "2013-07-08",
+                "info": {
+                    "name": "Neatline Widget ~ Waypoints",
+                    "author": "Scholars' Lab",
+                    "description": "Adds a list of waypoints to Neatline exhibits.",
+                    "link": "https:\/\/github.com\/scholarslab\/nl-widget-Waypoints",
+                    "support_link": "https:\/\/github.com\/scholarslab\/nl-widget-Waypoints",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0-beta",
+                    "omeka_target_version": "2.0",
+                    "required_plugins": "Neatline",
+                    "version": "2.0.0"
                 }
             }
         ]
