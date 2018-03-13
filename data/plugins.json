@@ -2041,44 +2041,6 @@
             }
         ]
     },
-    "NeatlineMaps": {
-        "versions": [
-            {
-                "url": "https:\/\/github.com\/scholarslab\/NeatlineMaps\/releases\/download\/1.0.1\/Neatline-Maps-1.0.1.zip",
-                "date": "2012-10-01",
-                "info": {
-                    "name": "Neatline Maps",
-                    "author": "Scholars' Lab",
-                    "description": "Connect Omeka with Geoserver, a powerful open-source geospatial server.",
-                    "link": "https:\/\/github.com\/scholarslab\/NeatlineMaps",
-                    "support_link": "https:\/\/github.com\/scholarslab\/NeatlineMaps",
-                    "tags": "geospatial temporal",
-                    "version": "1.0.1",
-                    "omeka_minimum_version": "1.5",
-                    "omeka_tested_up_to": "1.5.1",
-                    "omeka_target_version": "1.5.1",
-                    "license": "Apache License, Version 2.0"
-                }
-            },
-            {
-                "url": "https:\/\/github.com\/scholarslab\/NeatlineMaps\/releases\/download\/1.0.0\/Neatline-Maps-1.0.0.zip",
-                "date": "2012-07-02",
-                "info": {
-                    "name": "Neatline Maps",
-                    "author": "Scholars' Lab",
-                    "description": "Connect Omeka with Geoserver, a powerful open-source geospatial server.",
-                    "link": "https:\/\/github.com\/scholarslab\/NeatlineMaps",
-                    "support_link": "https:\/\/github.com\/scholarslab\/NeatlineMaps",
-                    "tags": "geospatial temporal",
-                    "version": "1.0.0",
-                    "omeka_minimum_version": "1.5",
-                    "omeka_tested_up_to": "1.5.1",
-                    "omeka_target_version": "1.5.1",
-                    "license": "Apache License, Version 2.0"
-                }
-            }
-        ]
-    },
     "NeatlineSimile": {
         "versions": [
             {
