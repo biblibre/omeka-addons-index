@@ -1,13 +1,4 @@
 {
-    "": {
-        "versions": [
-            {
-                "url": "https:\/\/github.com\/omeka\/plugin-Commenting\/releases\/download\/v1.0\/Commenting-1.0.zip",
-                "date": "2012-02-06",
-                "info": []
-            }
-        ]
-    },
     "AdminImages": {
         "versions": [
             {

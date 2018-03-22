@@ -69,10 +69,15 @@ abstract class Addons
                     $addonDirName = $oldPlugin['name'];
                     $addonVersion = &$oldPlugin['version'];
                 } else {
-                    $zip = tempnam(sys_get_temp_dir(), 'omeka-addon.');
-
                     fwrite(STDERR, "Downloading $url...\n");
-                    file_put_contents($zip, fopen($url, 'r'));
+                    $fh = fopen($url, 'r');
+                    if ($fh === false) {
+                        fwrite(STDERR, "Skipping $url because of failed download\n");
+                        continue;
+                    }
+
+                    $zip = tempnam(sys_get_temp_dir(), 'omeka-addon.');
+                    file_put_contents($zip, $fh);
 
                     // Get addon's directory name and contents of addon.ini
                     $zipArchive = new ZipArchive();
