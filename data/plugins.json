@@ -2817,6 +2817,21 @@
     "SimplePages": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.1.1\/SimplePages-3.1.1.zip",
+                "date": "2018-05-02",
+                "info": {
+                    "name": "Simple Pages",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Allows administrators to create simple web pages for their public site.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/classic\/docs\/Plugins\/SimplePages\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.6",
+                    "omeka_target_version": "2.6",
+                    "version": "3.1.1"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.1\/SimplePages-3.1.zip",
                 "date": "2018-02-14",
                 "info": {
