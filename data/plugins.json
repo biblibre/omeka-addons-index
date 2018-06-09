@@ -1479,6 +1479,22 @@
     "IiifItems": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/utlib\/IiifItems\/releases\/download\/v1.1.0\/IiifItems.zip",
+                "date": "2018-03-15",
+                "info": {
+                    "name": "IIIF Toolkit",
+                    "author": "University of Toronto Libraries",
+                    "description": "Embeds Mirador with a built-in annotator, a manifest generator and importer, Simple Pages shortcodes and Exhibit Builder blocks for a rich IIIF-compliant presentation experience.",
+                    "version": "1.1.0",
+                    "license": "Apache License 2.0",
+                    "link": "https:\/\/github.com\/utlib\/IiifItems",
+                    "support_link": "https:\/\/github.com\/utlib\/IiifItems\/issues",
+                    "optional_plugins": "ExhibitBuilder,SimplePages,Neatline",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.5"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/utlib\/IiifItems\/releases\/download\/v1.0.0\/IiifItems.zip",
                 "date": "2017-06-26",
                 "info": {
