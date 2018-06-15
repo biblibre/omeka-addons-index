@@ -1104,6 +1104,22 @@
     "ExhibitImageAnnotation": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitImageAnnotation\/releases\/download\/v1.0.1\/ExhibitImageAnnotation-1.0.1.zip",
+                "date": "2018-06-14",
+                "info": {
+                    "name": "Exhibit Image Annotation",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Annotate images in your exhibits.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitImageAnnotation\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "1.0.1",
+                    "omeka_minimum_version": "2.4",
+                    "omeka_target_version": "2.6",
+                    "required_plugins": "ExhibitBuilder"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ExhibitImageAnnotation\/releases\/download\/v1.1\/ExhibitImageAnnotation-1.1.zip",
                 "date": "2017-10-12",
                 "info": {
