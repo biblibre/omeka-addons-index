@@ -2833,6 +2833,21 @@
     "ShortcodeAnyfile": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/wgcowan\/ShortcodeAnyfile\/releases\/download\/v1.0.1\/ShortcodeAnyfile.zip",
+                "date": "2018-08-04",
+                "info": {
+                    "name": "Shortcode Anyfile",
+                    "author": "William G. Cowan",
+                    "description": "Adds a shortcode to insert a file",
+                    "license": "GPLv3",
+                    "link": "www.dighum.org",
+                    "support_link": "https:\/\/github.com\/wgcowan\/ShortcodeAnyfile\/issues",
+                    "omeka_minimum_version": "2.2.2",
+                    "omeka_target_version": "2.6.1",
+                    "version": "1.0.1"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/wgcowan\/ShortcodeAnyfile\/releases\/download\/1.0\/ShortcodeAnyfile.zip",
                 "date": "2018-08-03",
                 "info": {
