@@ -1726,6 +1726,22 @@
     "ItemRelations": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-ItemRelations\/releases\/download\/v2.1\/ItemRelations-2.1.zip",
+                "date": "2018-08-07",
+                "info": {
+                    "name": "Item Relations",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Allows administrators to define relations between items.",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/ItemRelations_2.0",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "license": "GPLv3",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.6",
+                    "version": "2.1",
+                    "tags": "item,relation,rdf"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ItemRelations\/releases\/download\/v2.0.1\/ItemRelations-2.0.1.zip",
                 "date": "2014-02-19",
                 "info": {
