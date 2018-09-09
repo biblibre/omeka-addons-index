@@ -112,6 +112,22 @@
     "AvantRelationships": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/gsoules\/AvantRelationships\/releases\/download\/v2.0.0\/AvantRelationships-v2.0.0.zip",
+                "date": "2018-08-31",
+                "info": {
+                    "name": "AvantRelationships",
+                    "author": "George Soules",
+                    "description": "Adds functionality for creating and visually displaying real-word relationships.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/gsoules\/AvantRelationships",
+                    "support_link": "https:\/\/github.com\/gsoules\/AvantRelationships",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.0.0",
+                    "required_plugins": "AvantCommon"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/gsoules\/AvantRelationships\/releases\/download\/v1.1\/AvantRelationships.zip",
                 "date": "2017-09-29",
                 "info": {
