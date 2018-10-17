@@ -112,6 +112,21 @@
     "AvantCommon": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/gsoules\/AvantCommon\/releases\/download\/v2.1.0\/AvantCommon-v2.1.0.zip",
+                "date": "2018-09-25",
+                "info": {
+                    "name": "AvantCommon",
+                    "author": "George Soules",
+                    "description": "Provides common support for, and is required by, the AvantRelationships, AvantSearch, and AvantElements plugins. This plugin has no standalone features.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/gsoules\/AvantCommon",
+                    "support_link": "https:\/\/github.com\/gsoules\/AvantCommon",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.1.0"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/gsoules\/AvantCommon\/releases\/download\/v2.0.0\/AvantCommon-v2.0.0.zip",
                 "date": "2018-08-31",
                 "info": {
