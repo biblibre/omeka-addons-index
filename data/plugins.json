@@ -2682,6 +2682,25 @@
             }
         ]
     },
+    "PodcastFeed": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/ebellempire\/PodcastFeed\/releases\/download\/v1.0\/PodcastFeed.zip",
+                "date": "2018-11-08",
+                "info": {
+                    "name": "Podcast Feed",
+                    "author": "Erin Bell",
+                    "description": "Adds a custom podcast feed and a new Podcast Episode item type.",
+                    "link": "https:\/\/erinbell.org",
+                    "support_link": "https:\/\/erinbell.org",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_tested_up_to": "2.6.1",
+                    "version": "1.0",
+                    "tags": "podcast,output,feeds,rss"
+                }
+            }
+        ]
+    },
     "Posters": {
         "versions": [
             {
