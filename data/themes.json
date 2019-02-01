@@ -100,6 +100,25 @@
             }
         ]
     },
+    "bigstuff": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/charvolant\/bigstuff\/releases\/download\/v1.1\/bigstuff.zip",
+                "date": "2019-01-26",
+                "info": {
+                    "author": "Doug Palmer",
+                    "title": "BigStuff",
+                    "description": "Theme for use with conference papers, based on Berlin.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/github.org\/charvolant\/bigstuff",
+                    "support_link": "http:\/\/github.org\/charvolant\/bigstuff\/issues",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.3",
+                    "version": "1.0"
+                }
+            }
+        ]
+    },
     "centerrow": {
         "versions": [
             {
