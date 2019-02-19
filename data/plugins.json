@@ -2754,6 +2754,26 @@
             }
         ]
     },
+    "ProjectGuide": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/libmanuk\/ProjectGuide\/releases\/download\/v1.1\/ProjectGuide.zip",
+                "date": "2019-02-18",
+                "info": {
+                    "name": "Project Guide",
+                    "author": "Eric C. Weig",
+                    "description": "Omeka Plugin which allows administrators to configure a link to a custom project guide.  The link displays at the admin item view level and on the admin dashboard.",
+                    "license": "MIT",
+                    "link": "https:\/\/github.com\/libmanuk\/ProjectGuide",
+                    "support_link": "https:\/\/github.com\/libmanuk\/ProjectGuide\/issues",
+                    "version": "1.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.6",
+                    "tags": "project-management,documentation-tool,project-guide"
+                }
+            }
+        ]
+    },
     "RecordRelations": {
         "versions": [
             {
