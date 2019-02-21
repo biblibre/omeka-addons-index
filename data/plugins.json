@@ -2543,6 +2543,21 @@
     "OaiPmhRepository": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/zerocrates\/OaiPmhRepository\/releases\/download\/v2.2\/OaiPmhRepository-2.2.zip",
+                "date": "2019-02-20",
+                "info": {
+                    "name": "OAI-PMH Repository",
+                    "author": "John Flatness",
+                    "description": "Exposes Omeka items as an OAI-PMH repository.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/zerocrates\/OaiPmhRepository#readme",
+                    "support_link": "https:\/\/github.com\/zerocrates\/OaiPmhRepository\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.3",
+                    "version": "2.2"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/zerocrates\/OaiPmhRepository\/releases\/download\/v2.1.1\/OaiPmhRepository-2.1.1.zip",
                 "date": "2016-02-27",
                 "info": {
