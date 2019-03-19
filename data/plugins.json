@@ -685,6 +685,26 @@
             }
         ]
     },
+    "DefaultDC": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/libmanuk\/DefaultDC\/releases\/download\/v1.0\/DefaultDC.zip",
+                "date": "2019-03-13",
+                "info": {
+                    "name": "Default Dublin Core",
+                    "author": "Eric C. Weig",
+                    "description": "Omeka Plugin that allows administrators to specify default values for Dublin Core fields.  Dublin Core fields are then auto-filled with default values when records are created or edited.",
+                    "license": "MIT",
+                    "link": "https:\/\/github.com\/libmanuk\/DefaultDC",
+                    "support_link": "https:\/\/github.com\/libmanuk\/DefaultDC\/issues",
+                    "version": "1.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.6",
+                    "tags": "dublin-core,metadata-management,data-entry"
+                }
+            }
+        ]
+    },
     "DerivativeImages": {
         "versions": [
             {
