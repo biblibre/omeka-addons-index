@@ -182,6 +182,22 @@
     "AvantSearch": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/gsoules\/AvantSearch\/releases\/download\/v2.1.0\/AvantSearch-v2.1.0.zip",
+                "date": "2019-03-19",
+                "info": {
+                    "name": "AvantSearch",
+                    "author": "George Soules",
+                    "description": "Provides extended search results cababilites for the public interface.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/gsoules\/AvantSearch",
+                    "support_link": "https:\/\/github.com\/gsoules\/AvantSearch",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.1.0",
+                    "required_plugins": "AvantCommon"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/gsoules\/AvantSearch\/releases\/download\/v2.0.0\/AvantSearch-v2.0.0.zip",
                 "date": "2018-08-31",
                 "info": {
@@ -277,6 +293,21 @@
     },
     "CSSEditor": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-CSSEditor\/releases\/download\/v1.1\/CSSEditor-1.1.zip",
+                "date": "2019-03-20",
+                "info": {
+                    "name": "CSS Editor",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Add public CSS styles through the admin interface.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/CSS_Editor",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "version": "1.1",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.2"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-CSSEditor\/releases\/download\/v1.0.1\/CSSEditor-1.0.1.zip",
                 "date": "2014-12-01",
