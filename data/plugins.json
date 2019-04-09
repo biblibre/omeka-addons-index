@@ -2485,8 +2485,8 @@
     "NeatlineTime": {
         "versions": [
             {
-                "url": "https:\/\/github.com\/scholarslab\/NeatlineTime\/releases\/download\/2.1.0\/Neatline-Time-2.1.0.zip",
-                "date": "2016-01-27",
+                "url": "https:\/\/github.com\/scholarslab\/NeatlineTime\/releases\/download\/v2.1.1\/NeatlineTime.zip",
+                "date": "2019-04-08",
                 "info": {
                     "name": "Neatline Time",
                     "author": "Scholars' Lab",
@@ -2494,7 +2494,7 @@
                     "link": "http:\/\/neatline.org\/",
                     "omeka_minimum_version": "2.0",
                     "omeka_tested_up_to": "2.3",
-                    "version": "2.1.0",
+                    "version": "2.1.1",
                     "tags": "timelines, chronology",
                     "support_link": "http:\/\/github.com\/scholarslab\/NeatlineTime\/issues",
                     "omeka_target_version": "2.0",
