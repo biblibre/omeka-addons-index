@@ -739,6 +739,22 @@
     "DefaultMetadata": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/Bosterm\/DefaultMetadata\/releases\/download\/v2.1\/DefaultMetadata.zip",
+                "date": "2019-08-26",
+                "info": {
+                    "name": "Default Metadata",
+                    "author": "Ben Ostermeier and Eric C. Weig",
+                    "description": "Omeka Plugin that allows administrators to specify default values for item metadata fields, including Dublin Core and Item Type Metadata fields. Metadata fields are then auto-filled with default values when items are created or edited.",
+                    "license": "MIT",
+                    "link": "https:\/\/github.com\/Bosterm\/DefaultMetadata",
+                    "support_link": "https:\/\/github.com\/Bosterm\/DefaultMetadata",
+                    "version": "2.1",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.7",
+                    "tags": "dublin-core,metadata-management,data-entry"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/Bosterm\/DefaultMetadata\/releases\/download\/v2.0\/DefaultMetadata.zip",
                 "date": "2019-08-26",
                 "info": {
@@ -3432,6 +3448,22 @@
     },
     "SocialBookmarking": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-SocialBookmarking\/releases\/download\/v2.0.3\/SocialBookmarking-2.0.3.zip",
+                "date": "2019-08-27",
+                "info": {
+                    "name": "Social Bookmarking",
+                    "author": "Omeka Team",
+                    "description": "Uses AddThis to insert a customizable list of social bookmarking sites on each item page.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/SocialBookmarking\/",
+                    "version": "2.0.3",
+                    "license": "GPLv3",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "tags": "social, syndication"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-SocialBookmarking\/releases\/download\/v2.0.2\/SocialBookmarking-2.0.2.zip",
                 "date": "2014-09-29",
