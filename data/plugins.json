@@ -2810,6 +2810,40 @@
             }
         ]
     },
+    "PBCore2": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-PBCore2\/releases\/download\/v1.0.0\/PBCore2-1.0.0.zip",
+                "date": "2019-10-14",
+                "info": {
+                    "name": "PBCore 2",
+                    "author": "Omeka Team and WGBH",
+                    "description": "Adds elements for describing resources with the PBCore metadata standard",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/PBCore\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.7",
+                    "version": "1.0.0"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-PBCore2\/releases\/download\/v0.0.1\/PBCore2-0.0.1.zip",
+                "date": "2019-08-26",
+                "info": {
+                    "name": "PBCore 2",
+                    "author": "Omeka Team",
+                    "description": "Adds elements for describing resources with the PBCore metadata standard",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.7",
+                    "version": "0.0.1"
+                }
+            }
+        ]
+    },
     "PdfEmbed": {
         "versions": [
             {
