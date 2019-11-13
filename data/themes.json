@@ -51,6 +51,22 @@
     "bigpicture": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.4.1\/bigpicture-v1.4.1.zip",
+                "date": "2019-11-12",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Big Picture",
+                    "description": "An image-centric theme geared towards art historians and students.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/github.com\/omeka\/theme-bigpicture",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "1.4.1",
+                    "tags": "sans-serif,image-heavy"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.3\/bigpicture-v1.3.zip",
                 "date": "2019-08-29",
                 "info": {
@@ -539,6 +555,21 @@
     },
     "thedaily": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-thedaily\/releases\/download\/v1.4\/thedaily-v1.4.zip",
+                "date": "2019-11-12",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "The Daily",
+                    "description": "Image-oriented theme for Omeka.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/github.com\/omeka\/theme-thedaily\/wiki",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_tested_up_to": "2.5",
+                    "version": "1.4"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-thedaily\/releases\/download\/v1.3\/thedaily-v1.3.zip",
                 "date": "2019-08-29",
