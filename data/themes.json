@@ -154,6 +154,21 @@
     "centerrow": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-centerrow\/releases\/download\/v1.4\/centerrow-v1.4.zip",
+                "date": "2019-11-14",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Center Row",
+                    "description": "Image-oriented theme for Omeka. This theme does not support nested top navigation.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/github.com\/omeka\/theme-centerrow\/wiki",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_tested_up_to": "2.5",
+                    "version": "1.4"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-centerrow\/releases\/download\/v1.3\/centerrow-v1.3.zip",
                 "date": "2019-08-29",
                 "info": {
