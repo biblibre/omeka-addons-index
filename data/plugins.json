@@ -1911,6 +1911,24 @@
             }
         ]
     },
+    "ItemDuplicator": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-ItemDuplicator\/releases\/download\/v1.2.2\/plugin-ItemDuplicator.zip",
+                "date": "2020-01-15",
+                "info": {
+                    "name": "Item Duplicator",
+                    "author": "Daniele Binaghi",
+                    "description": "Allows duplicating items",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ItemDuplicator",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.2.3",
+                    "version": "1.2.2",
+                    "tags": "new item, edit item, duplicate item"
+                }
+            }
+        ]
+    },
     "ItemOrder": {
         "versions": [
             {
