@@ -1239,6 +1239,24 @@
             }
         ]
     },
+    "EmailNotification": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification\/releases\/download\/v1.0.1\/plugin-EmailNotification.zip",
+                "date": "2020-01-15",
+                "info": {
+                    "name": "Email Notification",
+                    "author": "Daniele Binaghi",
+                    "description": "Sends e-mail notification when new Item or Collection is added.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.2.3",
+                    "version": "1.0.1",
+                    "tags": "new item, new collection, e-mail notification"
+                }
+            }
+        ]
+    },
     "EmbedCodes": {
         "versions": [
             {
