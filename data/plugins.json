@@ -1242,6 +1242,20 @@
     "EmailNotification": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification\/releases\/download\/v1.2.0\/plugin-EmailNotification.zip",
+                "date": "2020-01-16",
+                "info": {
+                    "name": "Email Notification",
+                    "author": "Daniele Binaghi",
+                    "description": "Send e-mail notification when new Item or Collection or Exhibit is added.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.2.3",
+                    "version": "1.2",
+                    "tags": "new item, new collection, new exhibit, e-mail notification"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification\/releases\/download\/v1.0.1\/plugin-EmailNotification.zip",
                 "date": "2020-01-15",
                 "info": {
