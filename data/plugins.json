@@ -1242,7 +1242,7 @@
     "EmailNotification": {
         "versions": [
             {
-                "url": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification\/releases\/download\/v1.2.0\/plugin-EmailNotification.zip",
+                "url": "https:\/\/github.com\/DBinaghi\/EmailNotification\/releases\/download\/v1.2.0\/EmailNotification.zip",
                 "date": "2020-01-16",
                 "info": {
                     "name": "Email Notification",
@@ -1253,20 +1253,6 @@
                     "omeka_tested_up_to": "2.2.3",
                     "version": "1.2",
                     "tags": "new item, new collection, new exhibit, e-mail notification"
-                }
-            },
-            {
-                "url": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification\/releases\/download\/v1.0.1\/plugin-EmailNotification.zip",
-                "date": "2020-01-15",
-                "info": {
-                    "name": "Email Notification",
-                    "author": "Daniele Binaghi",
-                    "description": "Sends e-mail notification when new Item or Collection is added.",
-                    "link": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification",
-                    "omeka_minimum_version": "2.0",
-                    "omeka_tested_up_to": "2.2.3",
-                    "version": "1.0.1",
-                    "tags": "new item, new collection, e-mail notification"
                 }
             }
         ]
@@ -1946,7 +1932,7 @@
     "ItemDuplicator": {
         "versions": [
             {
-                "url": "https:\/\/github.com\/DBinaghi\/plugin-ItemDuplicator\/releases\/download\/v1.2.2\/plugin-ItemDuplicator.zip",
+                "url": "https:\/\/github.com\/DBinaghi\/ItemDuplicator\/releases\/download\/v1.2.2\/ItemDuplicator.zip",
                 "date": "2020-01-15",
                 "info": {
                     "name": "Item Duplicator",
