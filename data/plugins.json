@@ -1447,6 +1447,26 @@
             }
         ]
     },
+    "FilePaginator": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/kalbers\/FilePaginator\/releases\/download\/v1.0\/FilePaginator.zip",
+                "date": "2020-01-30",
+                "info": {
+                    "name": "File Paginator",
+                    "author": "Ken Albers",
+                    "description": "Allow users to page through files on an item page.",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "",
+                    "version": "1.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.6",
+                    "tags": ""
+                }
+            }
+        ]
+    },
     "FlickrImport": {
         "versions": [
             {
