@@ -2948,6 +2948,22 @@
             }
         ]
     },
+    "OmekaFootnotesJS": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DigitalCarleton\/OmekaFootnotesJS\/releases\/download\/v1.0\/OmekaFootnotesJS.zip",
+                "date": "2020-02-11",
+                "info": {
+                    "name": "Omeka Footnotes JS",
+                    "author": "Austin Mason, Alec Wang, Shiyue Zhang, Chris Padilla",
+                    "version": "1.0",
+                    "omeka_minimum_version": "2.6",
+                    "description": "A plugin to add bigfoot.js footnote functionality to the WYSIWYG on simple or exhibit pages.",
+                    "required_plugins": "ExhibitBuilder,SimplePages"
+                }
+            }
+        ]
+    },
     "PBCore2": {
         "versions": [
             {
