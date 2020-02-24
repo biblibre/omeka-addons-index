@@ -1486,6 +1486,26 @@
             }
         ]
     },
+    "GDriveLinks": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/libmanuk\/GdriveLinks\/releases\/download\/v1.0\/GDriveLinks.zip",
+                "date": "2020-02-24",
+                "info": {
+                    "name": "GDriveLinks Plugin",
+                    "author": "Eric C. Weig",
+                    "description": "Uses the URL Item Type Metadata field to create links to Google Drive documents and\/or embeds Google Drive documents within Omeka item views.",
+                    "license": "GNU",
+                    "link": "https:\/\/github.com\/libmanuk\/GDriveLinks",
+                    "support_link": "https:\/\/github.com\/libmanuk\/GDriveLinks\/issues",
+                    "version": "1.0.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.7",
+                    "tags": ""
+                }
+            }
+        ]
+    },
     "Geolocation": {
         "versions": [
             {
