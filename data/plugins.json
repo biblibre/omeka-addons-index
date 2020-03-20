@@ -1018,6 +1018,22 @@
     "Editorial": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Editorial\/releases\/download\/v1.1.0\/Editorial-1.1.0.zip",
+                "date": "2020-03-17",
+                "info": {
+                    "name": "Editorial",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Allows editorial feedback when building exhibits",
+                    "version": "1.1.0",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/Editorial",
+                    "omeka_minimum_version": "2.4",
+                    "license": "GPLv3",
+                    "omeka_target_version": "2.4.1",
+                    "required_plugins": "ExhibitBuilder"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Editorial\/releases\/download\/v1.0.3\/Editorial.zip",
                 "date": "2017-08-22",
                 "info": {
