@@ -2,6 +2,21 @@
     "berlin": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-berlin\/releases\/download\/v2.6.1\/theme-berlin-v2.6.1.zip",
+                "date": "2020-04-06",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.6.1"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-berlin\/releases\/download\/v2.6\/theme-berlin-v2.6.zip",
                 "date": "2018-02-14",
                 "info": {
