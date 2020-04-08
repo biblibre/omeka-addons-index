@@ -3242,6 +3242,22 @@
     "Scripto": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Scripto\/releases\/download\/v2.4\/Scripto-2.4.zip",
+                "date": "2020-04-08",
+                "info": {
+                    "name": "Scripto",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Adds the ability to transcribe items using the Scripto library.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/Scripto_2.0",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "2.4",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.4",
+                    "tags": "scripto, transcription, crowdsource, documents"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Scripto\/releases\/download\/v2.3\/Scripto-2.3.zip",
                 "date": "2017-07-06",
                 "info": {
