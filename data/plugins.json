@@ -773,6 +773,22 @@
     "DefaultMetadata": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/Bosterm\/DefaultMetadata\/releases\/download\/v3.0\/DefaultMetadata.zip",
+                "date": "2020-05-07",
+                "info": {
+                    "name": "Default Metadata",
+                    "author": "Ben Ostermeier and Eric C. Weig",
+                    "description": "Omeka Plugin that allows administrators to specify default values for item metadata fields, including Dublin Core and Item Type Metadata fields. Metadata fields are then auto-filled with default values when items are created or edited.",
+                    "license": "MIT",
+                    "link": "https:\/\/github.com\/Bosterm\/DefaultMetadata",
+                    "support_link": "https:\/\/github.com\/Bosterm\/DefaultMetadata",
+                    "version": "3.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.7.1",
+                    "tags": "dublin-core,metadata-management,data-entry"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/Bosterm\/DefaultMetadata\/releases\/download\/v2.1.2\/DefaultMetadata.zip",
                 "date": "2019-11-07",
                 "info": {
@@ -1766,6 +1782,21 @@
     },
     "Html5Media": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/zerocrates\/Html5Media\/releases\/download\/v2.8\/Html5Media-2.8.zip",
+                "date": "2020-05-08",
+                "info": {
+                    "name": "HTML5 Media",
+                    "author": "John Flatness",
+                    "description": "Enables HTML5 for media files using MediaElement.js.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/zerocrates\/Html5Media#readme",
+                    "support_link": "https:\/\/github.com\/zerocrates\/Html5Media\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.7",
+                    "version": "2.8"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/zerocrates\/Html5Media\/releases\/download\/v2.7\/Html5Media-2.7.zip",
                 "date": "2018-03-10",
