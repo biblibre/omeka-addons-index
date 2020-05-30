@@ -485,6 +485,22 @@
     "Commenting": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Commenting\/releases\/download\/v2.3\/Commenting-2.3.zip",
+                "date": "2020-05-29",
+                "info": {
+                    "name": "Commenting",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Allows commenting on Items, Collections, Exhibits, and more",
+                    "version": "2.3",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Commenting\/",
+                    "omeka_minimum_version": "2.6",
+                    "license": "GPLv3",
+                    "omeka_target_version": "2.6",
+                    "optional_plugins": "GuestUser"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Commenting\/releases\/download\/v2.2\/Commenting-2.2.zip",
                 "date": "2018-02-14",
                 "info": {
