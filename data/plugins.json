@@ -1834,6 +1834,21 @@
     "Html5Media": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/zerocrates\/Html5Media\/releases\/download\/v2.8.1\/Html5Media-2.8.1.zip",
+                "date": "2020-06-13",
+                "info": {
+                    "name": "HTML5 Media",
+                    "author": "John Flatness",
+                    "description": "Enables HTML5 for media files using MediaElement.js.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/zerocrates\/Html5Media#readme",
+                    "support_link": "https:\/\/github.com\/zerocrates\/Html5Media\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.7",
+                    "version": "2.8.1"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/zerocrates\/Html5Media\/releases\/download\/v2.8\/Html5Media-2.8.zip",
                 "date": "2020-05-08",
                 "info": {
