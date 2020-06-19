@@ -7,7 +7,7 @@ It also contains the script that generates this list and it is launched
 periodically by [Travis CI](https://travis-ci.org), so this is list is kept
 up-to-date automatically.
 
-[![Build Status](https://travis-ci.org/jajm/omeka-addons-index.svg?branch=master)](https://travis-ci.org/jajm/omeka-addons-index)
+[![Build Status](https://travis-ci.org/biblibre/omeka-addons-index.svg?branch=master)](https://travis-ci.org/biblibre/omeka-addons-index)
 
 * [List of plugins](data/plugins.json)
 * [List of themes](data/themes.json)
