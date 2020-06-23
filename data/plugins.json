@@ -1606,6 +1606,21 @@
     "Geolocation": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Geolocation\/releases\/download\/v3.2\/Geolocation-3.2.zip",
+                "date": "2020-06-22",
+                "info": {
+                    "name": "Geolocation",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Adds location info and maps to Omeka",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/classic\/docs\/Plugins\/Geolocation\/",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.5",
+                    "version": "3.2"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Geolocation\/releases\/download\/v3.1\/Geolocation-3.1.zip",
                 "date": "2020-04-16",
                 "info": {
