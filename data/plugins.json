@@ -768,6 +768,22 @@
     "CsvImport": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-CsvImport\/releases\/download\/v2.0.5\/CsvImport-2.0.5.zip",
+                "date": "2020-08-14",
+                "info": {
+                    "name": "CSV Import",
+                    "author": "Omeka Team",
+                    "description": "Imports items, tags, and files from CSV files.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/CSV_Import\/",
+                    "version": "2.0.5",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPL",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.7",
+                    "tags": "import, csv"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-CsvImport\/releases\/download\/v2.0.4\/CsvImport-2.0.4.zip",
                 "date": "2016-07-22",
                 "info": {
