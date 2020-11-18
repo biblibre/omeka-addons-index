@@ -365,6 +365,21 @@
     "foundation": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-foundation-classic\/releases\/download\/v1.0.1\/theme-foundation-classic-v1.0.1.zip",
+                "date": "2020-11-17",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Foundation",
+                    "description": "A starter theme using the ZURB Foundation toolkit.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "1.0.1"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-foundation-classic\/releases\/download\/v1.0.0\/theme-foundation-classic-v1.0.0.zip",
                 "date": "2020-08-25",
                 "info": {
