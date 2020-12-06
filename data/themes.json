@@ -414,6 +414,22 @@
     "minimalist": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-minimalist\/releases\/download\/v2.4.3\/miminalist-v2.4.3.zip",
+                "date": "2020-12-04",
+                "info": {
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "title": "Minimalist",
+                    "description": "Clean lines, architectural.",
+                    "license": "GPLv3",
+                    "website": "http:\/\/omeka.org",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "2.4.3",
+                    "tags": "lines, minimal, architectural, purple, white, mobile-first, sans-serif"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-minimalist\/releases\/download\/v2.4.2\/minimalist-v2.4.2.zip",
                 "date": "2019-08-29",
                 "info": {
