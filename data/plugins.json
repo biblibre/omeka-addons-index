@@ -2497,6 +2497,26 @@
             }
         ]
     },
+    "LimitVisibilityToOwn": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-LimitVisibilityToOwn\/releases\/download\/v1.0\/LimitVisibilityToOwn.zip",
+                "date": "2020-01-15",
+                "info": {
+                    "name": "Limit visibility to own",
+                    "author": "Daniele Binaghi",
+                    "description": "Shows only items and collections contributed by the user",
+                    "version": "1.0",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.4",
+                    "required_plugins": ""
+                }
+            }
+        ]
+    },
     "LocaleSwitcher": {
         "versions": [
             {
