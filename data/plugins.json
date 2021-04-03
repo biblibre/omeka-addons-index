@@ -3499,6 +3499,24 @@
             }
         ]
     },
+    "PublicEditLink": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-PublicEditLink\/releases\/download\/v1.1\/PublicEditLink.zip",
+                "date": "2021-04-01",
+                "info": {
+                    "name": "Public Edit Link",
+                    "author": "Daniele Binaghi",
+                    "description": "Adds link to public UI to edit current Item\/Collection\/File when logged in.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ItemEditLink",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.2.3",
+                    "version": "1.1.0",
+                    "tags": "Item, Collection, File, public, Omeka Classic, UI"
+                }
+            }
+        ]
+    },
     "RecordRelations": {
         "versions": [
             {
