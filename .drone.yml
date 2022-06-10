@@ -1,0 +1,31 @@
+---
+kind: pipeline
+type: docker
+name: update
+
+platform:
+  os: linux
+  arch: amd64
+
+steps:
+- name: update
+  image: php:7.1-cli
+  commands:
+  - apt-get update && apt-get install -y --no-install-recommends libzip-dev
+  - docker-php-ext-install zip
+  - .drone/get-composer.sh
+  - php composer.phar install
+  - bin/update
+- name: push
+  image: alpine
+  commands:
+  - apk add git openssh
+  - .drone/push.sh
+  environment:
+    GH_DEPLOY_KEY:
+      from_secret: GH_DEPLOY_KEY
+---
+kind: signature
+hmac: b5beac27d944fea3b9429af51bef4a68d1752f8c6abf1c8d2f8d5c355d35437e
+
+...
