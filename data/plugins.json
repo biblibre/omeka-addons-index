@@ -18,42 +18,6 @@
             }
         ]
     },
-    "Annotator": {
-        "versions": [
-            {
-                "url": "https:\/\/github.com\/ebellempire\/Annotator\/releases\/download\/v.1.0.1\/Annotator.zip",
-                "date": "2017-11-01",
-                "info": {
-                    "name": "Annotator",
-                    "author": "Erin Bell",
-                    "description": "Adds hypothes.is scripts to Omeka items and collections, allowing registered hypothes.is users to highlight and annotate text.",
-                    "link": "https:\/\/hypothes.is\/",
-                    "support_link": "https:\/\/hypothes.is\/",
-                    "omeka_minimum_version": "2.0",
-                    "omeka_tested_up_to": "2.5.1",
-                    "version": "1.0.1",
-                    "license": "GPLv3",
-                    "tags": "comments, annotation, annotator, annotatorjs, hypothesis, social, text"
-                }
-            },
-            {
-                "url": "https:\/\/github.com\/ebellempire\/Annotator\/releases\/download\/v.1.0\/Annotator.zip",
-                "date": "2017-10-19",
-                "info": {
-                    "name": "Annotator",
-                    "author": "Erin Bell",
-                    "description": "Adds AnnotatorJS scripts to Omeka items, files, and pages, allowing users to highlight and annotate text. Annotations are moderated at hypothes.is (account required).",
-                    "link": "http:\/\/annotatorjs.org\/",
-                    "support_link": "https:\/\/hypothes.is\/",
-                    "omeka_minimum_version": "2.0",
-                    "omeka_tested_up_to": "2.3.1",
-                    "version": "1.0",
-                    "license": "GPLv3",
-                    "tags": "comments, annotation, annotator, annotatorjs, hopothesis, social, text"
-                }
-            }
-        ]
-    },
     "ArchiveRepertory": {
         "versions": [
             {
@@ -252,6 +216,22 @@
     "BatchUpload": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/utlib\/BatchUpload\/releases\/download\/v1.1.0\/BatchUpload.zip",
+                "date": "2021-07-12",
+                "info": {
+                    "name": "Batch Uploader",
+                    "author": "University of Toronto Libraries",
+                    "description": "Plugin for quickly uploading many files to Omeka.",
+                    "version": "1.1.0",
+                    "license": "Apache-2.0",
+                    "link": "https:\/\/github.com\/utlib\/BatchUpload",
+                    "support_link": "https:\/\/github.com\/utlib\/IiifItems\/issues",
+                    "optional_plugins": "IiifItems",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.5"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/utlib\/BatchUpload\/releases\/download\/v1.0.0\/BatchUpload.zip",
                 "date": "2018-04-02",
                 "info": {
@@ -265,6 +245,38 @@
                     "optional_plugins": "IiifItems",
                     "omeka_minimum_version": "2.3",
                     "omeka_target_version": "2.5"
+                }
+            }
+        ]
+    },
+    "BlockParty": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/jaguillette\/BlockParty\/releases\/download\/v1.0.1\/BlockParty.zip",
+                "date": "2021-12-07",
+                "info": {
+                    "name": "Block Party",
+                    "author": "Jeremy Guillette",
+                    "description": "Adds new, useful Exhibit blocks, like groups of Items, Collections, or other Exhibits.",
+                    "version": "1.0.1",
+                    "license": "GPL v3",
+                    "link": "",
+                    "support_link": "",
+                    "omeka_target_version": "3.0"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/jaguillette\/BlockParty\/releases\/download\/v1.0\/BlockParty.zip",
+                "date": "2019-05-31",
+                "info": {
+                    "name": "Block Party",
+                    "author": "Jeremy Guillette",
+                    "description": "Adds new, useful Exhibit blocks, like groups of Items, Collections, or other Exhibits.",
+                    "version": "0.1",
+                    "license": "GPL v3",
+                    "link": "",
+                    "support_link": "",
+                    "omeka_target_version": "2.4"
                 }
             }
         ]
@@ -377,6 +389,51 @@
     },
     "ClickableLinksPlus": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/releases\/download\/v1.3.2\/ClickableLinksPlus.zip",
+                "date": "2021-08-05",
+                "info": {
+                    "name": "Clickable Links Plus",
+                    "author": "Daniele Binaghi",
+                    "description": "Turns URLs in non-HTML text fields into \u00bbtarget='_blank'\u00ab clickable hyperlinks.",
+                    "version": "1.3.2",
+                    "license": "CeCILL v2.1",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/releases\/download\/v1.3.1\/ClickableLinksPlus.zip",
+                "date": "2021-07-17",
+                "info": {
+                    "name": "Clickable Links Plus",
+                    "author": "Daniele Binaghi",
+                    "description": "Turns URLs in non-HTML text fields into \u00bbtarget='_blank'\u00ab clickable hyperlinks.",
+                    "version": "1.3.1",
+                    "license": "CeCILL v2.1",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/releases\/download\/v1.3\/ClickableLinksPlus.zip",
+                "date": "2021-04-07",
+                "info": {
+                    "name": "Clickable Links Plus",
+                    "author": "Daniele Binaghi",
+                    "description": "Turns URLs in non-HTML text fields into \u00bbtarget='_blank'\u00ab clickable hyperlinks.",
+                    "version": "1.3",
+                    "license": "CeCILL v2.1",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/releases\/download\/v1.2\/ClickableLinksPlus.zip",
                 "date": "2020-10-11",
@@ -530,6 +587,22 @@
     },
     "Commenting": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-Commenting\/releases\/download\/v2.4\/Commenting-2.4.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Commenting",
+                    "author": "Omeka Team",
+                    "description": "Allows commenting on Items, Collections, Exhibits, and more",
+                    "version": "2.4",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Commenting\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "license": "GPLv3",
+                    "optional_plugins": "GuestUser"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-Commenting\/releases\/download\/v2.3\/Commenting-2.3.zip",
                 "date": "2020-05-29",
@@ -697,6 +770,24 @@
     "Contribution": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Contribution\/releases\/download\/v3.3\/Contribution-3.3.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Contribution",
+                    "author": "Omeka Team",
+                    "description": "Allows collecting items from visitors",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Contribution\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "3.3",
+                    "tags": "social, items",
+                    "license": "GPLv3",
+                    "required_plugins": "GuestUser",
+                    "optional_plugins": "UserProfiles"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Contribution\/releases\/download\/v3.2\/Contribution-3.2.zip",
                 "date": "2018-02-14",
                 "info": {
@@ -791,8 +882,58 @@
             }
         ]
     },
+    "CourseTools": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/jaguillette\/omeka-plugin-CourseTools\/releases\/download\/v1.2\/CourseTools.zip",
+                "date": "2021-12-08",
+                "info": {
+                    "name": "Course Tools",
+                    "author": "Jeremy Guillette",
+                    "description": "Adds user roles useful for courses, including a student role with customizable permissions.",
+                    "version": "1.2",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/jaguillette\/omeka-plugin-CourseTools",
+                    "support_link": "https:\/\/github.com\/jaguillette\/omeka-plugin-CourseTools\/issues",
+                    "omeka_target_version": "3.0",
+                    "optional_plugins": "ExhibitBuilder,Neatline,SimplePages"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/jaguillette\/omeka-plugin-CourseTools\/releases\/download\/v1.1\/CourseTools.zip",
+                "date": "2021-11-12",
+                "info": {
+                    "name": "Course Tools",
+                    "author": "Jeremy Guillette",
+                    "description": "Adds user roles useful for courses, including a student role with customizable permissions.",
+                    "version": "0.1",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/jaguillette\/omeka-plugin-CourseTools",
+                    "support_link": "https:\/\/github.com\/jaguillette\/omeka-plugin-CourseTools\/issues",
+                    "omeka_target_version": "2.4.1",
+                    "optional_plugins": "ExhibitBuilder,Neatline,SimplePages"
+                }
+            }
+        ]
+    },
     "CsvExport": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/utlib\/CsvExport\/releases\/download\/v1.1.2\/CsvExport.zip",
+                "date": "2021-07-05",
+                "info": {
+                    "name": "CSV Export Format",
+                    "author": "University of Toronto Libraries",
+                    "description": "Adds CSV as an item export format. Can optionally work with annotations and nested collections from IIIF Toolkit with Mirador.",
+                    "version": "1.1.2",
+                    "license": "Apache License 2.0",
+                    "link": "https:\/\/github.com\/utlib\/CsvExport",
+                    "support_link": "https:\/\/github.com\/utlib\/CsvExport\/issues",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.5",
+                    "optional_plugins": "IiifItems"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/utlib\/CsvExport\/releases\/download\/v1.0.1\/CsvExport.zip",
                 "date": "2017-07-28",
@@ -813,6 +954,22 @@
     },
     "CsvImport": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-CsvImport\/releases\/download\/v2.0.6\/CsvImport-2.0.6.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "CSV Import",
+                    "author": "Omeka Team",
+                    "description": "Imports items, tags, and files from CSV files.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/CSV_Import\/",
+                    "version": "2.0.6",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPL",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0",
+                    "tags": "import, csv"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-CsvImport\/releases\/download\/v2.0.5\/CsvImport-2.0.5.zip",
                 "date": "2020-08-14",
@@ -1006,6 +1163,21 @@
     "DisqusEngage": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/ebellempire\/DisqusEngage\/releases\/download\/1.0.1\/DisqusEngage.zip",
+                "date": "2021-09-03",
+                "info": {
+                    "name": "Disqus Engage",
+                    "author": "Erin Bell",
+                    "description": "Embed Disqus comments on item and\/or collection templates. Comments are moderated at disqus.com (account required).",
+                    "link": "http:\/\/erinbell.org",
+                    "support_link": "https:\/\/publishers.disqus.com\/engage\/",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.8",
+                    "version": "1.0.1",
+                    "tags": "comments, disqus, engage, social"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/ebellempire\/DisqusEngage\/releases\/download\/v.1.0\/DisqusEngage.zip",
                 "date": "2017-10-19",
                 "info": {
@@ -1147,6 +1319,22 @@
     "Editorial": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Editorial\/releases\/download\/v1.2\/Editorial-1.2.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Editorial",
+                    "author": "Omeka Team",
+                    "description": "Allows editorial feedback when building exhibits",
+                    "version": "1.2",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Editorial\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "license": "GPLv3",
+                    "required_plugins": "ExhibitBuilder"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Editorial\/releases\/download\/v1.1.0\/Editorial-1.1.0.zip",
                 "date": "2020-03-17",
                 "info": {
@@ -1230,6 +1418,20 @@
     },
     "Elasticsearch": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/Harvard-ATG\/omeka-plugin-Elasticsearch\/releases\/download\/v1.2.0\/Elasticsearch.zip",
+                "date": "2022-05-19",
+                "info": {
+                    "name": "Elasticsearch",
+                    "description": "Integrate Elasticsearch into Omeka for searching.",
+                    "author": "HUIT Academic Technology",
+                    "license": "BSD-3",
+                    "version": "1.2.0",
+                    "link": "https:\/\/github.com\/Harvard-ATG\/omeka-plugin-Elasticsearch",
+                    "support_link": "https:\/\/github.com\/Harvard-ATG\/omeka-plugin-Elasticsearch\/issues",
+                    "omeka_minimum_version": "2.5"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/Harvard-ATG\/omeka-plugin-Elasticsearch\/releases\/download\/v1.0.3\/Elasticsearch.zip",
                 "date": "2017-12-19",
@@ -1387,6 +1589,20 @@
     "EmailNotification": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/EmailNotification\/releases\/download\/v.1.4\/EmailNotification.zip",
+                "date": "2021-11-13",
+                "info": {
+                    "name": "E-mail Notification",
+                    "author": "Daniele Binaghi",
+                    "description": "Send e-mail notification when new Item or Collection or Exhibit is added.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "3.0.1",
+                    "version": "1.4",
+                    "tags": "new item, new collection, new exhibit, e-mail notification"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/EmailNotification\/releases\/download\/v.1.3\/EmailNotification.zip",
                 "date": "2020-04-10",
                 "info": {
@@ -1416,6 +1632,38 @@
             }
         ]
     },
+    "EmailUsers": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-EmailUsers\/releases\/download\/v1.2\/EmailUsers.zip",
+                "date": "2021-09-15",
+                "info": {
+                    "name": "E-mail Users",
+                    "author": "Daniele Binaghi",
+                    "description": "Allows to contact users via e-mail",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-EmailUsers",
+                    "omeka_minimum_version": "2.7",
+                    "omeka_tested_up_to": "2.8",
+                    "version": "1.2",
+                    "tags": "e-mail, users"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-EmailUsers\/releases\/download\/v1.1\/EmailUsers.zip",
+                "date": "2021-09-09",
+                "info": {
+                    "name": "E-mail Users",
+                    "author": "Daniele Binaghi",
+                    "description": "Allows to contact users via e-mail",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-EmailUsers",
+                    "omeka_minimum_version": "2.7",
+                    "omeka_tested_up_to": "2.8",
+                    "version": "1.1",
+                    "tags": "e-mail, users"
+                }
+            }
+        ]
+    },
     "EmbedCodes": {
         "versions": [
             {
@@ -1437,6 +1685,70 @@
     },
     "ExhibitBuilder": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.5.3\/ExhibitBuilder-3.5.3.zip",
+                "date": "2022-05-05",
+                "info": {
+                    "name": "Exhibit Builder",
+                    "author": "Omeka Team",
+                    "description": "Build rich exhibits using Omeka.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitBuilder\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "3.5.3",
+                    "tags": "exhibit, pages, presentation"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.5.2\/ExhibitBuilder-3.5.2.zip",
+                "date": "2022-04-21",
+                "info": {
+                    "name": "Exhibit Builder",
+                    "author": "Omeka Team",
+                    "description": "Build rich exhibits using Omeka.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitBuilder\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "3.5.2",
+                    "tags": "exhibit, pages, presentation"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.5.1\/ExhibitBuilder-3.5.1.zip",
+                "date": "2022-03-01",
+                "info": {
+                    "name": "Exhibit Builder",
+                    "author": "Omeka Team",
+                    "description": "Build rich exhibits using Omeka.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitBuilder\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "3.5.1",
+                    "tags": "exhibit, pages, presentation"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.5\/ExhibitBuilder-3.5.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Exhibit Builder",
+                    "author": "Omeka Team",
+                    "description": "Build rich exhibits using Omeka.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitBuilder\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "3.5",
+                    "tags": "exhibit, pages, presentation"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.4.3\/ExhibitBuilder-3.4.3.zip",
                 "date": "2021-03-23",
@@ -1570,6 +1882,22 @@
     "ExhibitImageAnnotation": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitImageAnnotation\/releases\/download\/v1.2\/ExhibitImageAnnotation-1.2.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Exhibit Image Annotation",
+                    "author": "Omeka Team",
+                    "description": "Annotate images in your exhibits.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitImageAnnotation\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "1.2",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "required_plugins": "ExhibitBuilder"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ExhibitImageAnnotation\/releases\/download\/v1.0.1\/ExhibitImageAnnotation-1.0.1.zip",
                 "date": "2018-06-14",
                 "info": {
@@ -1618,6 +1946,145 @@
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.4",
                     "tags": "export"
+                }
+            }
+        ]
+    },
+    "Facets": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.8.1\/Facets.zip",
+                "date": "2021-12-11",
+                "info": {
+                    "name": "Facets",
+                    "author": "Jean-Baptiste Heren and Daniele Binaghi",
+                    "description": "Adds a faceted navigation block to narrow down Items and Collections search results by applying multiple filters",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-Facets",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/issues",
+                    "version": "2.8.1",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_target_version": "2.6.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.7.1\/Facets.zip",
+                "date": "2021-10-03",
+                "info": {
+                    "name": "Facets",
+                    "author": "Jean-Baptiste Heren and Daniele Binaghi",
+                    "description": "Adds a faceted navigation block to narrow down Items and Collections search results by applying multiple filters",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-Facets",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/issues",
+                    "version": "2.7.1",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_target_version": "2.6.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.7\/Facets.zip",
+                "date": "2021-09-29",
+                "info": {
+                    "name": "Facets",
+                    "author": "Jean-Baptiste Heren and Daniele Binaghi",
+                    "description": "Adds a faceted navigation block to narrow down Items and Collections search results by applying multiple filters",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-Facets",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/issues",
+                    "version": "2.7",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_target_version": "2.6.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.6.1\/Facets.zip",
+                "date": "2021-07-23",
+                "info": {
+                    "name": "Facets",
+                    "author": "Jean-Baptiste Heren and Daniele Binaghi",
+                    "description": "Adds a faceted navigation block to narrow down Items and Collections search results by applying multiple filters",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-Facets",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/issues",
+                    "version": "2.6.1",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_target_version": "2.6.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.5\/Facets.zip",
+                "date": "2021-07-18",
+                "info": {
+                    "name": "Facets",
+                    "author": "Jean-Baptiste Heren and Daniele Binaghi",
+                    "description": "Adds a faceted navigation block to narrow down Items and Collections search results by applying multiple filters",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-Facets",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/issues",
+                    "version": "2.5",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_target_version": "2.6.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.4\/Facets.zip",
+                "date": "2021-07-07",
+                "info": {
+                    "name": "Facets",
+                    "author": "Jean-Baptiste Heren and Daniele Binaghi",
+                    "description": "Adds a faceted navigation block to narrow down Items and Collections search results by applying multiple filters",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "",
+                    "version": "2.4",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_target_version": "2.6.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.3\/Facets.zip",
+                "date": "2021-07-05",
+                "info": {
+                    "name": "Facets",
+                    "author": "Jean-Baptiste Heren and Daniele Binaghi",
+                    "description": "Adds a faceted navigation block to narrow down Items and Collections search results by applying multiple filters",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "",
+                    "version": "2.3",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_target_version": "2.6.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.2\/Facets.zip",
+                "date": "2021-06-13",
+                "info": {
+                    "name": "Facets",
+                    "author": "Jean-Baptiste Heren and Daniele Binaghi",
+                    "description": "Adds a faceted navigation block to narrow down Items and Collections search results by applying multiple filters",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "",
+                    "version": "2.2",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_target_version": "2.6.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.0\/Facets.zip",
+                "date": "2021-06-09",
+                "info": {
+                    "name": "Facets",
+                    "author": "Jean-Baptiste HEREN and Daniele BINAGHI",
+                    "description": "Filter browse\/advanced search using facets",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "",
+                    "version": "2.0",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_target_version": "2.6.1"
                 }
             }
         ]
@@ -1683,6 +2150,21 @@
     },
     "Geolocation": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-Geolocation\/releases\/download\/v3.2.2\/Geolocation-3.2.2.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Geolocation",
+                    "author": "Omeka Team",
+                    "description": "Adds location info and maps to Omeka",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Geolocation\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "3.0",
+                    "version": "3.2.2"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-Geolocation\/releases\/download\/v3.2\/Geolocation-3.2.zip",
                 "date": "2020-06-22",
@@ -1792,6 +2274,21 @@
     },
     "GuestUser": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-GuestUser\/releases\/download\/v1.2\/GuestUser-1.2.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Guest User",
+                    "author": "Omeka Team",
+                    "description": "Adds a guest user role. Can't access backend, but allows plugins to use an authenticated user",
+                    "version": "1.2",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/GuestUser\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "license": "GPLv3"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-GuestUser\/releases\/download\/v1.1.3\/GuestUser.zip",
                 "date": "2018-02-15",
@@ -1926,6 +2423,38 @@
     },
     "HonorThyLibrarians": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-HonorThyLibrarians\/releases\/download\/v1.3\/HonorThyLibrarians.zip",
+                "date": "2021-10-22",
+                "info": {
+                    "name": "Honor Thy Librarians",
+                    "author": "Daniele Binaghi",
+                    "original_author": "Lincoln A. Mullen",
+                    "description": "Gives credit to people who have added or edited Items",
+                    "version": "1.3",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-HonorThyLibrarians\/issues",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-HonorThyLibrarians",
+                    "omeka_minimum_version": "2.0",
+                    "license": "GPLv3",
+                    "omeka_target_version": "2.1.4"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-HonorThyLibrarians\/releases\/download\/v1.2\/HonorThyLibrarians.zip",
+                "date": "2021-09-15",
+                "info": {
+                    "name": "Honor Thy Librarians",
+                    "author": "Daniele Binaghi",
+                    "original_author": "Lincoln A. Mullen",
+                    "description": "Gives credit to people who have added or edited items in your Omeka database",
+                    "version": "1.2",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-HonorThyLibrarians\/issues",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-HonorThyLibrarians",
+                    "omeka_minimum_version": "2.0",
+                    "license": "GPLv3",
+                    "omeka_target_version": "2.1.4"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-HonorThyLibrarians\/releases\/download\/v1.1\/HonorThyLibrarians.zip",
                 "date": "2020-05-07",
@@ -2144,6 +2673,27 @@
             }
         ]
     },
+    "IiifItemEmbed": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/jaguillette\/IiifItemEmbed\/releases\/download\/v1.1\/IiifItemEmbed.zip",
+                "date": "2021-11-16",
+                "info": {
+                    "name": "IIIF Toolkit Embed",
+                    "author": "Jeremy Guillette",
+                    "description": "Adds a customizable, embeddable Mirador viewer page to show content from IIIF Toolkit on other sites",
+                    "version": "0.1",
+                    "license": "Apache License 2.0",
+                    "link": "https:\/\/github.com\/jaguillette\/IiifItemEmbed",
+                    "support_link": "https:\/\/github.com\/jaguillette\/IiifItemEmbed\/issues",
+                    "optional_plugins": "ExhibitBuilder,SimplePages,Neatline",
+                    "required_plugins": "IiifItems",
+                    "omeka_minimum_version": "2.3",
+                    "omeka_target_version": "2.7"
+                }
+            }
+        ]
+    },
     "IiifItems": {
         "versions": [
             {
@@ -2203,6 +2753,21 @@
     "IntenseDebate": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/ebellempire\/IntenseDebate\/releases\/download\/1.0.2\/IntenseDebate.zip",
+                "date": "2021-09-03",
+                "info": {
+                    "name": "Intense Debate",
+                    "author": "Erin Bell",
+                    "description": "Embed Intense Debate comments on item and\/or collection templates. Comments are moderated at intensedebate.com (account required).",
+                    "link": "http:\/\/erinbell.org",
+                    "support_link": "http:\/\/support.intensedebate.com\/",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.8",
+                    "version": "1.0.2",
+                    "tags": "comments, intensedebate, social"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/ebellempire\/IntenseDebate\/releases\/download\/v.1.0\/IntenseDebate.zip",
                 "date": "2017-10-19",
                 "info": {
@@ -2242,6 +2807,21 @@
     },
     "ItemDuplicator": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/ItemDuplicator\/releases\/download\/v1.4\/ItemDuplicator.zip",
+                "date": "2022-05-15",
+                "info": {
+                    "name": "Item Duplicator",
+                    "author": "Daniele Binaghi",
+                    "description": "Allows duplicating items",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ItemDuplicator",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-ItemDuplicator\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "3.0.3",
+                    "version": "1.4",
+                    "tags": "new item, edit item, duplicate item"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/DBinaghi\/ItemDuplicator\/releases\/download\/v1.3\/ItemDuplicator.zip",
                 "date": "2020-12-30",
@@ -2390,6 +2970,22 @@
     "ItemRelations": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-ItemRelations\/releases\/download\/v2.2.1\/ItemRelations-2.2.1.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Item Relations",
+                    "author": "Omeka Team",
+                    "description": "Allows administrators to define relations between items.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ItemRelations\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPLv3",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.2.1",
+                    "tags": "item,relation,rdf"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ItemRelations\/releases\/download\/v2.2\/ItemRelations-2.2.zip",
                 "date": "2021-03-09",
                 "info": {
@@ -2512,6 +3108,22 @@
     "LcSuggest": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-LcSuggest\/releases\/download\/v2.0.4\/LcSuggest-2.0.4.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "LC Suggest",
+                    "author": "Omeka Team",
+                    "description": "Enable an autosuggest feature for Omeka elements using the Library of Congress Authorities and Vocabularies service: http:\/\/id.loc.gov",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Library_of_Congress_Suggest\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "2.0.4",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0",
+                    "tags": "authority,vocabulary"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-LcSuggest\/releases\/download\/v2.0.3\/LcSuggest-2.0.3.zip",
                 "date": "2019-11-07",
                 "info": {
@@ -2547,6 +3159,38 @@
     },
     "LimitVisibilityToOwn": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-LimitVisibilityToOwn\/releases\/download\/v1.2\/LimitVisibilityToOwn.zip",
+                "date": "2021-05-04",
+                "info": {
+                    "name": "Limit visibility to own",
+                    "author": "Daniele Binaghi",
+                    "description": "Shows only items and collections contributed by the user",
+                    "version": "1.2",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.4",
+                    "required_plugins": ""
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-LimitVisibilityToOwn\/releases\/download\/v1.1\/LimitVisibilityToOwn.zip",
+                "date": "2021-04-25",
+                "info": {
+                    "name": "Limit visibility to own",
+                    "author": "Daniele Binaghi",
+                    "description": "Shows only items and collections contributed by the user",
+                    "version": "1.1",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.4",
+                    "required_plugins": ""
+                }
+            },
             {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-LimitVisibilityToOwn\/releases\/download\/v1.0\/LimitVisibilityToOwn.zip",
                 "date": "2020-01-15",
@@ -2619,6 +3263,25 @@
             }
         ]
     },
+    "MapsAlive": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/gsoules\/MapsAlive-Plugin\/releases\/download\/v1.1\/MapsAlive-v1.1.zip",
+                "date": "2022-04-27",
+                "info": {
+                    "name": "MapsAlive",
+                    "author": "George Soules",
+                    "description": "Provides MapsAlive Live Data access to Omeka items",
+                    "license": "GPLv3",
+                    "link": "https:\/\/digitalarchive.us\/plugins\/mapsalive\/",
+                    "support_link": "https:\/\/digitalarchive.us\/plugins\/mapsalive\/",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "2.5",
+                    "version": "1.0.0"
+                }
+            }
+        ]
+    },
     "MetsExport": {
         "versions": [
             {
@@ -2641,6 +3304,23 @@
     },
     "Neatline": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/v2.6.4\/Neatline.zip",
+                "date": "2021-05-19",
+                "info": {
+                    "name": "Neatline",
+                    "author": "Scholars' Lab",
+                    "description": "Plot your course in space and time.",
+                    "link": "https:\/\/github.com\/scholarslab\/Neatline",
+                    "support_link": "https:\/\/github.com\/scholarslab\/Neatline\/issues",
+                    "license": "Apache License, Version 2.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5",
+                    "version": "2.6.4",
+                    "per_page": "50",
+                    "wms_mime": "image\/png"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/scholarslab\/Neatline\/releases\/download\/v2.6.3\/Neatline.zip",
                 "date": "2019-07-29",
@@ -3269,6 +3949,23 @@
     "OaipmhHarvester": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-OaipmhHarvester\/releases\/download\/v2.0.3\/OaipmhHarvester-2.0.3.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "OAI-PMH Harvester",
+                    "author": "Omeka Team",
+                    "description": "Harvests metadata from OAI-PMH data providers.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/OaipmhHarvester\/",
+                    "version": "2.0.3",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPLv3",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0",
+                    "tags": "import, oaipmh, metadata",
+                    "optional_plugins": "DublinCoreExtended"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-OaipmhHarvester\/releases\/download\/v2.0.2\/OaipmhHarvester-2.0.2.zip",
                 "date": "2016-11-10",
                 "info": {
@@ -3302,6 +3999,20 @@
                     "version": "1.1.2",
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.2.2"
+                }
+            }
+        ]
+    },
+    "OmekaDevel": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DigitalCarleton\/OmekaDevel\/releases\/download\/v1.1\/OmekaDevel.zip",
+                "date": "2022-05-06",
+                "info": {
+                    "name": "Omeka Devel",
+                    "author": "Chris Padilla, Martin Bernard",
+                    "version": "1.1",
+                    "description": "This plugin adds Kint debugging functionality to your site."
                 }
             }
         ]
@@ -3404,6 +4115,22 @@
     },
     "PdfText": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-PdfText\/releases\/download\/v1.3.1\/PdfText-1.3.1.zip",
+                "date": "2022-04-18",
+                "info": {
+                    "name": "PDF Text",
+                    "author": "Omeka Team",
+                    "description": "Extracts text from PDF files so they can be browsed and searched.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/PdfText\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "1.3.1",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0",
+                    "tags": "pdf,search,text"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-PdfText\/releases\/download\/v1.3\/PdfText-1.3.zip",
                 "date": "2017-01-13",
@@ -3517,6 +4244,44 @@
             }
         ]
     },
+    "ReassignFiles": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-ReassignFiles\/releases\/download\/v1.1\/ReassignFiles.zip",
+                "date": "2021-04-20",
+                "info": {
+                    "name": "Reassign Files",
+                    "author": "Gero Zahn \/ Githanjalli Elangovan, contributed by Daniele Binaghi",
+                    "description": "Reassignes files from one Item to another.",
+                    "version": "1.1",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ReassignFiles",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-ReassignFiles\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "required_plugins": "",
+                    "optional_plugins": ""
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-ReassignFiles\/releases\/download\/v1.0\/ReassignFiles.zip",
+                "date": "2021-04-20",
+                "info": {
+                    "name": "Reassign Files",
+                    "author": "Gero Zahn \/ Githanjalli Elangovan, contributed by Daniele Binaghi",
+                    "description": "Reassignes files from one Item to another.",
+                    "version": "1.0",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ReassignFiles",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-ReassignFiles\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0",
+                    "required_plugins": "",
+                    "optional_plugins": ""
+                }
+            }
+        ]
+    },
     "RecordRelations": {
         "versions": [
             {
@@ -3572,8 +4337,102 @@
             }
         ]
     },
+    "RelatedContent": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/releases\/download\/v2.0\/RelatedContent.zip",
+                "date": "2021-07-27",
+                "info": {
+                    "name": "Related Content",
+                    "author": "Daniele Binaghi",
+                    "description": "Suggests Items related to the one currently shown",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0.3",
+                    "version": "2.0",
+                    "license": "GPLv3"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/releases\/download\/v1.3\/RelatedContent.zip",
+                "date": "2021-07-05",
+                "info": {
+                    "name": "Related Content",
+                    "author": "Daniele Binaghi",
+                    "description": "Suggests Items related to the current one",
+                    "link": "",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0.3",
+                    "version": "1.3",
+                    "support_link": "",
+                    "license": "GPLv3"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/releases\/download\/v1.2\/RelatedContent.zip",
+                "date": "2021-06-22",
+                "info": {
+                    "name": "Related Content",
+                    "author": "Daniele Binaghi",
+                    "description": "Suggests Items related to the current one",
+                    "link": "",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0.3",
+                    "version": "1.2",
+                    "support_link": "",
+                    "license": "GPLv3"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/releases\/download\/v1.1\/RelatedContent.zip",
+                "date": "2021-06-17",
+                "info": {
+                    "name": "Related Content",
+                    "author": "Daniele Binaghi",
+                    "description": "Suggests Items related to the one currently shown",
+                    "link": "",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0.3",
+                    "version": "1.1",
+                    "support_link": "",
+                    "license": "GPLv3"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/releases\/download\/v1.0\/RelatedContent.zip",
+                "date": "2021-06-16",
+                "info": {
+                    "name": "Related Content",
+                    "author": "Daniele Binaghi",
+                    "description": "Suggests Items related to the one currently shown",
+                    "link": "",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0.3",
+                    "version": "1.0",
+                    "support_link": "",
+                    "license": "GPLv3"
+                }
+            }
+        ]
+    },
     "Reports": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-Reports\/releases\/download\/v2.0.3\/Reports-2.0.3.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Reports",
+                    "author": "Omeka Team",
+                    "description": "Generates item reports in HTML and QR Codes of items in PDFs.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Reports\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPLv3",
+                    "version": "2.0.3",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-Reports\/releases\/download\/v2.0.2\/Reports-2.0.2.zip",
                 "date": "2016-11-22",
@@ -3593,6 +4452,22 @@
     },
     "Scripto": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-Scripto\/releases\/download\/v2.5\/Scripto-2.5.zip",
+                "date": "2021-11-23",
+                "info": {
+                    "name": "Scripto",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Adds the ability to transcribe items using the Scripto library.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/Scripto_2.0",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "2.5",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.4",
+                    "tags": "scripto, transcription, crowdsource, documents"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-Scripto\/releases\/download\/v2.4\/Scripto-2.4.zip",
                 "date": "2020-04-08",
@@ -3819,6 +4694,21 @@
     "SimpleContactForm": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-SimpleContactForm\/releases\/download\/v1.1.1\/SimpleContactForm-1.1.1.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Simple Contact Form",
+                    "author": "Omeka Team",
+                    "description": "Adds a simple contact form for users to contact the administrator.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/SimpleContactForm\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPLv3",
+                    "omeka_minimum_version": "2.6",
+                    "omeka_target_version": "2.6",
+                    "version": "1.1.1"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-SimpleContactForm\/releases\/download\/v0.6\/SimpleContactForm-0.6.zip",
                 "date": "2018-02-14",
                 "info": {
@@ -3869,6 +4759,36 @@
     },
     "SimplePages": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.2.1\/SimplePages-3.2.1.zip",
+                "date": "2022-03-01",
+                "info": {
+                    "name": "Simple Pages",
+                    "author": "Omeka Team",
+                    "description": "Allows administrators to create simple web pages for their public site.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/SimplePages\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "3.2.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.2\/SimplePages-3.2.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Simple Pages",
+                    "author": "Omeka Team",
+                    "description": "Allows administrators to create simple web pages for their public site.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/SimplePages\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "3.2"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.1.3\/SimplePages-3.1.3.zip",
                 "date": "2021-03-24",
@@ -3948,6 +4868,22 @@
     },
     "SimpleVocab": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-SimpleVocab\/releases\/download\/v2.2.3\/plugin-SimpleVocab-v2.2.3.zip",
+                "date": "2021-09-22",
+                "info": {
+                    "name": "Simple Vocab",
+                    "author": "Omeka Team",
+                    "description": "A simple way to create controlled vocabularies.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/SimpleVocab\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins\/10",
+                    "version": "2.2.3",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0",
+                    "tags": "controlled vocabulary, vocabulary"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-SimpleVocab\/releases\/download\/v2.2.2\/SimpleVocab-2.2.2.zip",
                 "date": "2019-06-03",
@@ -4029,6 +4965,26 @@
                     "omeka_minimum_version": "2.1",
                     "omeka_target_version": "2.4.1",
                     "version": "2.4"
+                }
+            }
+        ]
+    },
+    "SiteMessage": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/libmanuk\/SiteMessage\/releases\/download\/v.1.0\/SiteMessage.zip",
+                "date": "2021-10-15",
+                "info": {
+                    "name": "Site Message",
+                    "author": "Eric C. Weig",
+                    "description": "Omeka Plugin which allows administrators to configure content and public display for a custom message for users.  This could be used for a number of reasons including; Harmful Language Statement, Message Concerning Scheduled Downtime for Maintenance, etc.",
+                    "license": "MIT",
+                    "link": "https:\/\/github.com\/libmanuk\/SiteMessage",
+                    "support_link": "https:\/\/github.com\/libmanuk\/SiteMessage\/issues",
+                    "version": "1.0",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.8",
+                    "tags": "site message, harmful language, downtime warning"
                 }
             }
         ]
@@ -4405,6 +5361,24 @@
     },
     "UserProfiles": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-UserProfiles\/releases\/download\/v1.3\/UserProfiles-1.3.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "User Profiles",
+                    "author": "Omeka Team",
+                    "description": "Adds configurable user profiles",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/UserProfiles\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPLv3",
+                    "version": "1.3",
+                    "required_plugins": "RecordRelations",
+                    "optional_plugins": "GuestUser",
+                    "require_once": "1"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-UserProfiles\/releases\/download\/v1.2.1\/UserProfiles.zip",
                 "date": "2018-03-26",
