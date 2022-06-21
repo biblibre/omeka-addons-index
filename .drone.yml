@@ -26,6 +26,6 @@ steps:
       from_secret: GH_DEPLOY_KEY
 ---
 kind: signature
-hmac: b5beac27d944fea3b9429af51bef4a68d1752f8c6abf1c8d2f8d5c355d35437e
+hmac: 98c78842b0a4dd686d4e8c2f678415c6ba853295264ebcd061a6f763ba40ecda
 
 ...
