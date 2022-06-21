@@ -9,9 +9,9 @@ platform:
 
 steps:
 - name: update
-  image: php:7.1-cli
+  image: php:7.2-cli
   commands:
-  - apt-get update && apt-get install -y --no-install-recommends libzip-dev
+  - apt-get update && apt-get install -y --no-install-recommends libzip-dev unzip
   - docker-php-ext-install zip
   - .drone/get-composer.sh
   - php composer.phar install
