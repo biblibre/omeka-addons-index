@@ -1047,6 +1047,21 @@
     "santa-fe": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-santa-fe\/releases\/download\/v2.6\/theme-santa-fe-v2.6.zip",
+                "date": "2022-06-29",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org\/classic\/themes\/santa-fe",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/themes\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.6"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-santa-fe\/releases\/download\/v2.5.2\/theme-santa-fe-v2.5.2.zip",
                 "date": "2021-09-23",
                 "info": {
