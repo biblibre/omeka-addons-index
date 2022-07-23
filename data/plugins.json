@@ -435,6 +435,21 @@
     "ClickableLinksPlus": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/releases\/download\/v1.4\/ClickableLinksPlus.zip",
+                "date": "2022-07-21",
+                "info": {
+                    "name": "Clickable Links Plus",
+                    "author": "Daniele Binaghi",
+                    "description": "Turns URLs in non-HTML text fields into clickable hyperlinks.",
+                    "version": "1.4",
+                    "license": "CeCILL v2.1",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/releases\/download\/v1.3.2\/ClickableLinksPlus.zip",
                 "date": "2021-08-05",
                 "info": {
