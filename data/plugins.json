@@ -1359,6 +1359,22 @@
     "DublinCoreExtended": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-DublinCoreExtended\/releases\/download\/v2.3\/DublinCoreExtended-2.3.zip",
+                "date": "2022-07-26",
+                "info": {
+                    "name": "Dublin Core Extended",
+                    "author": "Omeka Team",
+                    "description": "Adds the full set of Dublin Core properties to the existing Dublin Core element set, including element refinements and supplemental elements. See DCMI Metadata Terms: http:\/\/dublincore.org\/documents\/dcmi-terms\/",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/DublinCoreExtended\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "2.3",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5",
+                    "tags": "metadata,dublin core"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-DublinCoreExtended\/releases\/download\/v2.2\/DublinCoreExtended-2.2.zip",
                 "date": "2017-01-13",
                 "info": {
