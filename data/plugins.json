@@ -2044,6 +2044,21 @@
     "Facets": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.9\/Facets.zip",
+                "date": "2022-08-04",
+                "info": {
+                    "name": "Facets",
+                    "author": "Jean-Baptiste Heren and Daniele Binaghi",
+                    "description": "Adds a faceted navigation block to narrow down Items and Collections search results by applying multiple filters",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-Facets",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/issues",
+                    "version": "2.9",
+                    "omeka_minimum_version": "2.6.1",
+                    "omeka_target_version": "2.6.1"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-Facets\/releases\/download\/v2.8.1\/Facets.zip",
                 "date": "2021-12-11",
                 "info": {
