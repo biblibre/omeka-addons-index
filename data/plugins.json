@@ -824,6 +824,21 @@
                     "omeka_minimum_version": "2.2",
                     "omeka_target_version": "2.6.1"
                 }
+            },
+            {
+                "url": "https:\/\/github.com\/wgcowan\/ConnectedCarousel\/releases\/download\/2.1\/ConnectedCarousel.zip",
+                "date": "2018-08-15",
+                "info": {
+                    "name": "Connected Carousel",
+                    "author": "William G. Cowan",
+                    "description": "Shortcode embeds code for creating linked carousels, one with thumbnails and one with full image. The thumbnail carousel can be used to navigate the full image carousel. Also contains code for embedding in Exhibits.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/www.dighum.net",
+                    "support_link": "https:\/\/github.com\/wgcowan\/concarousel",
+                    "version": "2.1",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "2.6.1"
+                }
             }
         ]
     },
