@@ -2797,8 +2797,8 @@
     "IiifItemEmbed": {
         "versions": [
             {
-                "url": "https:\/\/github.com\/jaguillette\/IiifItemEmbed\/releases\/download\/v1.1\/IiifItemEmbed.zip",
-                "date": "2021-11-16",
+                "url": "https:\/\/github.com\/jaguillette\/IiifItemEmbed\/releases\/download\/v1.0\/IiifItemEmbed-1.0.zip",
+                "date": "2020-12-09",
                 "info": {
                     "name": "IIIF Toolkit Embed",
                     "author": "Jeremy Guillette",
