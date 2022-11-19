@@ -66,6 +66,21 @@
     "AdminTools": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools\/releases\/download\/v1.6\/AdminTools.zip",
+                "date": "2022-11-18",
+                "info": {
+                    "name": "Admin Tools",
+                    "author": "Daniele Binaghi et al.",
+                    "description": "Various administrative tools, previously available in different minor plugins.",
+                    "version": "1.6",
+                    "license": "CeCILL v2.1",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools\/issues",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0.3"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools\/releases\/download\/v1.5\/AdminTools.zip",
                 "date": "2022-10-25",
                 "info": {
@@ -465,6 +480,21 @@
     },
     "CSSEditor": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-CSSEditor\/releases\/download\/v1.2\/CSSEditor-1.2.zip",
+                "date": "2022-11-18",
+                "info": {
+                    "name": "CSS Editor",
+                    "author": "Omeka Team",
+                    "description": "Add public CSS styles through the admin interface.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/CSS_Editor",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "version": "1.2",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-CSSEditor\/releases\/download\/v1.1\/CSSEditor-1.1.zip",
                 "date": "2019-03-20",
