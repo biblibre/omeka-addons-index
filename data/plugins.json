@@ -1142,6 +1142,22 @@
     "CsvImport": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-CsvImport\/releases\/download\/v2.0.7\/CsvImport-2.0.7.zip",
+                "date": "2022-12-21",
+                "info": {
+                    "name": "CSV Import",
+                    "author": "Omeka Team",
+                    "description": "Imports items, tags, and files from CSV files.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/CSV_Import\/",
+                    "version": "2.0.7",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPL",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0",
+                    "tags": "import, csv"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-CsvImport\/releases\/download\/v2.0.6\/CsvImport-2.0.6.zip",
                 "date": "2021-09-21",
                 "info": {
@@ -2400,6 +2416,21 @@
     },
     "Geolocation": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-Geolocation\/releases\/download\/v3.2.3\/Geolocation-3.2.3.zip",
+                "date": "2022-12-21",
+                "info": {
+                    "name": "Geolocation",
+                    "author": "Omeka Team",
+                    "description": "Adds location info and maps to Omeka",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Geolocation\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "3.0",
+                    "version": "3.2.3"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-Geolocation\/releases\/download\/v3.2.2\/Geolocation-3.2.2.zip",
                 "date": "2021-09-21",

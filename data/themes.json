@@ -2,6 +2,21 @@
     "berlin": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-berlin\/releases\/download\/v2.7.3\/berlin-2.7.3.zip",
+                "date": "2022-12-21",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.7.3"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-berlin\/releases\/download\/v2.7.2\/theme-berlin-v2.7.2.zip",
                 "date": "2021-09-23",
                 "info": {
@@ -110,6 +125,38 @@
     },
     "bigpicture": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.6.3\/bigpicture-1.6.3.zip",
+                "date": "2022-12-22",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Big Picture",
+                    "description": "An image-centric theme geared towards art historians and students.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/github.com\/omeka\/theme-bigpicture",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_target_version": "3.1",
+                    "version": "1.6.3",
+                    "tags": "sans-serif,image-heavy"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.6.2\/bigpicture-1.6.2.zip",
+                "date": "2022-12-21",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Big Picture",
+                    "description": "An image-centric theme geared towards art historians and students.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/github.com\/omeka\/theme-bigpicture",
+                    "omeka_minimum_version": "3.0.3",
+                    "omeka_target_version": "3.0.3",
+                    "version": "1.6.2",
+                    "tags": "sans-serif,image-heavy"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.6.1\/theme-bigpicture-v1.6.1.zip",
                 "date": "2022-08-11",
@@ -325,6 +372,36 @@
     },
     "centerrow": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-centerrow\/releases\/download\/v1.7.1\/centerrow-1.7.1.zip",
+                "date": "2022-12-22",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Center Row",
+                    "description": "Image-oriented theme for Omeka. This theme does not support nested top navigation.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/github.com\/omeka\/theme-centerrow\/wiki",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_tested_up_to": "3.1",
+                    "version": "1.7.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-centerrow\/releases\/download\/v1.7\/centerrow-1.7.zip",
+                "date": "2022-12-21",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Center Row",
+                    "description": "Image-oriented theme for Omeka. This theme does not support nested top navigation.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/github.com\/omeka\/theme-centerrow\/wiki",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.0",
+                    "version": "1.7"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-centerrow\/releases\/download\/v1.6\/theme-centerrow-v1.6.zip",
                 "date": "2022-04-20",
@@ -1333,6 +1410,36 @@
     },
     "thedaily": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-thedaily\/releases\/download\/v1.6.1\/thedaily-1.6.1.zip",
+                "date": "2022-12-22",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "The Daily",
+                    "description": "Image-oriented theme for Omeka.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/github.com\/omeka\/theme-thedaily\/wiki",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_tested_up_to": "3.1",
+                    "version": "1.6.1"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-thedaily\/releases\/download\/v1.6\/thedaily-1.6.zip",
+                "date": "2022-12-21",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "The Daily",
+                    "description": "Image-oriented theme for Omeka.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/github.com\/omeka\/theme-thedaily\/wiki",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.0",
+                    "version": "1.6"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-thedaily\/releases\/download\/v1.5.3\/theme-thedaily-v1.5.3.zip",
                 "date": "2021-09-23",
