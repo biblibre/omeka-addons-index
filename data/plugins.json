@@ -1638,6 +1638,20 @@
     "Elasticsearch": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/BCWrit\/Archiviz\/releases\/download\/v1.0\/Archiviz.zip",
+                "date": "2022-12-26",
+                "info": {
+                    "name": "Archiviz",
+                    "description": "",
+                    "author": "",
+                    "license": "",
+                    "version": "1.0.0",
+                    "link": "https:\/\/github.com\/BCWrit\/Archiviz",
+                    "support_link": "https:\/\/github.com\/BCWrit\/Archiviz\/issues",
+                    "omeka_minimum_version": "3.0"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/Harvard-ATG\/omeka-plugin-Elasticsearch\/releases\/download\/v1.2.0\/Elasticsearch.zip",
                 "date": "2022-05-19",
                 "info": {
