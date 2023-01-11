@@ -2,6 +2,21 @@
     "berlin": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-berlin\/releases\/download\/v2.7.4\/berlin-2.7.4.zip",
+                "date": "2023-01-10",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.7.4"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-berlin\/releases\/download\/v2.7.3\/berlin-2.7.3.zip",
                 "date": "2022-12-21",
                 "info": {
