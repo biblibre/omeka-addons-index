@@ -830,7 +830,7 @@
     "foundation": {
         "versions": [
             {
-                "url": "https:\/\/github.com\/omeka\/theme-foundation-classic\/releases\/download\/v1.3\/foundation-classic-1.3.zip",
+                "url": "https:\/\/github.com\/omeka\/theme-foundation-classic\/releases\/download\/v1.3\/foundation-1.3.zip",
                 "date": "2022-12-22",
                 "info": {
                     "author": "Omeka Team",
