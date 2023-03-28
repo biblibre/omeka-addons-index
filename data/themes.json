@@ -797,6 +797,21 @@
     "emiglio": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-emiglio\/releases\/download\/v2.4.4\/emiglio-2.4.4.zip",
+                "date": "2023-03-27",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot. A simple, minimal theme with reds and greens.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.0",
+                    "version": "2.4.4"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-emiglio\/releases\/download\/v2.4.3\/emiglio-2.4.3.zip",
                 "date": "2023-03-24",
                 "info": {
