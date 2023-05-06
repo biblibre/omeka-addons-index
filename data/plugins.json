@@ -4774,6 +4774,26 @@
             }
         ]
     },
+    "ResourceMeta": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-ResourceMeta\/releases\/download\/v1.0.0\/ResourceMeta-1.0.0.zip",
+                "date": "2023-05-03",
+                "info": {
+                    "name": "Resource Meta",
+                    "author": "Omeka Team",
+                    "description": "Add meta tags to resources",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/ResourceMeta",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "1.0.0",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "tags": "metadata"
+                }
+            }
+        ]
+    },
     "Scripto": {
         "versions": [
             {
