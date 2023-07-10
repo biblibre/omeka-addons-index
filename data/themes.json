@@ -649,6 +649,38 @@
     "default": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-thanksroy\/releases\/download\/v2.7.1\/default-2.7.1.zip",
+                "date": "2023-03-23",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.7.1",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-thanksroy\/releases\/download\/v2.7.0\/default-2.7.0.zip",
+                "date": "2022-12-21",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Thanks, Roy",
+                    "description": "A tribute to Roy Rosenzweig, with updated typography and responsive styles.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.7.0",
+                    "tags": "black, white, serif"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-thanksroy\/releases\/download\/v2.6.5\/theme-thanksroy-v2.6.5.zip",
                 "date": "2021-10-07",
                 "info": {
