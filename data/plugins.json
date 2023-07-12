@@ -2017,22 +2017,6 @@
                 }
             },
             {
-                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.5.1\/ExhibitBuilder-3.5.1.zip",
-                "date": "2022-03-01",
-                "info": {
-                    "name": "Exhibit Builder",
-                    "author": "Omeka Team",
-                    "description": "Build rich exhibits using Omeka.",
-                    "license": "GPLv3",
-                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitBuilder\/",
-                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
-                    "omeka_minimum_version": "3.0",
-                    "omeka_target_version": "3.0",
-                    "version": "3.5.1",
-                    "tags": "exhibit, pages, presentation"
-                }
-            },
-            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.5\/ExhibitBuilder-3.5.zip",
                 "date": "2021-09-21",
                 "info": {
