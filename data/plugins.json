@@ -1556,6 +1556,22 @@
     "Editorial": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Editorial\/releases\/download\/v1.2\/Editorial-1.2.zip",
+                "date": "2021-09-21",
+                "info": {
+                    "name": "Editorial",
+                    "author": "Omeka Team",
+                    "description": "Allows editorial feedback when building exhibits",
+                    "version": "1.2",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Editorial\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "license": "GPLv3",
+                    "required_plugins": "ExhibitBuilder"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Editorial\/releases\/download\/v1.1.0\/Editorial-1.1.0.zip",
                 "date": "2020-03-17",
                 "info": {
