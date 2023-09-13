@@ -5659,6 +5659,22 @@
     "Timeline": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Timeline\/releases\/download\/v2.0.0\/Timeline-2.0.0.zip",
+                "date": "2023-09-11",
+                "info": {
+                    "name": "Timeline",
+                    "author": "Omeka Team",
+                    "description": "Adds a TimelineJS block to ExhibitBuilder",
+                    "version": "2.0",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Timeline\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "license": "GPLv3",
+                    "required_plugins": "ExhibitBuilder"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Timeline\/releases\/download\/v1.0\/Timeline-1.0.zip",
                 "date": "2023-02-23",
                 "info": {
