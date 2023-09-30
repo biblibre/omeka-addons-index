@@ -775,6 +775,20 @@
     "CollectionsPlus": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus\/releases\/download\/v1.3\/CollectionsPlus.zip",
+                "date": "2023-09-28",
+                "info": {
+                    "name": "Collections Plus",
+                    "author": "Daniele Binaghi",
+                    "description": "Improves the Collection browsing admin interface and allows for further customization of single Collections.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus\/issues",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.1",
+                    "version": "1.3"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus\/releases\/download\/v1.2\/CollectionsPlus.zip",
                 "date": "2023-09-16",
                 "info": {
