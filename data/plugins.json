@@ -4351,6 +4351,23 @@
     "OaipmhHarvester": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-OaipmhHarvester\/releases\/download\/v2.0.4\/OaipmhHarvester-2.0.4.zip",
+                "date": "2023-10-03",
+                "info": {
+                    "name": "OAI-PMH Harvester",
+                    "author": "Omeka Team",
+                    "description": "Harvests metadata from OAI-PMH data providers.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/OaipmhHarvester\/",
+                    "version": "2.0.4",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPLv3",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0",
+                    "tags": "import, oaipmh, metadata",
+                    "optional_plugins": "DublinCoreExtended"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-OaipmhHarvester\/releases\/download\/v2.0.3\/OaipmhHarvester-2.0.3.zip",
                 "date": "2021-09-21",
                 "info": {
