@@ -432,8 +432,8 @@
     "BulkMetadataEditor": {
         "versions": [
             {
-                "url": "https:\/\/github.com\/UCSCLibrary\/BulkMetadataEditor\/releases\/download\/v2.9\/BulkMetadataEditor.zip",
-                "date": "2023-10-19",
+                "url": "https:\/\/github.com\/UCSCLibrary\/BulkMetadataEditor\/releases\/download\/v2.9.1\/BulkMetadataEditor.zip",
+                "date": "2023-11-29",
                 "info": {
                     "name": "Bulk Metadata Editor",
                     "author": "UC Santa Cruz University Library, Daniel Berthereau, Daniele Binaghi",
@@ -443,7 +443,7 @@
                     "support_link": "https:\/\/github.com\/UCSCLibrary\/BulkMetadataEditor\/issues",
                     "omeka_minimum_version": "2.1",
                     "omeka_target_version": "2.5",
-                    "version": "2.9"
+                    "version": "2.9.1"
                 }
             },
             {
