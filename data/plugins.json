@@ -218,6 +218,24 @@
             }
         ]
     },
+    "Autotagging": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/BCWrit\/OmekaArchiviz\/releases\/download\/v1.0.0\/OmekaArchiviz-1.0.0.zip",
+                "date": "2024-01-04",
+                "info": {
+                    "name": "Archiviz",
+                    "description": "Stack of plugins that allows users to digitize text documents, generate tags for important people, places, etc., manage those tags and visualize and navigate their collection through an interactive knowledge graph showing where these important entities intersect.",
+                    "author": "Brad Rittenhouse",
+                    "license": "MIT",
+                    "version": "1.0.0",
+                    "link": "https:\/\/github.com\/BCWrit\/OmekaArchiviz",
+                    "support_link": "https:\/\/github.com\/BCWrit\/OmekaArchiviz\/issues",
+                    "omeka_minimum_version": "3.0"
+                }
+            }
+        ]
+    },
     "AvantCommon": {
         "versions": [
             {
