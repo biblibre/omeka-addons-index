@@ -5893,23 +5893,6 @@
                     "optional_plugins": "OpenLayersZoom, CollectionTree, ArchiveRepertory, ExhibitBuilder",
                     "tags": "viewer, book, digital library, iiif server, iiif"
                 }
-            },
-            {
-                "url": "https:\/\/github.com\/Daniel-KM\/UniversalViewer4Omeka\/releases\/download\/2.4.6\/UniversalViewer.zip",
-                "date": "2017-10-29",
-                "info": {
-                    "name": "UniversalViewer",
-                    "author": "Daniel Berthereau",
-                    "description": "Integrates the IIIF specifications, a simple IIP Image Server and the Universal Viewer in order to create carousels of virtual books from image files and to display any media file (pdf, audio, video, 3D...) in a unified player.",
-                    "link": "https:\/\/github.com\/Daniel-KM\/UniversalViewer4Omeka",
-                    "support_link": "https:\/\/github.com\/Daniel-KM\/UniversalViewer4Omeka\/issues",
-                    "license": "CeCILL v2.1",
-                    "version": "2.4.6",
-                    "omeka_minimum_version": "2.2.2",
-                    "omeka_target_version": "2.5.1",
-                    "optional_plugins": "OpenLayersZoom, CollectionTree, ArchiveRepertory, ExhibitBuilder",
-                    "tags": "viewer, book, digital library"
-                }
             }
         ]
     },
