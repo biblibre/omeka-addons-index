@@ -1107,6 +1107,21 @@
     "freedom": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-freedom\/releases\/download\/v1.0.2\/freedom-v1.0.2.zip",
+                "date": "2024-02-20",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Freedom",
+                    "description": "An Omeka Classic Theme based on modular styling and mobile first approach, with a modern and accessible UX\/UI.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "1.0.2"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-freedom\/releases\/download\/v1.0.0\/freedom-v1.0.0.zip",
                 "date": "2023-12-22",
                 "info": {
