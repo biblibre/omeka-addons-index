@@ -6165,6 +6165,22 @@
     "ZoteroImport": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-ZoteroImport\/releases\/download\/v2.3\/ZoteroImport-2.3.zip",
+                "date": "2024-05-29",
+                "info": {
+                    "name": "Zotero Import",
+                    "author": "Roy Rosenzweig Center for History and New Media",
+                    "description": "Imports libraries and collections from Zotero user and group accounts.",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/ZoteroImport_2.0",
+                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
+                    "version": "2.3",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "2.0",
+                    "tags": "zotero,import"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ZoteroImport\/releases\/download\/v2.2\/ZoteroImport-2.2.zip",
                 "date": "2019-10-07",
                 "info": {
