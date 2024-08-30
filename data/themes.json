@@ -156,6 +156,22 @@
     "bigpicture": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.6.6\/theme-bigpicture-v1.6.6.zip",
+                "date": "2024-08-29",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Big Picture",
+                    "description": "An image-centric theme geared towards art historians and students.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/github.com\/omeka\/theme-bigpicture",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_target_version": "3.1",
+                    "version": "1.6.6",
+                    "tags": "sans-serif,image-heavy"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.6.5\/bigpicture-1.6.5.zip",
                 "date": "2023-03-24",
                 "info": {
