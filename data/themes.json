@@ -1203,6 +1203,22 @@
     "minimalist": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-minimalist\/releases\/download\/v2.5.4\/theme-minimalist-v2.5.4.zip",
+                "date": "2025-01-07",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Minimalist",
+                    "description": "Clean lines, architectural.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.5.4",
+                    "tags": "lines, minimal, architectural, purple, white, mobile-first, sans-serif"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-minimalist\/releases\/download\/v2.5.3\/minimalist-2.5.3.zip",
                 "date": "2023-03-24",
                 "info": {
@@ -1366,6 +1382,22 @@
     },
     "rhythm": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-rhythm\/releases\/download\/v2.4.4\/theme-rhythm-v2.4.4.zip",
+                "date": "2025-01-07",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Rhythm",
+                    "description": "An energetic two-column theme, with different style sheet options",
+                    "license": "GPL",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.4.4",
+                    "tags": "lines, sans-serif, configuration"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-rhythm\/releases\/download\/v2.4.3\/rhythm-2.4.3.zip",
                 "date": "2023-03-24",
