@@ -342,6 +342,26 @@
             }
         ]
     },
+    "BackendLogs": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/csidirop\/omekaplugin_belogs\/releases\/download\/v1.0\/BackendLogs-v1.0.zip",
+                "date": "2025-01-22",
+                "info": {
+                    "name": "BackendLogs",
+                    "version": "1.0",
+                    "author": "Christos Sidiropoulos",
+                    "description": "Show system logs in the backend UI.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/csidirop\/omekaplugin_belogs",
+                    "support_link": "https:\/\/github.com\/csidirop\/omekaplugin_belogs\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0",
+                    "tags": "logs"
+                }
+            }
+        ]
+    },
     "BatchUpload": {
         "versions": [
             {
