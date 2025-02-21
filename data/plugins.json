@@ -828,6 +828,20 @@
     "CollectionsPlus": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus\/releases\/download\/v1.4\/CollectionsPlus.zip",
+                "date": "2025-02-19",
+                "info": {
+                    "name": "Collections Plus",
+                    "author": "Daniele Binaghi",
+                    "description": "Improves the Collection browsing admin interface and allows for further customization of single Collections.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus\/issues",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.1",
+                    "version": "1.4"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus\/releases\/download\/v1.3\/CollectionsPlus.zip",
                 "date": "2023-09-28",
                 "info": {
@@ -4856,6 +4870,21 @@
     },
     "RelatedContent": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/releases\/download\/v2.1\/RelatedContent.zip",
+                "date": "2025-02-19",
+                "info": {
+                    "name": "Related Content",
+                    "author": "Daniele Binaghi",
+                    "description": "Suggests Items related to the one currently shown.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0.3",
+                    "version": "2.1",
+                    "license": "GPLv3"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/releases\/download\/v2.0\/RelatedContent.zip",
                 "date": "2021-07-27",
