@@ -6220,6 +6220,27 @@
             }
         ]
     },
+    "WalkingTour": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DigitalCarleton\/WalkingTour\/releases\/download\/v1.0.0\/WalkingTour.zip",
+                "date": "2025-01-22",
+                "info": {
+                    "name": "Walking Tour",
+                    "author": "Tingjun Tu, Alejandro Gonz\u00e1lez, Alec Wang, and Austin Mason",
+                    "description": "Adds the ability to create and display walking tours on a map",
+                    "license": "GPLv3",
+                    "link": "",
+                    "support_link": "https:\/\/github.com\/DigitalCarleton\/WalkingTour",
+                    "version": "1.0.0",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.1.2",
+                    "tags": "map, tour",
+                    "required_plugins": "Geolocation"
+                }
+            }
+        ]
+    },
     "WikipediaCitations": {
         "versions": [
             {
