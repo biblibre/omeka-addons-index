@@ -918,6 +918,22 @@
     "Commenting": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Commenting\/releases\/download\/v2.5\/plugin-Commenting-v2.5.zip",
+                "date": "2025-03-17",
+                "info": {
+                    "name": "Commenting",
+                    "author": "Omeka Team",
+                    "description": "Allows commenting on Items, Collections, Exhibits, and more",
+                    "version": "2.5",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Commenting\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "license": "GPLv3",
+                    "optional_plugins": "GuestUser"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Commenting\/releases\/download\/v2.4\/Commenting-2.4.zip",
                 "date": "2021-09-21",
                 "info": {
