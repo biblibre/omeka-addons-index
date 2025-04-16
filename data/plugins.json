@@ -4552,6 +4552,21 @@
     "OmekaApiImport": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-OmekaApiImport\/releases\/download\/v1.2\/OmekaApiImport-1.2.zip",
+                "date": "2025-04-14",
+                "info": {
+                    "name": "Omeka API Import",
+                    "author": "Omeka Team",
+                    "description": "Import data from other Omeka 2.1 or higher sites using the API",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Omeka_API_Import\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "1.2",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-OmekaApiImport\/releases\/download\/v1.1.2\/OmekaApiImport.zip",
                 "date": "2017-02-10",
                 "info": {
