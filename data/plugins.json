@@ -3796,6 +3796,26 @@
             }
         ]
     },
+    "Matomo": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UB-Mannheim\/omeka-matomo\/releases\/download\/v1.2\/Matomo-v1.2.zip",
+                "date": "2025-06-05",
+                "info": {
+                    "name": "Matomo",
+                    "version": "1.2",
+                    "author": "Christos Sidiropoulos",
+                    "description": "A simple integration of the matomo service.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/csidirop\/omekaplugin_matomo",
+                    "support_link": "https:\/\/github.com\/csidirop\/omekaplugin_matomo\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.0",
+                    "tags": "matomo, tracking"
+                }
+            }
+        ]
+    },
     "MetsExport": {
         "versions": [
             {

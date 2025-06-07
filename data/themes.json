@@ -1231,6 +1231,25 @@
             }
         ]
     },
+    "maobjects": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UB-Mannheim\/theme-maobjects\/releases\/download\/v2.0.1\/MAObjects-v2.0.1.zip",
+                "date": "2025-06-05",
+                "info": {
+                    "author": "Mannheim University Library",
+                    "title": "MAObjects",
+                    "description": "Omeka theme for MAObjects.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/www.bib.uni-mannheim.de",
+                    "support_link": "https:\/\/github.com\/UB-Mannheim",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_tested_up_to": "3.1",
+                    "version": "2.0.1"
+                }
+            }
+        ]
+    },
     "minimalist": {
         "versions": [
             {
@@ -1407,6 +1426,25 @@
                     "omeka_target_version": "2.3",
                     "version": "2.2",
                     "tags": "lines, minimal, architectural, purple, white, mobile-first, sans-serif"
+                }
+            }
+        ]
+    },
+    "nikephoros": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/UB-Mannheim\/theme-maobjects-nikephoros\/releases\/download\/v1.0\/nikephoros-v1.0.zip",
+                "date": "2025-06-05",
+                "info": {
+                    "author": "Mannheim University Library",
+                    "title": "Nikephoros",
+                    "description": "Omeka theme for bibliographical databases like Nikephoros.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/www.bib.uni-mannheim.de",
+                    "support_link": "https:\/\/github.com\/UB-Mannheim",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.0"
                 }
             }
         ]
