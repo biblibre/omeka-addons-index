@@ -4569,6 +4569,25 @@
             }
         ]
     },
+    "OhmsEmbed": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-OhmsEmbed\/releases\/download\/v1.0\/OhmsEmbed-1.0.zip",
+                "date": "2025-07-02",
+                "info": {
+                    "name": "OHMS Embed",
+                    "author": "Omeka Team",
+                    "description": "Embeds oral histories using OHMS.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/OhmsEmbed\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "3.1",
+                    "version": "1.0"
+                }
+            }
+        ]
+    },
     "OmekaApiImport": {
         "versions": [
             {
