@@ -66,6 +66,21 @@
     "AdminTools": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools\/releases\/download\/v1.8\/AdminTools.zip",
+                "date": "2025-08-28",
+                "info": {
+                    "name": "Admin Tools",
+                    "author": "Daniele Binaghi et al.",
+                    "description": "Various administrative tools, previously available in different minor plugins.",
+                    "version": "1.8",
+                    "license": "CeCILL v2.1",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools\/issues",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.1.2"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools\/releases\/download\/v1.7\/AdminTools.zip",
                 "date": "2025-03-14",
                 "info": {
@@ -1983,6 +1998,20 @@
     "EmailNotification": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/EmailNotification\/releases\/download\/v1.5\/EmailNotification.zip",
+                "date": "2025-08-26",
+                "info": {
+                    "name": "E-mail Notification",
+                    "author": "Daniele Binaghi",
+                    "description": "Send e-mail notification when new Item or Collection or Exhibit is added.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5",
+                    "tags": "new item, new collection, new exhibit, e-mail notification"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/EmailNotification\/releases\/download\/v.1.4\/EmailNotification.zip",
                 "date": "2021-11-13",
                 "info": {
@@ -2079,6 +2108,22 @@
     },
     "ExhibitBuilder": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.8\/ExhibitBuilder-3.8.zip",
+                "date": "2025-08-28",
+                "info": {
+                    "name": "Exhibit Builder",
+                    "author": "Omeka Team",
+                    "description": "Build rich exhibits using Omeka.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitBuilder\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_target_version": "3.2",
+                    "version": "3.8",
+                    "tags": "exhibit, pages, presentation"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.7\/ExhibitBuilder-3.7.zip",
                 "date": "2024-04-25",
@@ -5802,6 +5847,26 @@
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.0",
                     "tags": "social, syndication"
+                }
+            }
+        ]
+    },
+    "T3Suggest": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/tematres\/T3Suggest\/releases\/download\/1.0\/T3Suggest-1.0.zip",
+                "date": "2025-02-17",
+                "info": {
+                    "name": "TemaTres Suggest",
+                    "author": "Diego Ferreyra. Based on the Roy Rosenzweig Center for History and New Media original plug-in with tiny changes",
+                    "description": "Enable an autosuggest feature for Omeka elements using any vocabulary powered by Tematres, see http:\/\/vocabularyserver.com\/vocabularies\/",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/tematres\/T3Suggest",
+                    "support_link": "https:\/\/github.com\/tematres\/",
+                    "version": "2.0.4",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "3.1.2",
+                    "tags": "authority, vocabulary"
                 }
             }
         ]

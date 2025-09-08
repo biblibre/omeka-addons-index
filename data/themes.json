@@ -2,6 +2,21 @@
     "berlin": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-berlin\/releases\/download\/v2.7.6\/berlin-2.7.6.zip",
+                "date": "2025-08-21",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Berlin",
+                    "description": "Abstraction of the Making the History of 1989 theme.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.7.6"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-berlin\/releases\/download\/v2.7.5\/berlin-2.7.5.zip",
                 "date": "2023-03-23",
                 "info": {
@@ -1722,6 +1737,22 @@
     },
     "seasons": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-seasons\/releases\/download\/v2.8\/seasons-2.8.zip",
+                "date": "2025-08-28",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Seasons",
+                    "description": "A colorful theme with a configuration option to switch style sheets for a particular season, plus 'night'.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_target_version": "3.2",
+                    "version": "2.8",
+                    "tags": "yellow, blue, summer, season, fall, orange, green, dark"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-seasons\/releases\/download\/v2.7\/seasons-2.7.zip",
                 "date": "2023-03-23",
