@@ -9,7 +9,7 @@ platform:
 
 steps:
 - name: update
-  image: php:7.2-cli
+  image: php:7.4-cli
   commands:
   - apt-get update && apt-get install -y --no-install-recommends libzip-dev unzip
   - docker-php-ext-install zip
@@ -26,6 +26,6 @@ steps:
       from_secret: GH_DEPLOY_KEY
 ---
 kind: signature
-hmac: 98c78842b0a4dd686d4e8c2f678415c6ba853295264ebcd061a6f763ba40ecda
+hmac: da88d738614f64367e0ab08fddca65c2a9132ce954e51f3bbe5dd3aa6f5ba120
 
 ...
