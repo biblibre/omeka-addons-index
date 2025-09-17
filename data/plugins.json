@@ -1504,6 +1504,22 @@
     "DerivativeImages": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-DerivativeImages\/releases\/download\/v2.1\/DerivativeImages-2.1.zip",
+                "date": "2025-09-15",
+                "info": {
+                    "name": "Derivative Images",
+                    "author": "Omeka Team",
+                    "description": "Recreate (or create) derivative images.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/DerivativeImages\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "2.1",
+                    "omeka_minimum_version": "2.2",
+                    "omeka_target_version": "3.2",
+                    "tags": "file,image,derivatives"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-DerivativeImages\/releases\/download\/v2.0\/DerivativeImages-2.0.zip",
                 "date": "2014-05-27",
                 "info": {
