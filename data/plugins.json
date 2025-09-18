@@ -3784,6 +3784,25 @@
             }
         ]
     },
+    "LocalContexts": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-LocalContexts\/releases\/download\/v1.1\/LocalContexts-1.1.zip",
+                "date": "2025-09-16",
+                "info": {
+                    "name": "Local Contexts",
+                    "author": "Omeka Team",
+                    "description": "Apply Local Contexts content to Omeka site, exhibits and items.",
+                    "version": "1.1",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/LocalContexts\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "license": "GPLv3"
+                }
+            }
+        ]
+    },
     "LocaleSwitcher": {
         "versions": [
             {
