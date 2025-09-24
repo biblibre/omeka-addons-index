@@ -3452,6 +3452,21 @@
     "ItemOrder": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-ItemOrder\/releases\/download\/v2.2\/ItemOrder-2.2.zip",
+                "date": "2025-09-22",
+                "info": {
+                    "name": "Item Order",
+                    "author": "Omeka Team",
+                    "description": "Gives administrators the ability to custom order items in collections.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ItemOrder\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins\/",
+                    "version": "2.2",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_target_version": "3.2"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ItemOrder\/releases\/download\/v2.1\/plugin-ItemOrder-v2.1.zip",
                 "date": "2022-06-28",
                 "info": {
