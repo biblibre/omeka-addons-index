@@ -171,6 +171,22 @@
     "bigpicture": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.7\/bigpicture-1.7.zip",
+                "date": "2025-08-29",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Big Picture",
+                    "description": "An image-centric theme geared towards art historians and students.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/github.com\/omeka\/theme-bigpicture",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_target_version": "3.2",
+                    "version": "1.7.0",
+                    "tags": "sans-serif,image-heavy"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-bigpicture\/releases\/download\/v1.6.6\/theme-bigpicture-v1.6.6.zip",
                 "date": "2024-08-29",
                 "info": {
@@ -465,6 +481,21 @@
     },
     "centerrow": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-centerrow\/releases\/download\/v1.9\/centerrow-1.9.zip",
+                "date": "2025-09-30",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Center Row",
+                    "description": "Image-oriented theme for Omeka. This theme does not support nested top navigation.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/github.com\/omeka\/theme-centerrow\/wiki",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_tested_up_to": "3.2",
+                    "version": "1.9.0"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-centerrow\/releases\/download\/v1.8.1\/theme-centerrow-v1.8.1.zip",
                 "date": "2025-01-08",
@@ -922,6 +953,21 @@
     "emiglio": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-emiglio\/releases\/download\/v2.4.6\/emiglio-2.4.6.zip",
+                "date": "2025-09-11",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Emiglio",
+                    "description": "Named after our favorite robot. A simple, minimal theme with reds and greens.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.0",
+                    "version": "2.4.6"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-emiglio\/releases\/download\/v2.4.5\/emiglio-2.4.5.zip",
                 "date": "2023-04-05",
                 "info": {
@@ -1045,6 +1091,21 @@
     },
     "foundation": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-foundation-classic\/releases\/download\/v1.5.0\/foundation-1.5.0.zip",
+                "date": "2025-09-30",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Foundation",
+                    "description": "A starter theme using the ZURB Foundation toolkit.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_target_version": "3.2",
+                    "version": "1.5.0"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-foundation-classic\/releases\/download\/v1.4.0\/theme-foundation-classic-v1.4.0.zip",
                 "date": "2024-11-21",
@@ -1467,6 +1528,22 @@
     "rhythm": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/theme-rhythm\/releases\/download\/v2.4.5\/rhythm-2.4.5.zip",
+                "date": "2025-09-23",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Rhythm",
+                    "description": "An energetic two-column theme, with different style sheet options",
+                    "license": "GPL",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/omeka.org\/forums\/forum\/themes-and-public-display",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.4.5",
+                    "tags": "lines, sans-serif, configuration"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/theme-rhythm\/releases\/download\/v2.4.4\/theme-rhythm-v2.4.4.zip",
                 "date": "2025-01-07",
                 "info": {
@@ -1598,6 +1675,21 @@
     },
     "santa-fe": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-santa-fe\/releases\/download\/v2.6.3\/santa-fe-2.6.3.zip",
+                "date": "2025-09-24",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "Santa Fe",
+                    "description": "Theme based on the Bracero History Archive.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org\/classic\/themes\/santa-fe",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/themes\/",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "2.6.3"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-santa-fe\/releases\/download\/v2.6.1\/santa-fe-2.6.1.zip",
                 "date": "2023-03-24",
@@ -1885,6 +1977,21 @@
     },
     "thedaily": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/theme-thedaily\/releases\/download\/v1.6.4\/thedaily-1.6.4.zip",
+                "date": "2025-09-30",
+                "info": {
+                    "author": "Omeka Team",
+                    "title": "The Daily",
+                    "description": "Image-oriented theme for Omeka.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/omeka.org",
+                    "support_link": "https:\/\/github.com\/omeka\/theme-thedaily\/wiki",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_tested_up_to": "3.2",
+                    "version": "1.6.4"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/theme-thedaily\/releases\/download\/v1.6.2\/thedaily-1.6.2.zip",
                 "date": "2023-03-24",
