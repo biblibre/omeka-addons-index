@@ -6156,6 +6156,25 @@
             }
         ]
     },
+    "ThumbnailFixer": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/theanik\/ThumbnailFixer\/releases\/download\/v1.0.0\/ThumbnailFixer-v1.0.0.zip",
+                "date": "2025-12-01",
+                "info": {
+                    "name": "ThumbnailFixer",
+                    "description": "Regenerates missing thumbnails for PDF files.",
+                    "author": "Anwar Hossain",
+                    "version": "1.0",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/theanik\/ThumbnailFixer",
+                    "support_link": "https:\/\/github.com\/theanik\/ThumbnailFixer\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.0"
+                }
+            }
+        ]
+    },
     "Timeline": {
         "versions": [
             {
