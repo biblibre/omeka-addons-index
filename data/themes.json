@@ -1310,6 +1310,21 @@
     "maobjects": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/UB-Mannheim\/theme-maobjects\/releases\/download\/maobjects-v2.1\/MAObjects-v2.1.zip",
+                "date": "2025-12-10",
+                "info": {
+                    "author": "Mannheim University Library",
+                    "title": "MAObjects",
+                    "description": "Omeka theme for MAObjects.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/www.bib.uni-mannheim.de",
+                    "support_link": "https:\/\/github.com\/UB-Mannheim",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_tested_up_to": "3.2",
+                    "version": "2.1"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/UB-Mannheim\/theme-maobjects\/releases\/download\/v2.0.1\/MAObjects-v2.0.1.zip",
                 "date": "2025-06-05",
                 "info": {
@@ -1508,6 +1523,21 @@
     },
     "nikephoros": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/UB-Mannheim\/theme-maobjects-nikephoros\/releases\/download\/nikephoros-v1.2\/Nikephoros-v1.2.zip",
+                "date": "2025-12-10",
+                "info": {
+                    "author": "Mannheim University Library",
+                    "title": "Nikephoros",
+                    "description": "Omeka theme for bibliographical databases like Nikephoros.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/www.bib.uni-mannheim.de",
+                    "support_link": "https:\/\/github.com\/UB-Mannheim",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_tested_up_to": "3.2",
+                    "version": "1.2"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/UB-Mannheim\/theme-maobjects-nikephoros\/releases\/download\/v1.0\/nikephoros-v1.0.zip",
                 "date": "2025-06-05",
