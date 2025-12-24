@@ -5377,6 +5377,36 @@
     "SearchByMetadata": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-SearchByMetadata\/releases\/download\/v1.2.3\/SearchByMetadata-1.2.3.zip",
+                "date": "2025-12-23",
+                "info": {
+                    "name": "Search by Metadata",
+                    "author": "Omeka Team",
+                    "description": "Allows administrators to configure metadata fields to link to items with same field value",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/SearchByMetadata\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.2",
+                    "version": "1.2.3"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-SearchByMetadata\/releases\/download\/v1.2.2\/SearchByMetadata-1.2.2.zip",
+                "date": "2025-12-23",
+                "info": {
+                    "name": "Search by Metadata",
+                    "author": "Omeka Team",
+                    "description": "Allows administrators to configure metadata fields to link to items with same field value",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/SearchByMetadata\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.2",
+                    "version": "1.2.2"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-SearchByMetadata\/releases\/download\/v1.2.1\/SearchByMetadata-1.2.1.zip",
                 "date": "2015-11-02",
                 "info": {
