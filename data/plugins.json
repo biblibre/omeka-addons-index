@@ -66,6 +66,21 @@
     "AdminTools": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools\/releases\/download\/v2.0\/AdminTools.zip",
+                "date": "2026-02-09",
+                "info": {
+                    "name": "Admin Tools",
+                    "author": "Daniele Binaghi et al.",
+                    "description": "Various administrative tools, previously available in different minor plugins.",
+                    "version": "2.0",
+                    "license": "CeCILL v2.1",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools\/issues",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.1.2"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-AdminTools\/releases\/download\/v1.12\/AdminTools.zip",
                 "date": "2026-02-07",
                 "info": {
