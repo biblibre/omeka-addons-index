@@ -993,6 +993,20 @@
     "CollectionsPlus": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus\/releases\/download\/v1.5\/CollectionsPlus.zip",
+                "date": "2026-03-05",
+                "info": {
+                    "name": "Collections Plus",
+                    "author": "Daniele Binaghi",
+                    "description": "Improves the Collection browsing admin interface and allows for further customization of single Collections.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus\/issues",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.1",
+                    "version": "1.5"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-CollectionsPlus\/releases\/download\/v1.4\/CollectionsPlus.zip",
                 "date": "2025-02-19",
                 "info": {
@@ -1513,6 +1527,25 @@
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.2",
                     "tags": "import, csv"
+                }
+            }
+        ]
+    },
+    "CustomCitation": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/CustomCitation\/releases\/download\/v2.0\/CustomCitation.zip",
+                "date": "2026-03-04",
+                "info": {
+                    "name": "Custom Citation",
+                    "author": "Daniele Binaghi",
+                    "description": "Formats item citations according to different academic and editorial styles: APA, Chicago\/Turabian, Harvard, IEEE, MLA, Wikipedia.",
+                    "version": "2.0",
+                    "license": "GPLv3",
+                    "link": "https:\/\/github.com\/DBinaghi\/CustomCitation\/",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/CustomCitation\/issues",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_target_version": "3.1"
                 }
             }
         ]
@@ -6712,40 +6745,6 @@
                     "omeka_target_version": "3.1.2",
                     "tags": "map, tour",
                     "required_plugins": "Geolocation"
-                }
-            }
-        ]
-    },
-    "WikipediaCitations": {
-        "versions": [
-            {
-                "url": "https:\/\/github.com\/DBinaghi\/plugin-WikipediaCitations\/releases\/download\/v1.2\/WikipediaCitations.zip",
-                "date": "2026-01-11",
-                "info": {
-                    "name": "Wikipedia Citations",
-                    "author": "Daniele Binaghi",
-                    "description": "Formats citations according to Wikipedia guidelines",
-                    "version": "1.2",
-                    "license": "GPLv3",
-                    "link": "https:\/\/github.com\/DBinaghi\/plugin-WikipediaCitations",
-                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-WikipediaCitations\/issues",
-                    "omeka_minimum_version": "2.0",
-                    "omeka_target_version": "2.4"
-                }
-            },
-            {
-                "url": "https:\/\/github.com\/DBinaghi\/plugin-WikipediaCitations\/releases\/download\/v1.1\/WikipediaCitations.zip",
-                "date": "2022-08-10",
-                "info": {
-                    "name": "Wikipedia Citations",
-                    "author": "Daniele Binaghi",
-                    "description": "Formats citations according to Wikipedia guidelines",
-                    "version": "1.1",
-                    "license": "GPLv3",
-                    "link": "https:\/\/github.com\/DBinaghi\/plugin-WikipediaCitations",
-                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-WikipediaCitations\/issues",
-                    "omeka_minimum_version": "2.0",
-                    "omeka_target_version": "2.4"
                 }
             }
         ]
