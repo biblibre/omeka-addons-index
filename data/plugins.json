@@ -749,6 +749,21 @@
     "ClickableLinksPlus": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/releases\/download\/v1.6\/ClickableLinksPlus.zip",
+                "date": "2026-03-06",
+                "info": {
+                    "name": "Clickable Links Plus",
+                    "author": "Daniele Binaghi",
+                    "description": "Turns URLs in non-HTML text fields into clickable hyperlinks.",
+                    "version": "1.6",
+                    "license": "CeCILL v2.1",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.5"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-ClickableLinksPlus\/releases\/download\/v1.5\/ClickableLinksPlus.zip",
                 "date": "2025-03-02",
                 "info": {
@@ -2198,6 +2213,20 @@
     },
     "EmailNotification": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/EmailNotification\/releases\/download\/v1.6\/EmailNotification.zip",
+                "date": "2026-03-06",
+                "info": {
+                    "name": "E-mail Notification",
+                    "author": "Daniele Binaghi",
+                    "description": "Send e-mail notification when new Item or Collection or Exhibit is added.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.6",
+                    "tags": "new item, new collection, new exhibit, e-mail notification"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/DBinaghi\/EmailNotification\/releases\/download\/v1.5\/EmailNotification.zip",
                 "date": "2025-08-26",
