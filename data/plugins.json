@@ -2339,6 +2339,22 @@
     "ExhibitBuilder": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.9\/ExhibitBuilder-3.9.zip",
+                "date": "2026-03-16",
+                "info": {
+                    "name": "Exhibit Builder",
+                    "author": "Omeka Team",
+                    "description": "Build rich exhibits using Omeka.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitBuilder\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_target_version": "3.2",
+                    "version": "3.9",
+                    "tags": "exhibit, pages, presentation"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.8\/ExhibitBuilder-3.8.zip",
                 "date": "2025-08-28",
                 "info": {
