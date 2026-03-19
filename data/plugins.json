@@ -1,4 +1,24 @@
 {
+    "ActivityLog": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-ActivityLog\/releases\/download\/v1.0\/ActivityLog-1.0.zip",
+                "date": "2026-03-11",
+                "info": {
+                    "name": "Activity Log",
+                    "author": "Omeka Team",
+                    "description": "Monitor user activity",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/ActivityLog",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "1.0",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_target_version": "3.2",
+                    "tags": ""
+                }
+            }
+        ]
+    },
     "AdminImages": {
         "versions": [
             {
@@ -2727,6 +2747,26 @@
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.4",
                     "tags": "export"
+                }
+            }
+        ]
+    },
+    "Exports": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-Exports\/releases\/download\/v1.0\/Exports-1.0.zip",
+                "date": "2026-03-16",
+                "info": {
+                    "name": "Exports",
+                    "author": "Omeka Team",
+                    "description": "Export records and more",
+                    "license": "GPLv3",
+                    "link": "http:\/\/omeka.org\/codex\/Plugins\/Exports",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "1.0",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_target_version": "3.2",
+                    "tags": ""
                 }
             }
         ]
