@@ -2359,6 +2359,22 @@
     "ExhibitBuilder": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.10\/ExhibitBuilder-3.10.zip",
+                "date": "2026-04-20",
+                "info": {
+                    "name": "Exhibit Builder",
+                    "author": "Omeka Team",
+                    "description": "Build rich exhibits using Omeka.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitBuilder\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_target_version": "3.2",
+                    "version": "3.10",
+                    "tags": "exhibit, pages, presentation"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.9\/ExhibitBuilder-3.9.zip",
                 "date": "2026-03-16",
                 "info": {
@@ -5899,6 +5915,21 @@
     "SimplePages": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.3.0\/SimplePages-3.3.0.zip",
+                "date": "2026-04-20",
+                "info": {
+                    "name": "Simple Pages",
+                    "author": "Omeka Team",
+                    "description": "Allows administrators to create simple web pages for their public site.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/SimplePages\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0",
+                    "version": "3.3.0"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.2.1\/SimplePages-3.2.1.zip",
                 "date": "2022-03-01",
                 "info": {
@@ -6275,6 +6306,25 @@
                     "omeka_minimum_version": "2.0",
                     "omeka_target_version": "2.0",
                     "tags": "social, syndication"
+                }
+            }
+        ]
+    },
+    "StaticSiteExport": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-StaticSiteExport\/releases\/download\/v1.0\/StaticSiteExport-1.0.zip",
+                "date": "2026-04-20",
+                "info": {
+                    "name": "Static Site Export",
+                    "author": "Omeka Team",
+                    "description": "Export static sites.",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/StaticSiteExport\/",
+                    "version": "1.0",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "license": "GPL",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_target_version": "3.0"
                 }
             }
         ]
