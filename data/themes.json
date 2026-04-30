@@ -738,6 +738,474 @@
             }
         ]
     },
+    "curatescape-echo": {
+        "versions": [
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/2.0.3\/theme-curatescape-echo-2.0.3.zip",
+                "date": "2026-04-17",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Recommended theme for Curatescape projects. Use of Curatescape Stories & Tours and Curatescape SEO companion plugins is strongly recommended.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.2",
+                    "version": "2.0.3",
+                    "tags": "Curatescape, map, tour, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/2.0.2\/theme-curatescape-echo-2.0.2.zip",
+                "date": "2026-04-10",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Recommended theme for Curatescape projects. Use of Curatescape Stories & Tours and Curatescape SEO companion plugins is strongly recommended.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.2",
+                    "version": "2.0.2",
+                    "tags": "Curatescape, map, tour, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/2.0.1\/curatescape-echo-2.0.1.zip",
+                "date": "2026-03-23",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Recommended theme for Curatescape projects. Use of Curatescape Stories & Tours and Curatescape SEO companion plugins is strongly recommended.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.2",
+                    "version": "2.0.1",
+                    "tags": "Curatescape, map, tour, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.5.81\/curatescape-echo.zip",
+                "date": "2025-05-06",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5.81",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.5.8\/curatescape-echo.zip",
+                "date": "2025-02-18",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5.8",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.5.7\/curatescape-echo.zip",
+                "date": "2025-01-08",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5.7",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.5.6\/curatescape-echo.zip",
+                "date": "2024-10-29",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5.6",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.5.5\/curatescape-echo.zip",
+                "date": "2024-09-20",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5.5",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.5.4\/curatescape-echo.zip",
+                "date": "2024-07-29",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5.4",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.5.3\/curatescape-echo.zip",
+                "date": "2024-07-24",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5.3",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.5.2\/curatescape-echo.zip",
+                "date": "2024-07-05",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5.2",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.5.1\/curatescape-echo.zip",
+                "date": "2024-06-11",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5.1",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.5\/curatescape-echo.zip",
+                "date": "2024-04-02",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.5",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.4.8\/curatescape-echo.zip",
+                "date": "2024-01-02",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.4.8",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.4.7\/curatescape-echo.zip",
+                "date": "2023-12-11",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.4.7",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.4.5\/curatescape-echo.zip",
+                "date": "2023-12-07",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.4.5",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.4.4\/curatescape-echo.zip",
+                "date": "2023-11-30",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.4.4",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.4.3\/curatescape-echo.zip",
+                "date": "2023-10-13",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.4.3",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.4.2\/curatescape-echo.zip",
+                "date": "2023-10-09",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1",
+                    "version": "1.4.2",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.4.1\/curatescape-echo.zip",
+                "date": "2023-08-02",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1",
+                    "version": "1.4.1",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.4\/curatescape-echo.zip",
+                "date": "2023-06-29",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1",
+                    "version": "1.4",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.3.2\/curatescape-echo.zip",
+                "date": "2023-06-01",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1",
+                    "version": "1.3.2",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.3.1\/curatescape-echo.zip",
+                "date": "2023-01-10",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1",
+                    "version": "1.3.1",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.3\/curatescape-echo.zip",
+                "date": "2023-01-03",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.1",
+                    "version": "1.3",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story, dark mode"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.2.2\/curatescape-echo.zip",
+                "date": "2022-11-09",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.0.2",
+                    "version": "1.2.2",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.2.1\/curatescape-echo.zip",
+                "date": "2022-11-08",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.0.2",
+                    "version": "1.2.1",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.1.3\/curatescape-echo.zip",
+                "date": "2022-09-02",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.0.2",
+                    "version": "1.1.3",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.1.1\/curatescape-echo.zip",
+                "date": "2022-06-28",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.0.2",
+                    "version": "1.1.1",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story"
+                }
+            },
+            {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/2.0\/curatescape-echo-2.0.zip",
+                "date": "2026-03-10",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Theme for Curatescape projects. Requires additional plugins.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "http:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_tested_up_to": "3.0.1",
+                    "version": "1.0",
+                    "tags": "Curatescape, mobile, responsive, app, map, tour, story"
+                }
+            }
+        ]
+    },
     "default": {
         "versions": [
             {
