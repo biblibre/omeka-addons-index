@@ -1300,6 +1300,24 @@
     "Contribution": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-Contribution\/releases\/download\/v3.4.1\/Contribution-3.4.1.zip",
+                "date": "2026-05-06",
+                "info": {
+                    "name": "Contribution",
+                    "author": "Omeka Team",
+                    "description": "Allows collecting items from visitors",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Contribution\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins\/",
+                    "omeka_minimum_version": "3.2",
+                    "omeka_target_version": "3.2",
+                    "version": "3.4.1",
+                    "tags": "social, items",
+                    "license": "GPLv3",
+                    "required_plugins": "GuestUser",
+                    "optional_plugins": "UserProfiles"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-Contribution\/releases\/download\/v3.3\/Contribution-3.3.zip",
                 "date": "2021-09-21",
                 "info": {
@@ -1315,22 +1333,6 @@
                     "license": "GPLv3",
                     "required_plugins": "GuestUser",
                     "optional_plugins": "UserProfiles"
-                }
-            },
-            {
-                "url": "https:\/\/github.com\/omeka\/plugin-Contribution\/releases\/download\/v3.4\/Contribution-3.4.zip",
-                "date": "2025-09-18",
-                "info": {
-                    "name": "Contribution",
-                    "author": "Omeka Team",
-                    "description": "Allows collecting items from visitors",
-                    "link": "https:\/\/info.omeka.net\/build-a-website\/manage-plugins\/contribution\/",
-                    "support_link": "http:\/\/omeka.org\/forums\/forum\/plugins",
-                    "omeka_minimum_version": "2.0",
-                    "omeka_target_version": "2.3",
-                    "version": "3.2.1",
-                    "tags": "social, items",
-                    "license": "GPLv3"
                 }
             },
             {
@@ -5574,6 +5576,21 @@
     },
     "RelatedContent": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/releases\/download\/v3.01\/RelatedContent.zip",
+                "date": "2026-05-04",
+                "info": {
+                    "name": "Related Content",
+                    "author": "Daniele Binaghi",
+                    "description": "Suggests Items related to the one currently shown.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_target_version": "2.8",
+                    "version": "3.01",
+                    "license": "GPLv3"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-RelatedContent\/releases\/download\/v3.0\/RelatedContent.zip",
                 "date": "2026-03-04",
