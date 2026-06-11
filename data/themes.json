@@ -741,6 +741,22 @@
     "curatescape-echo": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/2.0.4\/theme-curatescape-echo-2.0.4.zip",
+                "date": "2026-06-09",
+                "info": {
+                    "author": "Center for Public History + Digital Humanities",
+                    "title": "Curatescape Echo",
+                    "description": "Recommended theme for Curatescape projects. Use of Curatescape Stories & Tours and Curatescape SEO companion plugins is strongly recommended.",
+                    "license": "GPL",
+                    "website": "https:\/\/curatescape.org",
+                    "support_link": "https:\/\/forum.curatescape.org",
+                    "omeka_minimum_version": "3.0",
+                    "omeka_tested_up_to": "3.2",
+                    "version": "2.0.4",
+                    "tags": "Curatescape, map, tour, dark mode"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/2.0.3\/theme-curatescape-echo-2.0.3.zip",
                 "date": "2026-04-17",
                 "info": {
@@ -1169,22 +1185,6 @@
                     "omeka_minimum_version": "2.8",
                     "omeka_tested_up_to": "3.0.2",
                     "version": "1.1.3",
-                    "tags": "Curatescape, mobile, responsive, app, map, tour, story"
-                }
-            },
-            {
-                "url": "https:\/\/github.com\/CPHDH\/theme-curatescape-echo\/releases\/download\/1.1.1\/curatescape-echo.zip",
-                "date": "2022-06-28",
-                "info": {
-                    "author": "Center for Public History + Digital Humanities",
-                    "title": "Curatescape Echo",
-                    "description": "Theme for Curatescape projects. Requires additional plugins.",
-                    "license": "GPL",
-                    "website": "https:\/\/curatescape.org",
-                    "support_link": "https:\/\/forum.curatescape.org",
-                    "omeka_minimum_version": "2.8",
-                    "omeka_tested_up_to": "3.0.2",
-                    "version": "1.1.1",
                     "tags": "Curatescape, mobile, responsive, app, map, tour, story"
                 }
             },
