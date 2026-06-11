@@ -1571,6 +1571,23 @@
     "Curatescape": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/CPHDH\/Curatescape\/releases\/download\/1.0.9\/Curatescape-1.0.9.zip",
+                "date": "2026-06-10",
+                "info": {
+                    "name": "Curatescape Stories & Tours",
+                    "author": "CSU Center for Public History + Digital Humanities",
+                    "description": "The primary Curatescape plugin, adds a variety of advanced features to facilitate location-based narrative storytelling and walking tours, custom maps, enhanced RSS feeds, Curatescape mobile app API, and more.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/curatescape.org\/",
+                    "support_link": "https:\/\/forum.curatescape.org\/",
+                    "omeka_minimum_version": "3.1.2",
+                    "omeka_target_version": "3.2",
+                    "version": "1.0.9",
+                    "tags": "hooks, filters, curatescape, maps, geolocation",
+                    "required_plugins": "Geolocation"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/CPHDH\/Curatescape\/releases\/download\/1.0.8\/Curatescape-1.0.8.zip",
                 "date": "2026-06-09",
                 "info": {
@@ -3233,6 +3250,21 @@
     },
     "Geolocation": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-Geolocation\/releases\/download\/v3.3\/Geolocation-3.3.zip",
+                "date": "2026-06-10",
+                "info": {
+                    "name": "Geolocation",
+                    "author": "Omeka Team",
+                    "description": "Adds location info and maps to Omeka",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/Geolocation\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "2.5",
+                    "omeka_target_version": "3.0",
+                    "version": "3.3"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-Geolocation\/releases\/download\/v3.2.3\/Geolocation-3.2.3.zip",
                 "date": "2022-12-21",
