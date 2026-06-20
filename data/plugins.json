@@ -2591,6 +2591,22 @@
     "ExhibitBuilder": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.10.1\/ExhibitBuilder-3.10.1.zip",
+                "date": "2026-06-17",
+                "info": {
+                    "name": "Exhibit Builder",
+                    "author": "Omeka Team",
+                    "description": "Build rich exhibits using Omeka.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/ExhibitBuilder\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.2.1",
+                    "omeka_target_version": "3.2.1",
+                    "version": "3.10.1",
+                    "tags": "exhibit, pages, presentation"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-ExhibitBuilder\/releases\/download\/v3.10\/ExhibitBuilder-3.10.zip",
                 "date": "2026-04-20",
                 "info": {
@@ -6205,6 +6221,21 @@
     },
     "SimplePages": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.3.1\/SimplePages-3.3.1.zip",
+                "date": "2026-06-17",
+                "info": {
+                    "name": "Simple Pages",
+                    "author": "Omeka Team",
+                    "description": "Allows administrators to create simple web pages for their public site.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/SimplePages\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "omeka_minimum_version": "3.2.1",
+                    "omeka_target_version": "3.2.1",
+                    "version": "3.3.1"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/omeka\/plugin-SimplePages\/releases\/download\/v3.3.0\/SimplePages-3.3.0.zip",
                 "date": "2026-04-20",
