@@ -1823,6 +1823,21 @@
     "maobjects": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/UB-Mannheim\/theme-maobjects\/releases\/download\/maobjects-v3.1\/MAObjects-v3.1.zip",
+                "date": "2026-07-24",
+                "info": {
+                    "author": "Mannheim University Library",
+                    "title": "MAObjects",
+                    "description": "Heavy customizable Omeka Classic theme for MAObjects, built to present digital collections, objects, and virtual exhibitions in the University of Mannheim\u2019s visual design.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/www.bib.uni-mannheim.de",
+                    "support_link": "https:\/\/github.com\/UB-Mannheim",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_tested_up_to": "3.2.1",
+                    "version": "3.1"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/UB-Mannheim\/theme-maobjects\/releases\/download\/maobjects-v2.1\/MAObjects-v2.1.zip",
                 "date": "2025-12-10",
                 "info": {
@@ -2036,6 +2051,21 @@
     },
     "nikephoros": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/UB-Mannheim\/theme-maobjects-nikephoros\/releases\/download\/nikephoros-v1.3\/nikephoros-v1.3.zip",
+                "date": "2026-07-24",
+                "info": {
+                    "author": "Mannheim University Library",
+                    "title": "Nikephoros",
+                    "description": "Heavy customizable Omeka Classic theme for bibliographical databases like Nikephoros based on MAObjects, built to present digital collections, objects, and virtual exhibitions in the University of Mannheim\u2019s visual design.",
+                    "license": "GPLv3",
+                    "website": "https:\/\/www.bib.uni-mannheim.de",
+                    "support_link": "https:\/\/github.com\/UB-Mannheim",
+                    "omeka_minimum_version": "3.1",
+                    "omeka_tested_up_to": "3.2.1",
+                    "version": "1.3"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/UB-Mannheim\/theme-maobjects-nikephoros\/releases\/download\/nikephoros-v1.2\/Nikephoros-v1.2.zip",
                 "date": "2025-12-10",
