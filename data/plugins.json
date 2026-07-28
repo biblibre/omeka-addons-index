@@ -6707,6 +6707,19 @@
     "TagsPlus": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/plugin-TagsPlus\/releases\/download\/v1.2\/TagsPlus.zip",
+                "date": "2026-07-26",
+                "info": {
+                    "name": "TagsPlus",
+                    "author": "Daniele Binaghi",
+                    "description": "Enhanced tag management for Omeka Classic: improved browse interface with inline editing, merge, and similar tag detection.",
+                    "license": "CeCILL v2.1",
+                    "website": "https:\/\/github.com\/DBinaghi\/plugin-TagsPlus",
+                    "version": "1.2",
+                    "omeka_minimum_version": "2.0"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/plugin-TagsPlus\/releases\/download\/v1.0\/TagsPlus.zip",
                 "date": "2026-03-13",
                 "info": {
