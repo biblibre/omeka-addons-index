@@ -2499,6 +2499,20 @@
     "EmailNotification": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/DBinaghi\/EmailNotification\/releases\/download\/v1.7\/EmailNotification.zip",
+                "date": "2026-07-29",
+                "info": {
+                    "name": "E-mail Notification",
+                    "author": "Daniele Binaghi",
+                    "description": "Send e-mail notification when new Item or Collection or Exhibit is added.",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-EmailNotification",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "3.1.2",
+                    "version": "1.7",
+                    "tags": "new item, new collection, new exhibit, e-mail notification"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/DBinaghi\/EmailNotification\/releases\/download\/v1.6\/EmailNotification.zip",
                 "date": "2026-03-06",
                 "info": {
@@ -4018,6 +4032,21 @@
     },
     "ItemDuplicator": {
         "versions": [
+            {
+                "url": "https:\/\/github.com\/DBinaghi\/ItemDuplicator\/releases\/download\/v1.5\/ItemDuplicator.zip",
+                "date": "2026-07-29",
+                "info": {
+                    "name": "Item Duplicator",
+                    "author": "Daniele Binaghi",
+                    "description": "Allows to duplicate individual Items, reducing editing times",
+                    "link": "https:\/\/github.com\/DBinaghi\/plugin-ItemDuplicator",
+                    "support_link": "https:\/\/github.com\/DBinaghi\/plugin-ItemDuplicator\/issues",
+                    "omeka_minimum_version": "2.0",
+                    "omeka_tested_up_to": "3.2.1",
+                    "version": "1.5",
+                    "tags": "new item, edit item, duplicate item"
+                }
+            },
             {
                 "url": "https:\/\/github.com\/DBinaghi\/ItemDuplicator\/releases\/download\/v1.4\/ItemDuplicator.zip",
                 "date": "2022-05-15",
