@@ -1024,6 +1024,22 @@
     "CollectionTree": {
         "versions": [
             {
+                "url": "https:\/\/github.com\/omeka\/plugin-CollectionTree\/releases\/download\/v2.2\/CollectionTree-2.2.zip",
+                "date": "2026-10-01",
+                "info": {
+                    "name": "Collection Tree",
+                    "author": "Omeka Team",
+                    "description": "Gives administrators the ability to create a hierarchical tree of their collections.",
+                    "license": "GPLv3",
+                    "link": "https:\/\/omeka.org\/classic\/docs\/Plugins\/CollectionTree\/",
+                    "support_link": "https:\/\/forum.omeka.org\/c\/omeka-classic\/plugins",
+                    "version": "2.2",
+                    "omeka_minimum_version": "2.8",
+                    "omeka_target_version": "3.2",
+                    "tags": "tree,collections,subcollections"
+                }
+            },
+            {
                 "url": "https:\/\/github.com\/omeka\/plugin-CollectionTree\/releases\/download\/v2.1\/CollectionTree-2.1.zip",
                 "date": "2017-01-13",
                 "info": {
